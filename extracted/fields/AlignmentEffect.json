@@ -1,0 +1,23 @@
+[
+	{
+		"memberName": "AlignmentEffect",
+		"packageName": "com.ankamagames.dofus.datacenter.alignments",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "characteristicId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "descriptionId",
+				"type": "I18N",
+				"vectorTypes": false
+			}
+		]
+	}
+]

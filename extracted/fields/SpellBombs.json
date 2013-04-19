@@ -1,0 +1,38 @@
+[
+	{
+		"memberName": "SpellBomb",
+		"packageName": "com.ankamagames.dofus.datacenter.spells",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "chainReactionSpellId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "explodSpellId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "wallId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "instantSpellId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "comboCoeff",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	}
+]

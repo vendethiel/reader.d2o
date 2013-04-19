@@ -1,0 +1,33 @@
+[
+	{
+		"memberName": "Url",
+		"packageName": "com.ankamagames.dofus.datacenter.misc",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "browserId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "url",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "param",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "method",
+				"type": "String",
+				"vectorTypes": false
+			}
+		]
+	}
+]

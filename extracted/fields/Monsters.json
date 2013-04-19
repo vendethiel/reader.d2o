@@ -1,0 +1,175 @@
+[
+	{
+		"memberName": "AnimFunMonsterData",
+		"packageName": "com.ankamagames.dofus.datacenter.monsters",
+		"fields": [
+			{
+				"name": "animName",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "animWeight",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	},
+	{
+		"memberName": "MonsterGrade",
+		"packageName": "com.ankamagames.dofus.datacenter.monsters",
+		"fields": [
+			{
+				"name": "grade",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "monsterId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "level",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "lifePoints",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "actionPoints",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "movementPoints",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "paDodge",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "pmDodge",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "wisdom",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "earthResistance",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "airResistance",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "fireResistance",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "waterResistance",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "neutralResistance",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "gradeXp",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	},
+	{
+		"memberName": "Monster",
+		"packageName": "com.ankamagames.dofus.datacenter.monsters",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "gfxId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "race",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "grades",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<com.ankamagames.dofus.datacenter.monsters::MonsterGrade>",
+						"type": 2
+					}
+				]
+			},
+			{
+				"name": "look",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "useSummonSlot",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "useBombSlot",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "canPlay",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "animFunList",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<com.ankamagames.dofus.datacenter.monsters::AnimFunMonsterData>",
+						"type": 1
+					}
+				]
+			},
+			{
+				"name": "canTackle",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "isBoss",
+				"type": "Bool",
+				"vectorTypes": false
+			}
+		]
+	}
+]

@@ -1,0 +1,78 @@
+[
+	{
+		"memberName": "Skill",
+		"packageName": "com.ankamagames.dofus.datacenter.jobs",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "parentJobId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "isForgemagus",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "modifiableItemType",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "gatheredRessourceItem",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "craftableItemIds",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<int>",
+						"type": "Int"
+					}
+				]
+			},
+			{
+				"name": "interactiveId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "useAnimation",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "isRepair",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "cursor",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "availableInHouse",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "levelMin",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	}
+]

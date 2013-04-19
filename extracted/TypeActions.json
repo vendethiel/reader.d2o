@@ -1,0 +1,407 @@
+[
+	{
+		"id": 81,
+		"elementName": "none",
+		"elementId": 5
+	},
+	{
+		"id": 82,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 85,
+		"elementName": "water",
+		"elementId": 3
+	},
+	{
+		"id": 86,
+		"elementName": "earth",
+		"elementId": 1
+	},
+	{
+		"id": 87,
+		"elementName": "air",
+		"elementId": 4
+	},
+	{
+		"id": 88,
+		"elementName": "fire",
+		"elementId": 2
+	},
+	{
+		"id": 89,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 91,
+		"elementName": "water",
+		"elementId": 3
+	},
+	{
+		"id": 92,
+		"elementName": "earth",
+		"elementId": 1
+	},
+	{
+		"id": 93,
+		"elementName": "air",
+		"elementId": 4
+	},
+	{
+		"id": 94,
+		"elementName": "fire",
+		"elementId": 2
+	},
+	{
+		"id": 95,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 96,
+		"elementName": "water",
+		"elementId": 3
+	},
+	{
+		"id": 97,
+		"elementName": "earth",
+		"elementId": 1
+	},
+	{
+		"id": 98,
+		"elementName": "air",
+		"elementId": 4
+	},
+	{
+		"id": 99,
+		"elementName": "fire",
+		"elementId": 2
+	},
+	{
+		"id": 100,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 108,
+		"elementName": "fire",
+		"elementId": 2
+	},
+	{
+		"id": 112,
+		"elementName": "none",
+		"elementId": 5
+	},
+	{
+		"id": 118,
+		"elementName": "earth",
+		"elementId": 1
+	},
+	{
+		"id": 119,
+		"elementName": "air",
+		"elementId": 4
+	},
+	{
+		"id": 123,
+		"elementName": "water",
+		"elementId": 3
+	},
+	{
+		"id": 126,
+		"elementName": "fire",
+		"elementId": 2
+	},
+	{
+		"id": 138,
+		"elementName": "none",
+		"elementId": 5
+	},
+	{
+		"id": 143,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 144,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 152,
+		"elementName": "water",
+		"elementId": 3
+	},
+	{
+		"id": 154,
+		"elementName": "air",
+		"elementId": 4
+	},
+	{
+		"id": 155,
+		"elementName": "fire",
+		"elementId": 2
+	},
+	{
+		"id": 157,
+		"elementName": "earth",
+		"elementId": 1
+	},
+	{
+		"id": 186,
+		"elementName": "none",
+		"elementId": 5
+	},
+	{
+		"id": 225,
+		"elementName": "none",
+		"elementId": 5
+	},
+	{
+		"id": 245,
+		"elementName": "earth",
+		"elementId": 1
+	},
+	{
+		"id": 275,
+		"elementName": "water",
+		"elementId": 3
+	},
+	{
+		"id": 276,
+		"elementName": "earth",
+		"elementId": 1
+	},
+	{
+		"id": 277,
+		"elementName": "air",
+		"elementId": 4
+	},
+	{
+		"id": 278,
+		"elementName": "fire",
+		"elementId": 2
+	},
+	{
+		"id": 279,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 414,
+		"elementName": "none",
+		"elementId": 5
+	},
+	{
+		"id": 416,
+		"elementName": "none",
+		"elementId": 5
+	},
+	{
+		"id": 418,
+		"elementName": "none",
+		"elementId": 5
+	},
+	{
+		"id": 420,
+		"elementName": "none",
+		"elementId": 5
+	},
+	{
+		"id": 422,
+		"elementName": "earth",
+		"elementId": 1
+	},
+	{
+		"id": 424,
+		"elementName": "fire",
+		"elementId": 2
+	},
+	{
+		"id": 426,
+		"elementName": "water",
+		"elementId": 3
+	},
+	{
+		"id": 428,
+		"elementName": "air",
+		"elementId": 4
+	},
+	{
+		"id": 430,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 670,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 671,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 672,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 1012,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 1013,
+		"elementName": "air",
+		"elementId": 4
+	},
+	{
+		"id": 1014,
+		"elementName": "water",
+		"elementId": 3
+	},
+	{
+		"id": 1015,
+		"elementName": "fire",
+		"elementId": 2
+	},
+	{
+		"id": 1016,
+		"elementName": "earth",
+		"elementId": 1
+	},
+	{
+		"id": 1037,
+		"elementName": "fire",
+		"elementId": 2
+	},
+	{
+		"id": 1063,
+		"elementName": "earth",
+		"elementId": 1
+	},
+	{
+		"id": 1064,
+		"elementName": "air",
+		"elementId": 4
+	},
+	{
+		"id": 1065,
+		"elementName": "water",
+		"elementId": 3
+	},
+	{
+		"id": 1066,
+		"elementName": "fire",
+		"elementId": 2
+	},
+	{
+		"id": 1067,
+		"elementName": "air",
+		"elementId": 4
+	},
+	{
+		"id": 1068,
+		"elementName": "water",
+		"elementId": 3
+	},
+	{
+		"id": 1069,
+		"elementName": "fire",
+		"elementId": 2
+	},
+	{
+		"id": 1070,
+		"elementName": "earth",
+		"elementId": 1
+	},
+	{
+		"id": 1071,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 1092,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 1093,
+		"elementName": "air",
+		"elementId": 4
+	},
+	{
+		"id": 1094,
+		"elementName": "fire",
+		"elementId": 2
+	},
+	{
+		"id": 1095,
+		"elementName": "water",
+		"elementId": 3
+	},
+	{
+		"id": 1096,
+		"elementName": "earth",
+		"elementId": 1
+	},
+	{
+		"id": 1109,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 1118,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 1119,
+		"elementName": "air",
+		"elementId": 4
+	},
+	{
+		"id": 1120,
+		"elementName": "fire",
+		"elementId": 2
+	},
+	{
+		"id": 1121,
+		"elementName": "water",
+		"elementId": 3
+	},
+	{
+		"id": 1122,
+		"elementName": "earth",
+		"elementId": 1
+	},
+	{
+		"id": 1124,
+		"elementName": "neutral",
+		"elementId": 0
+	},
+	{
+		"id": 1125,
+		"elementName": "air",
+		"elementId": 4
+	},
+	{
+		"id": 1126,
+		"elementName": "fire",
+		"elementId": 2
+	},
+	{
+		"id": 1127,
+		"elementName": "water",
+		"elementId": 3
+	},
+	{
+		"id": 1128,
+		"elementName": "earth",
+		"elementId": 1
+	}
+]

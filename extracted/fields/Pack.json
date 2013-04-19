@@ -1,0 +1,23 @@
+[
+	{
+		"memberName": "Pack",
+		"packageName": "com.ankamagames.dofus.datacenter.misc",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "name",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "hasSubAreas",
+				"type": "Bool",
+				"vectorTypes": false
+			}
+		]
+	}
+]

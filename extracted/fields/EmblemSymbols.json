@@ -1,0 +1,38 @@
+[
+	{
+		"memberName": "EmblemSymbol",
+		"packageName": "com.ankamagames.dofus.datacenter.guild",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "skinId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "iconId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "order",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "categoryId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "colorizable",
+				"type": "Bool",
+				"vectorTypes": false
+			}
+		]
+	}
+]

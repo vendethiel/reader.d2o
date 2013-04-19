@@ -1,0 +1,587 @@
+[
+	{
+		"id": 0,
+		"nameId": 3011,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -36,
+			"y": -19,
+			"width": 51,
+			"height": 53
+		}
+	},
+	{
+		"id": 1,
+		"nameId": 3055,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": -14,
+			"width": 28,
+			"height": 15
+		}
+	},
+	{
+		"id": 2,
+		"nameId": 3036,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 36,
+			"height": 12
+		}
+	},
+	{
+		"id": 3,
+		"nameId": 3033,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": -6,
+			"width": 5,
+			"height": 7
+		}
+	},
+	{
+		"id": 4,
+		"nameId": 3040,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -2,
+			"y": -34,
+			"width": 8,
+			"height": 35
+		}
+	},
+	{
+		"id": 5,
+		"nameId": 3044,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 22,
+			"height": 29
+		}
+	},
+	{
+		"id": 6,
+		"nameId": 3046,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -17,
+			"y": -18,
+			"width": 18,
+			"height": 19
+		}
+	},
+	{
+		"id": 7,
+		"nameId": 3026,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -38,
+			"y": -65,
+			"width": 39,
+			"height": 66
+		}
+	},
+	{
+		"id": 8,
+		"nameId": 3052,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -37,
+			"y": -62,
+			"width": 38,
+			"height": 63
+		}
+	},
+	{
+		"id": 11,
+		"nameId": 3014,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -33,
+			"y": 0,
+			"width": 34,
+			"height": 45
+		}
+	},
+	{
+		"id": 12,
+		"nameId": 3051,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -31,
+			"y": 0,
+			"width": 32,
+			"height": 41
+		}
+	},
+	{
+		"id": 13,
+		"nameId": 3037,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -35,
+			"y": -10,
+			"width": 36,
+			"height": 11
+		}
+	},
+	{
+		"id": 14,
+		"nameId": 3050,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -20,
+			"y": -27,
+			"width": 21,
+			"height": 28
+		}
+	},
+	{
+		"id": 15,
+		"nameId": 3023,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -13,
+			"y": -41,
+			"width": 14,
+			"height": 42
+		}
+	},
+	{
+		"id": 18,
+		"nameId": 3012,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -3,
+			"y": -30,
+			"width": 16,
+			"height": 31
+		}
+	},
+	{
+		"id": 19,
+		"nameId": 3035,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": -54,
+			"width": 35,
+			"height": 55
+		}
+	},
+	{
+		"id": 20,
+		"nameId": 3048,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": -29,
+			"width": 26,
+			"height": 30
+		}
+	},
+	{
+		"id": 21,
+		"nameId": 3049,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": -41,
+			"width": 32,
+			"height": 42
+		}
+	},
+	{
+		"id": 22,
+		"nameId": 3013,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": -52,
+			"width": 29,
+			"height": 53
+		}
+	},
+	{
+		"id": 23,
+		"nameId": 3010,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": -40,
+			"width": 20,
+			"height": 41
+		}
+	},
+	{
+		"id": 24,
+		"nameId": 3034,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1,
+			"height": 1
+		}
+	},
+	{
+		"id": 26,
+		"nameId": 3032,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1,
+			"height": 1
+		}
+	},
+	{
+		"id": 27,
+		"nameId": 3021,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1,
+			"height": 1
+		}
+	},
+	{
+		"id": 28,
+		"nameId": 3030,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -23,
+			"y": -13,
+			"width": 24,
+			"height": 34
+		}
+	},
+	{
+		"id": 29,
+		"nameId": 3017,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1,
+			"height": 1
+		}
+	},
+	{
+		"id": 30,
+		"nameId": 3058,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -43,
+			"y": -19,
+			"width": 44,
+			"height": 20
+		}
+	},
+	{
+		"id": 31,
+		"nameId": 3056,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1,
+			"height": 1
+		}
+	},
+	{
+		"id": 32,
+		"nameId": 3016,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1,
+			"height": 1
+		}
+	},
+	{
+		"id": 33,
+		"nameId": 3027,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1,
+			"height": 1
+		}
+	},
+	{
+		"id": 34,
+		"nameId": 3015,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -16,
+			"y": 0,
+			"width": 17,
+			"height": 8
+		}
+	},
+	{
+		"id": 35,
+		"nameId": 3057,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1,
+			"height": 1
+		}
+	},
+	{
+		"id": 36,
+		"nameId": 3039,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1,
+			"height": 1
+		}
+	},
+	{
+		"id": 37,
+		"nameId": 3029,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1,
+			"height": 1
+		}
+	},
+	{
+		"id": 39,
+		"nameId": 3028,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1,
+			"height": 1
+		}
+	},
+	{
+		"id": 40,
+		"nameId": 3024,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1,
+			"height": 1
+		}
+	},
+	{
+		"id": 41,
+		"nameId": 3018,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1,
+			"height": 1
+		}
+	},
+	{
+		"id": 42,
+		"nameId": 3043,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -40,
+			"y": -93,
+			"width": 41,
+			"height": 94
+		}
+	},
+	{
+		"id": 43,
+		"nameId": 3020,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1,
+			"height": 1
+		}
+	},
+	{
+		"id": 44,
+		"nameId": 3019,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1,
+			"height": 1
+		}
+	},
+	{
+		"id": 45,
+		"nameId": 3045,
+		"superAreaId": 3,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -5,
+			"y": -3,
+			"width": 14,
+			"height": 12
+		}
+	},
+	{
+		"id": 46,
+		"nameId": 105626,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -62,
+			"y": -10,
+			"width": 81,
+			"height": 52
+		}
+	},
+	{
+		"id": 47,
+		"nameId": 3047,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -56,
+			"y": 0,
+			"width": 57,
+			"height": 19
+		}
+	},
+	{
+		"id": 48,
+		"nameId": 105627,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -88,
+			"y": -88,
+			"width": 89,
+			"height": 89
+		}
+	},
+	{
+		"id": 49,
+		"nameId": 105628,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -55,
+			"y": -45,
+			"width": 56,
+			"height": 46
+		}
+	},
+	{
+		"id": 50,
+		"nameId": 3053,
+		"superAreaId": 0,
+		"containHouses": true,
+		"containPaddocks": true,
+		"bounds": {
+			"x": -56,
+			"y": 0,
+			"width": 57,
+			"height": 45
+		}
+	}
+]

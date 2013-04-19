@@ -1,0 +1,18 @@
+[
+	{
+		"memberName": "Tips",
+		"packageName": "com.ankamagames.dofus.datacenter.misc",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "descId",
+				"type": "I18N",
+				"vectorTypes": false
+			}
+		]
+	}
+]

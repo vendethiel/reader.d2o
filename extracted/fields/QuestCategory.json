@@ -1,0 +1,33 @@
+[
+	{
+		"memberName": "QuestCategory",
+		"packageName": "com.ankamagames.dofus.datacenter.quest",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "order",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "questIds",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			}
+		]
+	}
+]

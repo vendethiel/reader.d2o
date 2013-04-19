@@ -1,0 +1,2210 @@
+[
+	{
+		"id": 1,
+		"shortNameId": 685,
+		"longNameId": 116103,
+		"descriptionId": 103152,
+		"gameplayDescriptionId": 687,
+		"maleLook": "{1|10||135}",
+		"femaleLook": "{1|11||125}",
+		"creatureBonesId": 15,
+		"maleArtwork": 198,
+		"femaleArtwork": 199,
+		"statsPointsForStrength": [
+			[
+				0,
+				2
+			],
+			[
+				50,
+				3
+			],
+			[
+				150,
+				4
+			],
+			[
+				250,
+				5
+			]
+		],
+		"statsPointsForIntelligence": [
+			[
+				0,
+				1
+			],
+			[
+				100,
+				2
+			],
+			[
+				200,
+				3
+			],
+			[
+				300,
+				4
+			],
+			[
+				400,
+				5
+			]
+		],
+		"statsPointsForChance": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				40,
+				3
+			],
+			[
+				60,
+				4
+			],
+			[
+				80,
+				5
+			]
+		],
+		"statsPointsForAgility": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				40,
+				3
+			],
+			[
+				60,
+				4
+			],
+			[
+				80,
+				5
+			]
+		],
+		"statsPointsForVitality": [
+			[
+				0,
+				1
+			]
+		],
+		"statsPointsForWisdom": [
+			[
+				0,
+				3
+			]
+		],
+		"breedSpellsId": [
+			3,
+			6,
+			17,
+			4,
+			2,
+			1,
+			9,
+			18,
+			20,
+			14,
+			19,
+			5,
+			16,
+			8,
+			12,
+			11,
+			10,
+			7,
+			15,
+			13,
+			1901
+		],
+		"maleColors": [
+			16765564,
+			7098157,
+			15972912,
+			5468254,
+			7098157
+		],
+		"femaleColors": [
+			16103775,
+			6833184,
+			13661190,
+			13661190,
+			6963462
+		],
+		"alternativeMaleSkin": [
+			10,
+			1375
+		],
+		"alternativeFemaleSkin": [
+			11,
+			1376
+		]
+	},
+	{
+		"id": 2,
+		"shortNameId": 697,
+		"longNameId": 116101,
+		"descriptionId": 696,
+		"gameplayDescriptionId": 699,
+		"maleLook": "{1|20||130}",
+		"femaleLook": "{1|21||125}",
+		"creatureBonesId": 16,
+		"maleArtwork": 200,
+		"femaleArtwork": 202,
+		"statsPointsForStrength": [
+			[
+				0,
+				2
+			],
+			[
+				50,
+				3
+			],
+			[
+				150,
+				4
+			],
+			[
+				250,
+				5
+			]
+		],
+		"statsPointsForIntelligence": [
+			[
+				0,
+				1
+			],
+			[
+				100,
+				2
+			],
+			[
+				200,
+				3
+			],
+			[
+				300,
+				4
+			],
+			[
+				400,
+				5
+			]
+		],
+		"statsPointsForChance": [
+			[
+				0,
+				1
+			],
+			[
+				100,
+				2
+			],
+			[
+				200,
+				3
+			],
+			[
+				300,
+				4
+			],
+			[
+				400,
+				5
+			]
+		],
+		"statsPointsForAgility": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				40,
+				3
+			],
+			[
+				60,
+				4
+			],
+			[
+				80,
+				5
+			]
+		],
+		"statsPointsForVitality": [
+			[
+				0,
+				1
+			]
+		],
+		"statsPointsForWisdom": [
+			[
+				0,
+				3
+			]
+		],
+		"breedSpellsId": [
+			23,
+			34,
+			21,
+			26,
+			22,
+			35,
+			28,
+			37,
+			30,
+			27,
+			24,
+			33,
+			25,
+			38,
+			36,
+			32,
+			29,
+			39,
+			40,
+			31,
+			1902
+		],
+		"maleColors": [
+			15973470,
+			16777166,
+			4836573,
+			2827027,
+			16761904
+		],
+		"femaleColors": [
+			16759376,
+			16777164,
+			2726594,
+			2827027,
+			2726594
+		],
+		"alternativeMaleSkin": [
+			20,
+			1377
+		],
+		"alternativeFemaleSkin": [
+			21,
+			1378
+		]
+	},
+	{
+		"id": 3,
+		"shortNameId": 681,
+		"longNameId": 116105,
+		"descriptionId": 680,
+		"gameplayDescriptionId": 683,
+		"maleLook": "{1|30||120}",
+		"femaleLook": "{1|31||95}",
+		"creatureBonesId": 17,
+		"maleArtwork": 203,
+		"femaleArtwork": 204,
+		"statsPointsForStrength": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				150,
+				3
+			],
+			[
+				250,
+				4
+			],
+			[
+				350,
+				5
+			]
+		],
+		"statsPointsForIntelligence": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				60,
+				3
+			],
+			[
+				100,
+				4
+			],
+			[
+				150,
+				5
+			]
+		],
+		"statsPointsForChance": [
+			[
+				0,
+				1
+			],
+			[
+				100,
+				2
+			],
+			[
+				150,
+				3
+			],
+			[
+				230,
+				4
+			],
+			[
+				330,
+				5
+			]
+		],
+		"statsPointsForAgility": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				40,
+				3
+			],
+			[
+				60,
+				4
+			],
+			[
+				80,
+				5
+			]
+		],
+		"statsPointsForVitality": [
+			[
+				0,
+				1
+			]
+		],
+		"statsPointsForWisdom": [
+			[
+				0,
+				3
+			]
+		],
+		"breedSpellsId": [
+			51,
+			41,
+			43,
+			49,
+			42,
+			47,
+			48,
+			45,
+			53,
+			46,
+			52,
+			44,
+			50,
+			54,
+			55,
+			56,
+			58,
+			59,
+			57,
+			60,
+			1903
+		],
+		"maleColors": [
+			15973470,
+			16777166,
+			4404257,
+			16767286,
+			10904329
+		],
+		"femaleColors": [
+			15384674,
+			15982756,
+			4404257,
+			16777164,
+			11373881
+		],
+		"alternativeMaleSkin": [
+			30,
+			1379
+		],
+		"alternativeFemaleSkin": [
+			31,
+			1380
+		]
+	},
+	{
+		"id": 4,
+		"shortNameId": 701,
+		"longNameId": 116106,
+		"descriptionId": 700,
+		"gameplayDescriptionId": 703,
+		"maleLook": "{1|40||140}",
+		"femaleLook": "{1|41||155}",
+		"creatureBonesId": 18,
+		"maleArtwork": 205,
+		"femaleArtwork": 206,
+		"statsPointsForStrength": [
+			[
+				0,
+				1
+			],
+			[
+				100,
+				2
+			],
+			[
+				200,
+				3
+			],
+			[
+				300,
+				4
+			],
+			[
+				400,
+				5
+			]
+		],
+		"statsPointsForIntelligence": [
+			[
+				0,
+				2
+			],
+			[
+				50,
+				3
+			],
+			[
+				150,
+				4
+			],
+			[
+				250,
+				5
+			]
+		],
+		"statsPointsForChance": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				40,
+				3
+			],
+			[
+				60,
+				4
+			],
+			[
+				80,
+				5
+			]
+		],
+		"statsPointsForAgility": [
+			[
+				0,
+				1
+			],
+			[
+				100,
+				2
+			],
+			[
+				200,
+				3
+			],
+			[
+				300,
+				4
+			],
+			[
+				400,
+				5
+			]
+		],
+		"statsPointsForVitality": [
+			[
+				0,
+				1
+			]
+		],
+		"statsPointsForWisdom": [
+			[
+				0,
+				3
+			]
+		],
+		"breedSpellsId": [
+			72,
+			65,
+			61,
+			66,
+			68,
+			63,
+			74,
+			64,
+			79,
+			78,
+			71,
+			62,
+			69,
+			77,
+			73,
+			67,
+			70,
+			75,
+			76,
+			80,
+			1904
+		],
+		"maleColors": [
+			15919294,
+			3101814,
+			3101814,
+			3101814,
+			8748628
+		],
+		"femaleColors": [
+			15384674,
+			16777198,
+			4157854,
+			4157854,
+			14872505
+		],
+		"alternativeMaleSkin": [
+			40,
+			1381
+		],
+		"alternativeFemaleSkin": [
+			41,
+			1382
+		]
+	},
+	{
+		"id": 5,
+		"shortNameId": 705,
+		"longNameId": 706,
+		"descriptionId": 704,
+		"gameplayDescriptionId": 707,
+		"maleLook": "{1|50||110}",
+		"femaleLook": "{1|51||110}",
+		"creatureBonesId": 22,
+		"maleArtwork": 207,
+		"femaleArtwork": 208,
+		"statsPointsForStrength": [
+			[
+				0,
+				2
+			],
+			[
+				50,
+				3
+			],
+			[
+				150,
+				4
+			],
+			[
+				250,
+				5
+			]
+		],
+		"statsPointsForIntelligence": [
+			[
+				0,
+				1
+			],
+			[
+				100,
+				2
+			],
+			[
+				200,
+				3
+			],
+			[
+				300,
+				4
+			],
+			[
+				400,
+				5
+			]
+		],
+		"statsPointsForChance": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				40,
+				3
+			],
+			[
+				60,
+				4
+			],
+			[
+				80,
+				5
+			]
+		],
+		"statsPointsForAgility": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				40,
+				3
+			],
+			[
+				60,
+				4
+			],
+			[
+				80,
+				5
+			]
+		],
+		"statsPointsForVitality": [
+			[
+				0,
+				1
+			]
+		],
+		"statsPointsForWisdom": [
+			[
+				0,
+				3
+			]
+		],
+		"breedSpellsId": [
+			83,
+			82,
+			81,
+			84,
+			100,
+			92,
+			88,
+			93,
+			85,
+			96,
+			98,
+			86,
+			89,
+			90,
+			87,
+			94,
+			99,
+			95,
+			91,
+			97,
+			1905
+		],
+		"maleColors": [
+			7957320,
+			6178082,
+			2775654,
+			14523954,
+			4336658
+		],
+		"femaleColors": [
+			7957320,
+			16777166,
+			2512998,
+			13945509,
+			2512998
+		],
+		"alternativeMaleSkin": [
+			50,
+			1383
+		],
+		"alternativeFemaleSkin": [
+			51,
+			1384
+		]
+	},
+	{
+		"id": 6,
+		"shortNameId": 677,
+		"longNameId": 116109,
+		"descriptionId": 676,
+		"gameplayDescriptionId": 679,
+		"maleLook": "{1|60||150}",
+		"femaleLook": "{1|61||150}",
+		"creatureBonesId": 34,
+		"maleArtwork": 209,
+		"femaleArtwork": 210,
+		"statsPointsForStrength": [
+			[
+				0,
+				1
+			],
+			[
+				100,
+				2
+			],
+			[
+				200,
+				3
+			],
+			[
+				300,
+				4
+			],
+			[
+				400,
+				5
+			]
+		],
+		"statsPointsForIntelligence": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				40,
+				3
+			],
+			[
+				60,
+				4
+			],
+			[
+				80,
+				5
+			]
+		],
+		"statsPointsForChance": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				40,
+				3
+			],
+			[
+				60,
+				4
+			],
+			[
+				80,
+				5
+			]
+		],
+		"statsPointsForAgility": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				100,
+				3
+			],
+			[
+				150,
+				4
+			],
+			[
+				200,
+				5
+			]
+		],
+		"statsPointsForVitality": [
+			[
+				0,
+				1
+			]
+		],
+		"statsPointsForWisdom": [
+			[
+				0,
+				3
+			]
+		],
+		"breedSpellsId": [
+			105,
+			102,
+			103,
+			109,
+			113,
+			111,
+			104,
+			119,
+			101,
+			107,
+			116,
+			106,
+			117,
+			108,
+			115,
+			118,
+			110,
+			112,
+			114,
+			120,
+			1906
+		],
+		"maleColors": [
+			16380634,
+			13726012,
+			16735778,
+			2786186,
+			16761904
+		],
+		"femaleColors": [
+			16380634,
+			14378769,
+			14568735,
+			13201181,
+			2057046
+		],
+		"alternativeMaleSkin": [
+			60,
+			1385
+		],
+		"alternativeFemaleSkin": [
+			61,
+			1386
+		]
+	},
+	{
+		"id": 7,
+		"shortNameId": 673,
+		"longNameId": 116104,
+		"descriptionId": 672,
+		"gameplayDescriptionId": 675,
+		"maleLook": "{1|70||110}",
+		"femaleLook": "{1|71||115}",
+		"creatureBonesId": 36,
+		"maleArtwork": 211,
+		"femaleArtwork": 212,
+		"statsPointsForStrength": [
+			[
+				0,
+				2
+			],
+			[
+				50,
+				3
+			],
+			[
+				150,
+				4
+			],
+			[
+				250,
+				5
+			]
+		],
+		"statsPointsForIntelligence": [
+			[
+				0,
+				1
+			],
+			[
+				100,
+				2
+			],
+			[
+				200,
+				3
+			],
+			[
+				300,
+				4
+			],
+			[
+				400,
+				5
+			]
+		],
+		"statsPointsForChance": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				40,
+				3
+			],
+			[
+				60,
+				4
+			],
+			[
+				80,
+				5
+			]
+		],
+		"statsPointsForAgility": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				40,
+				3
+			],
+			[
+				60,
+				4
+			],
+			[
+				80,
+				5
+			]
+		],
+		"statsPointsForVitality": [
+			[
+				0,
+				1
+			]
+		],
+		"statsPointsForWisdom": [
+			[
+				0,
+				3
+			]
+		],
+		"breedSpellsId": [
+			121,
+			125,
+			128,
+			124,
+			122,
+			126,
+			127,
+			123,
+			130,
+			131,
+			132,
+			133,
+			134,
+			135,
+			129,
+			136,
+			137,
+			138,
+			139,
+			140,
+			1907
+		],
+		"maleColors": [
+			16765564,
+			7360545,
+			14453532,
+			6048816,
+			4734007
+		],
+		"femaleColors": [
+			14785337,
+			16707772,
+			16707772,
+			11941144,
+			15388778
+		],
+		"alternativeMaleSkin": [
+			70,
+			1387
+		],
+		"alternativeFemaleSkin": [
+			71,
+			1388
+		]
+	},
+	{
+		"id": 8,
+		"shortNameId": 693,
+		"longNameId": 694,
+		"descriptionId": 115372,
+		"gameplayDescriptionId": 695,
+		"maleLook": "{1|80,1252||140}",
+		"femaleLook": "{1|81||140}",
+		"creatureBonesId": 38,
+		"maleArtwork": 213,
+		"femaleArtwork": 214,
+		"statsPointsForStrength": [
+			[
+				0,
+				1
+			],
+			[
+				100,
+				2
+			],
+			[
+				200,
+				3
+			],
+			[
+				300,
+				4
+			],
+			[
+				400,
+				5
+			]
+		],
+		"statsPointsForIntelligence": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				40,
+				3
+			],
+			[
+				60,
+				4
+			],
+			[
+				80,
+				5
+			]
+		],
+		"statsPointsForChance": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				40,
+				3
+			],
+			[
+				60,
+				4
+			],
+			[
+				80,
+				5
+			]
+		],
+		"statsPointsForAgility": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				40,
+				3
+			],
+			[
+				60,
+				4
+			],
+			[
+				80,
+				5
+			]
+		],
+		"statsPointsForVitality": [
+			[
+				0,
+				1
+			]
+		],
+		"statsPointsForWisdom": [
+			[
+				0,
+				3
+			]
+		],
+		"breedSpellsId": [
+			143,
+			142,
+			141,
+			155,
+			145,
+			154,
+			147,
+			151,
+			158,
+			150,
+			148,
+			144,
+			152,
+			153,
+			149,
+			156,
+			157,
+			160,
+			146,
+			159,
+			1908
+		],
+		"maleColors": [
+			16765564,
+			16355883,
+			16777185,
+			2910064,
+			14561799
+		],
+		"femaleColors": [
+			16103775,
+			15430419,
+			16777185,
+			14432786,
+			14432786
+		],
+		"alternativeMaleSkin": [
+			80,
+			1389
+		],
+		"alternativeFemaleSkin": [
+			81,
+			1390
+		]
+	},
+	{
+		"id": 9,
+		"shortNameId": 689,
+		"longNameId": 116108,
+		"descriptionId": 688,
+		"gameplayDescriptionId": 691,
+		"maleLook": "{1|90||140}",
+		"femaleLook": "{1|91||135}",
+		"creatureBonesId": 40,
+		"maleArtwork": 215,
+		"femaleArtwork": 216,
+		"statsPointsForStrength": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				150,
+				3
+			],
+			[
+				250,
+				4
+			],
+			[
+				350,
+				5
+			]
+		],
+		"statsPointsForIntelligence": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				150,
+				3
+			],
+			[
+				250,
+				4
+			],
+			[
+				350,
+				5
+			]
+		],
+		"statsPointsForChance": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				40,
+				3
+			],
+			[
+				60,
+				4
+			],
+			[
+				80,
+				5
+			]
+		],
+		"statsPointsForAgility": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				100,
+				3
+			],
+			[
+				150,
+				4
+			],
+			[
+				200,
+				5
+			]
+		],
+		"statsPointsForVitality": [
+			[
+				0,
+				1
+			]
+		],
+		"statsPointsForWisdom": [
+			[
+				0,
+				3
+			]
+		],
+		"breedSpellsId": [
+			161,
+			164,
+			169,
+			163,
+			165,
+			172,
+			167,
+			168,
+			162,
+			170,
+			171,
+			166,
+			173,
+			174,
+			176,
+			175,
+			178,
+			177,
+			179,
+			180,
+			1909
+		],
+		"maleColors": [
+			16762983,
+			14774542,
+			5792768,
+			5845776,
+			16422159
+		],
+		"femaleColors": [
+			16761703,
+			14775312,
+			8091904,
+			14053895,
+			6963462
+		],
+		"alternativeMaleSkin": [
+			90,
+			1391
+		],
+		"alternativeFemaleSkin": [
+			91,
+			1392
+		]
+	},
+	{
+		"id": 10,
+		"shortNameId": 661,
+		"longNameId": 662,
+		"descriptionId": 660,
+		"gameplayDescriptionId": 663,
+		"maleLook": "{1|100,1253||150}",
+		"femaleLook": "{1|101,1254||145}",
+		"creatureBonesId": 12,
+		"maleArtwork": 217,
+		"femaleArtwork": 218,
+		"statsPointsForStrength": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				250,
+				3
+			],
+			[
+				300,
+				4
+			],
+			[
+				400,
+				5
+			]
+		],
+		"statsPointsForIntelligence": [
+			[
+				0,
+				1
+			],
+			[
+				100,
+				2
+			],
+			[
+				200,
+				3
+			],
+			[
+				300,
+				4
+			],
+			[
+				400,
+				5
+			]
+		],
+		"statsPointsForChance": [
+			[
+				0,
+				1
+			],
+			[
+				100,
+				2
+			],
+			[
+				200,
+				3
+			],
+			[
+				300,
+				4
+			],
+			[
+				400,
+				5
+			]
+		],
+		"statsPointsForAgility": [
+			[
+				0,
+				1
+			],
+			[
+				20,
+				2
+			],
+			[
+				40,
+				3
+			],
+			[
+				60,
+				4
+			],
+			[
+				80,
+				5
+			]
+		],
+		"statsPointsForVitality": [
+			[
+				0,
+				1
+			]
+		],
+		"statsPointsForWisdom": [
+			[
+				0,
+				3
+			]
+		],
+		"breedSpellsId": [
+			193,
+			183,
+			200,
+			198,
+			195,
+			182,
+			192,
+			197,
+			189,
+			181,
+			199,
+			191,
+			186,
+			196,
+			190,
+			194,
+			185,
+			184,
+			188,
+			187,
+			1910
+		],
+		"maleColors": [
+			8537887,
+			8164099,
+			14402669,
+			14402669,
+			11960892
+		],
+		"femaleColors": [
+			8537887,
+			8557826,
+			16114596,
+			16114596,
+			15128478
+		],
+		"alternativeMaleSkin": [
+			100,
+			1393
+		],
+		"alternativeFemaleSkin": [
+			101,
+			1394
+		]
+	},
+	{
+		"id": 11,
+		"shortNameId": 665,
+		"longNameId": 666,
+		"descriptionId": 115373,
+		"gameplayDescriptionId": 667,
+		"maleLook": "{1|110||145}",
+		"femaleLook": "{1|111,1255||140}",
+		"creatureBonesId": 13,
+		"maleArtwork": 219,
+		"femaleArtwork": 220,
+		"statsPointsForStrength": [
+			[
+				0,
+				3
+			],
+			[
+				100,
+				4
+			],
+			[
+				150,
+				5
+			]
+		],
+		"statsPointsForIntelligence": [
+			[
+				0,
+				3
+			],
+			[
+				100,
+				4
+			],
+			[
+				150,
+				5
+			]
+		],
+		"statsPointsForChance": [
+			[
+				0,
+				3
+			],
+			[
+				100,
+				4
+			],
+			[
+				150,
+				5
+			]
+		],
+		"statsPointsForAgility": [
+			[
+				0,
+				3
+			],
+			[
+				100,
+				4
+			],
+			[
+				150,
+				5
+			]
+		],
+		"statsPointsForVitality": [
+			[
+				0,
+				1,
+				2
+			]
+		],
+		"statsPointsForWisdom": [
+			[
+				0,
+				3
+			]
+		],
+		"breedSpellsId": [
+			432,
+			431,
+			434,
+			444,
+			449,
+			436,
+			437,
+			439,
+			433,
+			443,
+			440,
+			442,
+			441,
+			445,
+			438,
+			446,
+			447,
+			448,
+			435,
+			450,
+			1911
+		],
+		"maleColors": [
+			16765564,
+			16753434,
+			9809704,
+			5664802,
+			16771138
+		],
+		"femaleColors": [
+			16565105,
+			16753434,
+			5992482,
+			6003530,
+			16769340
+		],
+		"alternativeMaleSkin": [
+			110,
+			1395
+		],
+		"alternativeFemaleSkin": [
+			111,
+			1396
+		]
+	},
+	{
+		"id": 12,
+		"shortNameId": 669,
+		"longNameId": 116107,
+		"descriptionId": 668,
+		"gameplayDescriptionId": 671,
+		"maleLook": "{1|120||160}",
+		"femaleLook": "{1|121||145}",
+		"creatureBonesId": 14,
+		"maleArtwork": 221,
+		"femaleArtwork": 222,
+		"statsPointsForStrength": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				200,
+				3
+			]
+		],
+		"statsPointsForIntelligence": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				200,
+				3
+			]
+		],
+		"statsPointsForChance": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				200,
+				3
+			]
+		],
+		"statsPointsForAgility": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				200,
+				3
+			]
+		],
+		"statsPointsForVitality": [
+			[
+				0,
+				1
+			]
+		],
+		"statsPointsForWisdom": [
+			[
+				0,
+				3
+			]
+		],
+		"breedSpellsId": [
+			692,
+			686,
+			687,
+			689,
+			690,
+			699,
+			688,
+			693,
+			694,
+			695,
+			696,
+			697,
+			698,
+			691,
+			700,
+			701,
+			702,
+			703,
+			704,
+			705,
+			1912
+		],
+		"maleColors": [
+			15457984,
+			5197108,
+			7673110,
+			15457984,
+			4015915
+		],
+		"femaleColors": [
+			16380634,
+			4538925,
+			9711889,
+			15457984,
+			9711889
+		],
+		"alternativeMaleSkin": [
+			120,
+			1397
+		],
+		"alternativeFemaleSkin": [
+			121,
+			1398
+		]
+	},
+	{
+		"id": 13,
+		"shortNameId": 653,
+		"longNameId": 654,
+		"descriptionId": 652,
+		"gameplayDescriptionId": 655,
+		"maleLook": "{1|1405,1406||160}",
+		"femaleLook": "{1|1407,1408||155}",
+		"creatureBonesId": 1537,
+		"maleArtwork": 1527,
+		"femaleArtwork": 1528,
+		"statsPointsForStrength": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				200,
+				3
+			]
+		],
+		"statsPointsForIntelligence": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				200,
+				3
+			]
+		],
+		"statsPointsForChance": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				200,
+				3
+			]
+		],
+		"statsPointsForAgility": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				200,
+				3
+			]
+		],
+		"statsPointsForVitality": [
+			[
+				0,
+				1
+			]
+		],
+		"statsPointsForWisdom": [
+			[
+				0,
+				3
+			]
+		],
+		"breedSpellsId": [
+			2794,
+			2808,
+			2778,
+			2795,
+			2763,
+			2796,
+			2801,
+			2802,
+			2803,
+			2807,
+			2797,
+			2806,
+			2805,
+			2809,
+			2804,
+			2810,
+			2811,
+			2812,
+			2813,
+			2815,
+			2817
+		],
+		"maleColors": [
+			14785337,
+			2567713,
+			2567713,
+			3419419,
+			16777164
+		],
+		"femaleColors": [
+			14785337,
+			677462,
+			2567713,
+			3419419,
+			3419419
+		],
+		"alternativeMaleSkin": [
+			1405,
+			1409
+		],
+		"alternativeFemaleSkin": [
+			1407,
+			1410
+		]
+	},
+	{
+		"id": 14,
+		"shortNameId": 657,
+		"longNameId": 658,
+		"descriptionId": 656,
+		"gameplayDescriptionId": 659,
+		"maleLook": "{1|1437||150}",
+		"femaleLook": "{1|1438||145}",
+		"creatureBonesId": 1538,
+		"maleArtwork": 1573,
+		"femaleArtwork": 1574,
+		"statsPointsForStrength": [
+			[
+				0,
+				1
+			],
+			[
+				100,
+				2
+			],
+			[
+				200,
+				3
+			],
+			[
+				300,
+				4
+			],
+			[
+				400,
+				5
+			]
+		],
+		"statsPointsForIntelligence": [
+			[
+				0,
+				1
+			],
+			[
+				100,
+				2
+			],
+			[
+				200,
+				3
+			],
+			[
+				300,
+				4
+			],
+			[
+				400,
+				5
+			]
+		],
+		"statsPointsForChance": [
+			[
+				0,
+				1
+			],
+			[
+				100,
+				2
+			],
+			[
+				200,
+				3
+			],
+			[
+				300,
+				4
+			],
+			[
+				400,
+				5
+			]
+		],
+		"statsPointsForAgility": [
+			[
+				0,
+				1
+			],
+			[
+				100,
+				2
+			],
+			[
+				200,
+				3
+			],
+			[
+				300,
+				4
+			],
+			[
+				400,
+				5
+			]
+		],
+		"statsPointsForVitality": [
+			[
+				0,
+				1
+			]
+		],
+		"statsPointsForWisdom": [
+			[
+				0,
+				3
+			]
+		],
+		"breedSpellsId": [
+			2879,
+			2896,
+			2881,
+			2899,
+			2893,
+			2891,
+			2872,
+			2882,
+			2880,
+			2887,
+			2885,
+			2890,
+			2895,
+			2894,
+			2888,
+			2883,
+			2892,
+			2886,
+			2889,
+			2897,
+			2898
+		],
+		"maleColors": [
+			16761703,
+			14428465,
+			4863523,
+			1855824,
+			15262931
+		],
+		"femaleColors": [
+			16761703,
+			14428465,
+			4863523,
+			1855824,
+			15262931
+		],
+		"alternativeMaleSkin": [
+			1437,
+			1439
+		],
+		"alternativeFemaleSkin": [
+			1438,
+			1440
+		]
+	},
+	{
+		"id": 15,
+		"shortNameId": 92496,
+		"longNameId": 116346,
+		"descriptionId": 112815,
+		"gameplayDescriptionId": 103171,
+		"maleLook": "{1|1663,1953||160}",
+		"femaleLook": "{1|1664,1954||160}",
+		"creatureBonesId": 1886,
+		"maleArtwork": 1932,
+		"femaleArtwork": 1933,
+		"statsPointsForStrength": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				200,
+				3
+			]
+		],
+		"statsPointsForIntelligence": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				200,
+				3
+			]
+		],
+		"statsPointsForChance": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				200,
+				3
+			]
+		],
+		"statsPointsForAgility": [
+			[
+				0,
+				1
+			],
+			[
+				50,
+				2
+			],
+			[
+				200,
+				3
+			]
+		],
+		"statsPointsForVitality": [
+			[
+				0,
+				1
+			]
+		],
+		"statsPointsForWisdom": [
+			[
+				0,
+				3
+			]
+		],
+		"breedSpellsId": [
+			3212,
+			3210,
+			3206,
+			3215,
+			3205,
+			3217,
+			3202,
+			3213,
+			3204,
+			3203,
+			3209,
+			3221,
+			3214,
+			3220,
+			3219,
+			3207,
+			3218,
+			3208,
+			3211,
+			3216,
+			3278
+		],
+		"maleColors": [
+			16699794,
+			16511423,
+			3417882,
+			16377759,
+			11242064
+		],
+		"femaleColors": [
+			16699794,
+			16511423,
+			3417882,
+			16377759,
+			11242064
+		],
+		"alternativeMaleSkin": [
+			1663,
+			1728
+		],
+		"alternativeFemaleSkin": [
+			1664,
+			1729
+		]
+	}
+]

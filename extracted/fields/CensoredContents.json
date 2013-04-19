@@ -1,0 +1,28 @@
+[
+	{
+		"memberName": "CensoredContent",
+		"packageName": "com.ankamagames.dofus.datacenter.misc",
+		"fields": [
+			{
+				"name": "lang",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "type",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "oldValue",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "newValue",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	}
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"memberName": "Title",
+		"packageName": "com.ankamagames.dofus.datacenter.misc",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "color",
+				"type": "String",
+				"vectorTypes": false
+			}
+		]
+	}
+]

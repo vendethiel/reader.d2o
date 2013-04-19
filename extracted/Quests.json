@@ -1,0 +1,12247 @@
+[
+	{
+		"id": 3,
+		"nameId": 54745,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			2,
+			3,
+			4,
+			5,
+			32
+		]
+	},
+	{
+		"id": 4,
+		"nameId": 86556,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			6,
+			7,
+			8,
+			9
+		]
+	},
+	{
+		"id": 5,
+		"nameId": 54670,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			10,
+			11,
+			12,
+			13
+		]
+	},
+	{
+		"id": 7,
+		"nameId": 54051,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			20,
+			22,
+			24
+		]
+	},
+	{
+		"id": 8,
+		"nameId": 54739,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			21,
+			25,
+			41
+		]
+	},
+	{
+		"id": 9,
+		"nameId": 54788,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			23,
+			27
+		]
+	},
+	{
+		"id": 10,
+		"nameId": 54664,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			26,
+			28,
+			29,
+			30
+		]
+	},
+	{
+		"id": 11,
+		"nameId": 54791,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			31,
+			33,
+			103
+		]
+	},
+	{
+		"id": 13,
+		"nameId": 54655,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			34,
+			35,
+			36,
+			37
+		]
+	},
+	{
+		"id": 14,
+		"nameId": 54785,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			52,
+			53,
+			54
+		]
+	},
+	{
+		"id": 15,
+		"nameId": 54709,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			45,
+			49,
+			51
+		]
+	},
+	{
+		"id": 16,
+		"nameId": 54712,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			44,
+			46,
+			47
+		]
+	},
+	{
+		"id": 18,
+		"nameId": 79031,
+		"categoryId": 7,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 70,
+		"levelMax": 70,
+		"stepIds": [
+			55,
+			57,
+			58
+		]
+	},
+	{
+		"id": 20,
+		"nameId": 86202,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			67,
+			68,
+			69,
+			76
+		]
+	},
+	{
+		"id": 21,
+		"nameId": 54714,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			61,
+			62,
+			63
+		]
+	},
+	{
+		"id": 24,
+		"nameId": 86610,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			70,
+			71,
+			72,
+			150
+		]
+	},
+	{
+		"id": 25,
+		"nameId": 54656,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			73,
+			75,
+			78
+		]
+	},
+	{
+		"id": 26,
+		"nameId": 54543,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			74,
+			80,
+			81,
+			163,
+			164,
+			211
+		]
+	},
+	{
+		"id": 29,
+		"nameId": 79185,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 126,
+		"levelMax": 126,
+		"stepIds": [
+			121
+		]
+	},
+	{
+		"id": 30,
+		"nameId": 79179,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			119
+		]
+	},
+	{
+		"id": 31,
+		"nameId": 79183,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 35,
+		"levelMax": 35,
+		"stepIds": [
+			116
+		]
+	},
+	{
+		"id": 32,
+		"nameId": 79186,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 70,
+		"levelMax": 70,
+		"stepIds": [
+			115
+		]
+	},
+	{
+		"id": 33,
+		"nameId": 79175,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			113
+		]
+	},
+	{
+		"id": 34,
+		"nameId": 79176,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 3,
+		"levelMax": 3,
+		"stepIds": [
+			111
+		]
+	},
+	{
+		"id": 35,
+		"nameId": 79184,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 50,
+		"levelMax": 50,
+		"stepIds": [
+			109
+		]
+	},
+	{
+		"id": 36,
+		"nameId": 54794,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			87,
+			88
+		]
+	},
+	{
+		"id": 37,
+		"nameId": 54715,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			90,
+			91,
+			92
+		]
+	},
+	{
+		"id": 38,
+		"nameId": 54053,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			93,
+			94
+		]
+	},
+	{
+		"id": 39,
+		"nameId": 54037,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			102,
+			104
+		]
+	},
+	{
+		"id": 42,
+		"nameId": 86201,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			118,
+			127,
+			132
+		]
+	},
+	{
+		"id": 43,
+		"nameId": 54795,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			131
+		]
+	},
+	{
+		"id": 44,
+		"nameId": 54694,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			133,
+			145,
+			134
+		]
+	},
+	{
+		"id": 45,
+		"nameId": 54625,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			135,
+			146
+		]
+	},
+	{
+		"id": 47,
+		"nameId": 54781,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 17,
+		"stepIds": [
+			139
+		]
+	},
+	{
+		"id": 48,
+		"nameId": 54550,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 17,
+		"stepIds": [
+			140
+		]
+	},
+	{
+		"id": 49,
+		"nameId": 54784,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 17,
+		"stepIds": [
+			141
+		]
+	},
+	{
+		"id": 50,
+		"nameId": 54783,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 17,
+		"stepIds": [
+			142
+		]
+	},
+	{
+		"id": 51,
+		"nameId": 54598,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 11,
+		"levelMax": 17,
+		"stepIds": [
+			143
+		]
+	},
+	{
+		"id": 52,
+		"nameId": 54793,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 17,
+		"stepIds": [
+			144
+		]
+	},
+	{
+		"id": 53,
+		"nameId": 54789,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 10,
+		"stepIds": [
+			147,
+			148
+		]
+	},
+	{
+		"id": 55,
+		"nameId": 54695,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 1,
+		"stepIds": [
+			679
+		]
+	},
+	{
+		"id": 56,
+		"nameId": 54696,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 1,
+		"stepIds": [
+			680
+		]
+	},
+	{
+		"id": 57,
+		"nameId": 54693,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 2,
+		"levelMax": 2,
+		"stepIds": [
+			681
+		]
+	},
+	{
+		"id": 58,
+		"nameId": 54426,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 3,
+		"levelMax": 3,
+		"stepIds": [
+			682
+		]
+	},
+	{
+		"id": 59,
+		"nameId": 54425,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 4,
+		"levelMax": 4,
+		"stepIds": [
+			683
+		]
+	},
+	{
+		"id": 60,
+		"nameId": 54466,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 5,
+		"levelMax": 5,
+		"stepIds": [
+			684
+		]
+	},
+	{
+		"id": 61,
+		"nameId": 54467,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 6,
+		"levelMax": 6,
+		"stepIds": [
+			685
+		]
+	},
+	{
+		"id": 62,
+		"nameId": 54698,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 7,
+		"levelMax": 7,
+		"stepIds": [
+			686
+		]
+	},
+	{
+		"id": 63,
+		"nameId": 54447,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 8,
+		"levelMax": 8,
+		"stepIds": [
+			687
+		]
+	},
+	{
+		"id": 64,
+		"nameId": 54448,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 9,
+		"stepIds": [
+			688
+		]
+	},
+	{
+		"id": 65,
+		"nameId": 54449,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 10,
+		"stepIds": [
+			689
+		]
+	},
+	{
+		"id": 66,
+		"nameId": 54442,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 11,
+		"levelMax": 11,
+		"stepIds": [
+			690,
+			691
+		]
+	},
+	{
+		"id": 67,
+		"nameId": 54459,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			692
+		]
+	},
+	{
+		"id": 68,
+		"nameId": 54460,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 13,
+		"levelMax": 13,
+		"stepIds": [
+			693
+		]
+	},
+	{
+		"id": 69,
+		"nameId": 54461,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 14,
+		"levelMax": 14,
+		"stepIds": [
+			694
+		]
+	},
+	{
+		"id": 70,
+		"nameId": 54768,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			695
+		]
+	},
+	{
+		"id": 71,
+		"nameId": 54766,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 16,
+		"levelMax": 16,
+		"stepIds": [
+			696
+		]
+	},
+	{
+		"id": 72,
+		"nameId": 54767,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 17,
+		"levelMax": 17,
+		"stepIds": [
+			697
+		]
+	},
+	{
+		"id": 73,
+		"nameId": 54756,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 18,
+		"levelMax": 18,
+		"stepIds": [
+			698
+		]
+	},
+	{
+		"id": 74,
+		"nameId": 54757,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 19,
+		"levelMax": 19,
+		"stepIds": [
+			699
+		]
+	},
+	{
+		"id": 75,
+		"nameId": 54754,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			700
+		]
+	},
+	{
+		"id": 76,
+		"nameId": 54755,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 21,
+		"levelMax": 21,
+		"stepIds": [
+			701
+		]
+	},
+	{
+		"id": 77,
+		"nameId": 54044,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 22,
+		"levelMax": 22,
+		"stepIds": [
+			702
+		]
+	},
+	{
+		"id": 78,
+		"nameId": 54764,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 23,
+		"levelMax": 23,
+		"stepIds": [
+			703
+		]
+	},
+	{
+		"id": 79,
+		"nameId": 54763,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 24,
+		"levelMax": 24,
+		"stepIds": [
+			704
+		]
+	},
+	{
+		"id": 80,
+		"nameId": 54392,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			705,
+			707,
+			708
+		]
+	},
+	{
+		"id": 81,
+		"nameId": 54400,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 26,
+		"levelMax": 26,
+		"stepIds": [
+			709
+		]
+	},
+	{
+		"id": 82,
+		"nameId": 54673,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 27,
+		"levelMax": 27,
+		"stepIds": [
+			710,
+			711
+		]
+	},
+	{
+		"id": 83,
+		"nameId": 54672,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 28,
+		"levelMax": 28,
+		"stepIds": [
+			712
+		]
+	},
+	{
+		"id": 84,
+		"nameId": 54412,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 29,
+		"levelMax": 29,
+		"stepIds": [
+			713,
+			714
+		]
+	},
+	{
+		"id": 85,
+		"nameId": 54403,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			715
+		]
+	},
+	{
+		"id": 86,
+		"nameId": 54404,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 31,
+		"levelMax": 31,
+		"stepIds": [
+			716
+		]
+	},
+	{
+		"id": 87,
+		"nameId": 54681,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 32,
+		"levelMax": 32,
+		"stepIds": [
+			717
+		]
+	},
+	{
+		"id": 88,
+		"nameId": 54402,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 33,
+		"levelMax": 33,
+		"stepIds": [
+			718,
+			719
+		]
+	},
+	{
+		"id": 89,
+		"nameId": 54391,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 34,
+		"levelMax": 34,
+		"stepIds": [
+			720
+		]
+	},
+	{
+		"id": 90,
+		"nameId": 54406,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 35,
+		"levelMax": 35,
+		"stepIds": [
+			721
+		]
+	},
+	{
+		"id": 91,
+		"nameId": 54405,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 36,
+		"levelMax": 36,
+		"stepIds": [
+			722
+		]
+	},
+	{
+		"id": 92,
+		"nameId": 54505,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 37,
+		"levelMax": 37,
+		"stepIds": [
+			723
+		]
+	},
+	{
+		"id": 93,
+		"nameId": 54504,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 38,
+		"levelMax": 38,
+		"stepIds": [
+			724
+		]
+	},
+	{
+		"id": 94,
+		"nameId": 54503,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 39,
+		"levelMax": 39,
+		"stepIds": [
+			725
+		]
+	},
+	{
+		"id": 95,
+		"nameId": 54506,
+		"categoryId": 11,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			153,
+			154,
+			155
+		]
+	},
+	{
+		"id": 97,
+		"nameId": 86205,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			156,
+			157,
+			158,
+			159,
+			160
+		]
+	},
+	{
+		"id": 98,
+		"nameId": 86204,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			162,
+			161,
+			168,
+			170
+		]
+	},
+	{
+		"id": 99,
+		"nameId": 54407,
+		"categoryId": 11,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			165,
+			166,
+			167,
+			205
+		]
+	},
+	{
+		"id": 100,
+		"nameId": 86203,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			169,
+			171
+		]
+	},
+	{
+		"id": 102,
+		"nameId": 54330,
+		"categoryId": 11,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			177,
+			179
+		]
+	},
+	{
+		"id": 104,
+		"nameId": 53999,
+		"categoryId": 11,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 50,
+		"stepIds": [
+			187,
+			180,
+			181,
+			182,
+			183,
+			184,
+			185
+		]
+	},
+	{
+		"id": 106,
+		"nameId": 102603,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			175,
+			188
+		]
+	},
+	{
+		"id": 107,
+		"nameId": 54322,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			176
+		]
+	},
+	{
+		"id": 108,
+		"nameId": 54325,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			192,
+			207,
+			193,
+			194
+		]
+	},
+	{
+		"id": 109,
+		"nameId": 54320,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			195
+		]
+	},
+	{
+		"id": 110,
+		"nameId": 54770,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			196
+		]
+	},
+	{
+		"id": 111,
+		"nameId": 54774,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			197
+		]
+	},
+	{
+		"id": 112,
+		"nameId": 54769,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			200,
+			782
+		]
+	},
+	{
+		"id": 113,
+		"nameId": 54761,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			198,
+			783
+		]
+	},
+	{
+		"id": 114,
+		"nameId": 54776,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			199,
+			787
+		]
+	},
+	{
+		"id": 115,
+		"nameId": 79187,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			201
+		]
+	},
+	{
+		"id": 116,
+		"nameId": 113176,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 80,
+		"levelMax": 80,
+		"stepIds": [
+			202
+		]
+	},
+	{
+		"id": 117,
+		"nameId": 79180,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			203
+		]
+	},
+	{
+		"id": 118,
+		"nameId": 79188,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			204
+		]
+	},
+	{
+		"id": 119,
+		"nameId": 79174,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 70,
+		"levelMax": 70,
+		"stepIds": [
+			206
+		]
+	},
+	{
+		"id": 120,
+		"nameId": 54468,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			784
+		]
+	},
+	{
+		"id": 121,
+		"nameId": 54470,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			785
+		]
+	},
+	{
+		"id": 122,
+		"nameId": 54469,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			786
+		]
+	},
+	{
+		"id": 123,
+		"nameId": 54472,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			210
+		]
+	},
+	{
+		"id": 124,
+		"nameId": 54471,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			209
+		]
+	},
+	{
+		"id": 125,
+		"nameId": 54473,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			208
+		]
+	},
+	{
+		"id": 126,
+		"nameId": 54719,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			212,
+			213,
+			214
+		]
+	},
+	{
+		"id": 127,
+		"nameId": 54762,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			215,
+			216,
+			217
+		]
+	},
+	{
+		"id": 128,
+		"nameId": 54765,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			218,
+			234,
+			219
+		]
+	},
+	{
+		"id": 130,
+		"nameId": 54759,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1423,
+			221,
+			233
+		]
+	},
+	{
+		"id": 131,
+		"nameId": 54169,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			222
+		]
+	},
+	{
+		"id": 132,
+		"nameId": 54452,
+		"categoryId": 15,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			224,
+			225,
+			226,
+			227
+		]
+	},
+	{
+		"id": 133,
+		"nameId": 54494,
+		"categoryId": 15,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			228,
+			229,
+			230,
+			231,
+			232
+		]
+	},
+	{
+		"id": 134,
+		"nameId": 54697,
+		"categoryId": 14,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			235,
+			236,
+			237,
+			238,
+			239
+		]
+	},
+	{
+		"id": 135,
+		"nameId": 54498,
+		"categoryId": 14,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			240,
+			241,
+			242
+		]
+	},
+	{
+		"id": 136,
+		"nameId": 54723,
+		"categoryId": 14,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			245,
+			243,
+			244
+		]
+	},
+	{
+		"id": 137,
+		"nameId": 54497,
+		"categoryId": 14,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			246,
+			247,
+			248,
+			249
+		]
+	},
+	{
+		"id": 138,
+		"nameId": 54699,
+		"categoryId": 15,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			250,
+			251,
+			252
+		]
+	},
+	{
+		"id": 139,
+		"nameId": 54520,
+		"categoryId": 15,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			253
+		]
+	},
+	{
+		"id": 141,
+		"nameId": 54692,
+		"categoryId": 16,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			256
+		]
+	},
+	{
+		"id": 142,
+		"nameId": 54753,
+		"categoryId": 17,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			258
+		]
+	},
+	{
+		"id": 143,
+		"nameId": 54749,
+		"categoryId": 15,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			259
+		]
+	},
+	{
+		"id": 144,
+		"nameId": 54437,
+		"categoryId": 16,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			260
+		]
+	},
+	{
+		"id": 145,
+		"nameId": 54438,
+		"categoryId": 17,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			261
+		]
+	},
+	{
+		"id": 146,
+		"nameId": 54690,
+		"categoryId": 13,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			262
+		]
+	},
+	{
+		"id": 147,
+		"nameId": 54725,
+		"categoryId": 13,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			263
+		]
+	},
+	{
+		"id": 148,
+		"nameId": 54724,
+		"categoryId": 13,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			264
+		]
+	},
+	{
+		"id": 149,
+		"nameId": 54584,
+		"categoryId": 13,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			265
+		]
+	},
+	{
+		"id": 150,
+		"nameId": 54685,
+		"categoryId": 13,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 70,
+		"levelMax": 70,
+		"stepIds": [
+			266
+		]
+	},
+	{
+		"id": 151,
+		"nameId": 54023,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			267
+		]
+	},
+	{
+		"id": 152,
+		"nameId": 54323,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			268,
+			281
+		]
+	},
+	{
+		"id": 153,
+		"nameId": 54432,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 40,
+		"stepIds": [
+			269,
+			270,
+			271,
+			272,
+			280
+		]
+	},
+	{
+		"id": 154,
+		"nameId": 54682,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 70,
+		"stepIds": [
+			273,
+			274,
+			275,
+			276,
+			277,
+			278,
+			279
+		]
+	},
+	{
+		"id": 155,
+		"nameId": 54435,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 90,
+		"levelMax": 110,
+		"stepIds": [
+			282,
+			283,
+			284,
+			285,
+			286,
+			287,
+			288
+		]
+	},
+	{
+		"id": 156,
+		"nameId": 54433,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 110,
+		"levelMax": 120,
+		"stepIds": [
+			289,
+			290,
+			291,
+			295,
+			296,
+			297
+		]
+	},
+	{
+		"id": 157,
+		"nameId": 54434,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 160,
+		"stepIds": [
+			298,
+			306,
+			307,
+			299,
+			300,
+			301,
+			302
+		]
+	},
+	{
+		"id": 158,
+		"nameId": 78886,
+		"categoryId": 8,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 90,
+		"levelMax": 90,
+		"stepIds": [
+			308,
+			309,
+			310,
+			311,
+			312,
+			313,
+			314,
+			315,
+			316
+		]
+	},
+	{
+		"id": 161,
+		"nameId": 54423,
+		"categoryId": 18,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			319,
+			327
+		]
+	},
+	{
+		"id": 162,
+		"nameId": 54420,
+		"categoryId": 18,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			320
+		]
+	},
+	{
+		"id": 163,
+		"nameId": 54424,
+		"categoryId": 18,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			321
+		]
+	},
+	{
+		"id": 164,
+		"nameId": 54427,
+		"categoryId": 18,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			322
+		]
+	},
+	{
+		"id": 165,
+		"nameId": 54428,
+		"categoryId": 18,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			323
+		]
+	},
+	{
+		"id": 166,
+		"nameId": 54429,
+		"categoryId": 18,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 90,
+		"levelMax": 90,
+		"stepIds": [
+			324,
+			325,
+			326
+		]
+	},
+	{
+		"id": 167,
+		"nameId": 54430,
+		"categoryId": 18,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 70,
+		"levelMax": 70,
+		"stepIds": [
+			328,
+			375,
+			376,
+			374
+		]
+	},
+	{
+		"id": 168,
+		"nameId": 54431,
+		"categoryId": 18,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			330
+		]
+	},
+	{
+		"id": 169,
+		"nameId": 54411,
+		"categoryId": 18,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			331
+		]
+	},
+	{
+		"id": 170,
+		"nameId": 54410,
+		"categoryId": 18,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			334
+		]
+	},
+	{
+		"id": 172,
+		"nameId": 53979,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 3,
+		"levelMax": 3,
+		"stepIds": [
+			329
+		]
+	},
+	{
+		"id": 173,
+		"nameId": 54548,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 5,
+		"levelMax": 5,
+		"stepIds": [
+			332,
+			346
+		]
+	},
+	{
+		"id": 174,
+		"nameId": 54265,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 5,
+		"levelMax": 5,
+		"stepIds": [
+			333
+		]
+	},
+	{
+		"id": 175,
+		"nameId": 54688,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 3,
+		"levelMax": 3,
+		"stepIds": [
+			335
+		]
+	},
+	{
+		"id": 176,
+		"nameId": 54022,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 5,
+		"levelMax": 5,
+		"stepIds": [
+			352
+		]
+	},
+	{
+		"id": 177,
+		"nameId": 54726,
+		"categoryId": 18,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			336,
+			337,
+			338,
+			339,
+			340
+		]
+	},
+	{
+		"id": 178,
+		"nameId": 54017,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 8,
+		"levelMax": 8,
+		"stepIds": [
+			354
+		]
+	},
+	{
+		"id": 179,
+		"nameId": 54028,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 5,
+		"levelMax": 5,
+		"stepIds": [
+			345
+		]
+	},
+	{
+		"id": 180,
+		"nameId": 54563,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 6,
+		"levelMax": 6,
+		"stepIds": [
+			347
+		]
+	},
+	{
+		"id": 181,
+		"nameId": 54674,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 2,
+		"levelMax": 2,
+		"stepIds": [
+			343,
+			342
+		]
+	},
+	{
+		"id": 182,
+		"nameId": 54680,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 3,
+		"levelMax": 3,
+		"stepIds": [
+			344
+		]
+	},
+	{
+		"id": 183,
+		"nameId": 54528,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 2,
+		"levelMax": 2,
+		"stepIds": [
+			348
+		]
+	},
+	{
+		"id": 184,
+		"nameId": 54527,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 5,
+		"levelMax": 5,
+		"stepIds": [
+			349
+		]
+	},
+	{
+		"id": 185,
+		"nameId": 54678,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 2,
+		"levelMax": 2,
+		"stepIds": [
+			350
+		]
+	},
+	{
+		"id": 186,
+		"nameId": 54211,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 2,
+		"levelMax": 2,
+		"stepIds": [
+			351
+		]
+	},
+	{
+		"id": 189,
+		"nameId": 54679,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 3,
+		"levelMax": 3,
+		"stepIds": [
+			361
+		]
+	},
+	{
+		"id": 190,
+		"nameId": 54007,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 4,
+		"levelMax": 4,
+		"stepIds": [
+			362
+		]
+	},
+	{
+		"id": 191,
+		"nameId": 54354,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 10,
+		"stepIds": [
+			363
+		]
+	},
+	{
+		"id": 192,
+		"nameId": 54010,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 10,
+		"stepIds": [
+			364
+		]
+	},
+	{
+		"id": 193,
+		"nameId": 54534,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 10,
+		"stepIds": [
+			365
+		]
+	},
+	{
+		"id": 194,
+		"nameId": 54760,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 4,
+		"levelMax": 4,
+		"stepIds": [
+			366,
+			367
+		]
+	},
+	{
+		"id": 195,
+		"nameId": 54025,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 8,
+		"levelMax": 8,
+		"stepIds": [
+			368
+		]
+	},
+	{
+		"id": 196,
+		"nameId": 54008,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 6,
+		"levelMax": 6,
+		"stepIds": [
+			369
+		]
+	},
+	{
+		"id": 197,
+		"nameId": 54009,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 8,
+		"levelMax": 8,
+		"stepIds": [
+			370
+		]
+	},
+	{
+		"id": 198,
+		"nameId": 54515,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 10,
+		"stepIds": [
+			371
+		]
+	},
+	{
+		"id": 199,
+		"nameId": 54667,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 3,
+		"levelMax": 3,
+		"stepIds": [
+			372
+		]
+	},
+	{
+		"id": 200,
+		"nameId": 54521,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 2,
+		"levelMax": 2,
+		"stepIds": [
+			373
+		]
+	},
+	{
+		"id": 202,
+		"nameId": 54474,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 5,
+		"levelMax": 5,
+		"stepIds": [
+			378
+		]
+	},
+	{
+		"id": 203,
+		"nameId": 54046,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 5,
+		"levelMax": 5,
+		"stepIds": [
+			379
+		]
+	},
+	{
+		"id": 204,
+		"nameId": 54463,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 5,
+		"levelMax": 5,
+		"stepIds": [
+			380
+		]
+	},
+	{
+		"id": 205,
+		"nameId": 54451,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 3,
+		"levelMax": 3,
+		"stepIds": [
+			381
+		]
+	},
+	{
+		"id": 206,
+		"nameId": 54450,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 3,
+		"levelMax": 3,
+		"stepIds": [
+			382
+		]
+	},
+	{
+		"id": 207,
+		"nameId": 54440,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 3,
+		"levelMax": 3,
+		"stepIds": [
+			383
+		]
+	},
+	{
+		"id": 208,
+		"nameId": 86801,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			384,
+			385
+		]
+	},
+	{
+		"id": 209,
+		"nameId": 54546,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			386,
+			387,
+			388
+		]
+	},
+	{
+		"id": 211,
+		"nameId": 54596,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			390
+		]
+	},
+	{
+		"id": 215,
+		"nameId": 54624,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			394
+		]
+	},
+	{
+		"id": 216,
+		"nameId": 54510,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			395,
+			396
+		]
+	},
+	{
+		"id": 217,
+		"nameId": 54583,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 50,
+		"levelMax": 50,
+		"stepIds": [
+			399,
+			400,
+			401,
+			402
+		]
+	},
+	{
+		"id": 218,
+		"nameId": 54512,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			403,
+			404
+		]
+	},
+	{
+		"id": 219,
+		"nameId": 54721,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 70,
+		"levelMax": 70,
+		"stepIds": [
+			405,
+			406
+		]
+	},
+	{
+		"id": 220,
+		"nameId": 54514,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 80,
+		"levelMax": 80,
+		"stepIds": [
+			407
+		]
+	},
+	{
+		"id": 221,
+		"nameId": 54627,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 50,
+		"levelMax": 50,
+		"stepIds": [
+			408
+		]
+	},
+	{
+		"id": 222,
+		"nameId": 54522,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			409
+		]
+	},
+	{
+		"id": 224,
+		"nameId": 54413,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 70,
+		"levelMax": 70,
+		"stepIds": [
+			414
+		]
+	},
+	{
+		"id": 225,
+		"nameId": 95116,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 80,
+		"levelMax": 80,
+		"stepIds": [
+			415,
+			416,
+			417,
+			1508
+		]
+	},
+	{
+		"id": 226,
+		"nameId": 54727,
+		"categoryId": 20,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 0,
+		"levelMax": 0,
+		"stepIds": [
+			418
+		]
+	},
+	{
+		"id": 229,
+		"nameId": 54020,
+		"categoryId": 13,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			420
+		]
+	},
+	{
+		"id": 230,
+		"nameId": 54276,
+		"categoryId": 21,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 80,
+		"levelMax": 80,
+		"stepIds": [
+			421
+		]
+	},
+	{
+		"id": 231,
+		"nameId": 54751,
+		"categoryId": 21,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 35,
+		"levelMax": 35,
+		"stepIds": [
+			422
+		]
+	},
+	{
+		"id": 232,
+		"nameId": 54758,
+		"categoryId": 21,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 35,
+		"levelMax": 35,
+		"stepIds": [
+			423
+		]
+	},
+	{
+		"id": 233,
+		"nameId": 54272,
+		"categoryId": 21,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			424
+		]
+	},
+	{
+		"id": 234,
+		"nameId": 54273,
+		"categoryId": 21,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 45,
+		"levelMax": 45,
+		"stepIds": [
+			425
+		]
+	},
+	{
+		"id": 235,
+		"nameId": 54278,
+		"categoryId": 21,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			426
+		]
+	},
+	{
+		"id": 236,
+		"nameId": 54279,
+		"categoryId": 21,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			427
+		]
+	},
+	{
+		"id": 237,
+		"nameId": 54281,
+		"categoryId": 21,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 65,
+		"levelMax": 65,
+		"stepIds": [
+			428
+		]
+	},
+	{
+		"id": 238,
+		"nameId": 54283,
+		"categoryId": 21,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 95,
+		"levelMax": 95,
+		"stepIds": [
+			429
+		]
+	},
+	{
+		"id": 239,
+		"nameId": 54277,
+		"categoryId": 21,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 65,
+		"levelMax": 65,
+		"stepIds": [
+			430
+		]
+	},
+	{
+		"id": 240,
+		"nameId": 54300,
+		"categoryId": 21,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			431
+		]
+	},
+	{
+		"id": 241,
+		"nameId": 54297,
+		"categoryId": 21,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 50,
+		"levelMax": 110,
+		"stepIds": [
+			432,
+			433,
+			434,
+			435,
+			436
+		]
+	},
+	{
+		"id": 242,
+		"nameId": 54296,
+		"categoryId": 21,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 80,
+		"levelMax": 80,
+		"stepIds": [
+			437
+		]
+	},
+	{
+		"id": 243,
+		"nameId": 54298,
+		"categoryId": 21,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			438
+		]
+	},
+	{
+		"id": 245,
+		"nameId": 54722,
+		"categoryId": 8,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 200,
+		"levelMax": 200,
+		"stepIds": [
+			440
+		]
+	},
+	{
+		"id": 246,
+		"nameId": 54310,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			442,
+			889,
+			443
+		]
+	},
+	{
+		"id": 247,
+		"nameId": 54307,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 41,
+		"levelMax": 41,
+		"stepIds": [
+			444,
+			445,
+			446,
+			890,
+			891
+		]
+	},
+	{
+		"id": 248,
+		"nameId": 54752,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 42,
+		"levelMax": 42,
+		"stepIds": [
+			447,
+			448,
+			892,
+			918
+		]
+	},
+	{
+		"id": 249,
+		"nameId": 54308,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 46,
+		"levelMax": 46,
+		"stepIds": [
+			449
+		]
+	},
+	{
+		"id": 250,
+		"nameId": 54226,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 43,
+		"levelMax": 43,
+		"stepIds": [
+			451,
+			452
+		]
+	},
+	{
+		"id": 251,
+		"nameId": 54227,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 44,
+		"levelMax": 44,
+		"stepIds": [
+			453
+		]
+	},
+	{
+		"id": 252,
+		"nameId": 54542,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 45,
+		"levelMax": 45,
+		"stepIds": [
+			455,
+			953,
+			893,
+			894,
+			895,
+			896
+		]
+	},
+	{
+		"id": 253,
+		"nameId": 54228,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 46,
+		"levelMax": 46,
+		"stepIds": [
+			456
+		]
+	},
+	{
+		"id": 254,
+		"nameId": 54229,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 46,
+		"levelMax": 46,
+		"stepIds": [
+			457
+		]
+	},
+	{
+		"id": 255,
+		"nameId": 54230,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 47,
+		"levelMax": 47,
+		"stepIds": [
+			458,
+			897,
+			898
+		]
+	},
+	{
+		"id": 256,
+		"nameId": 54231,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 48,
+		"levelMax": 48,
+		"stepIds": [
+			459,
+			460,
+			899,
+			900
+		]
+	},
+	{
+		"id": 257,
+		"nameId": 54232,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			461,
+			462
+		]
+	},
+	{
+		"id": 258,
+		"nameId": 54233,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 41,
+		"levelMax": 41,
+		"stepIds": [
+			463
+		]
+	},
+	{
+		"id": 259,
+		"nameId": 54234,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 42,
+		"levelMax": 42,
+		"stepIds": [
+			464,
+			465,
+			915
+		]
+	},
+	{
+		"id": 260,
+		"nameId": 54248,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 43,
+		"levelMax": 43,
+		"stepIds": [
+			466,
+			470,
+			468,
+			469
+		]
+	},
+	{
+		"id": 261,
+		"nameId": 54249,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 44,
+		"levelMax": 44,
+		"stepIds": [
+			916,
+			917,
+			919
+		]
+	},
+	{
+		"id": 262,
+		"nameId": 54246,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 45,
+		"levelMax": 45,
+		"stepIds": [
+			472,
+			920,
+			921
+		]
+	},
+	{
+		"id": 263,
+		"nameId": 54247,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 46,
+		"levelMax": 46,
+		"stepIds": [
+			473,
+			474,
+			922,
+			923
+		]
+	},
+	{
+		"id": 264,
+		"nameId": 54645,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 47,
+		"levelMax": 47,
+		"stepIds": [
+			475,
+			924
+		]
+	},
+	{
+		"id": 265,
+		"nameId": 54252,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 48,
+		"levelMax": 48,
+		"stepIds": [
+			476,
+			477
+		]
+	},
+	{
+		"id": 266,
+		"nameId": 54250,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 49,
+		"levelMax": 49,
+		"stepIds": [
+			925,
+			478
+		]
+	},
+	{
+		"id": 267,
+		"nameId": 54251,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 50,
+		"levelMax": 50,
+		"stepIds": [
+			479,
+			480,
+			481
+		]
+	},
+	{
+		"id": 268,
+		"nameId": 54045,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 51,
+		"levelMax": 51,
+		"stepIds": [
+			482,
+			483
+		]
+	},
+	{
+		"id": 270,
+		"nameId": 54750,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 53,
+		"levelMax": 53,
+		"stepIds": [
+			485,
+			906
+		]
+	},
+	{
+		"id": 271,
+		"nameId": 54039,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 54,
+		"levelMax": 54,
+		"stepIds": [
+			487,
+			486
+		]
+	},
+	{
+		"id": 272,
+		"nameId": 54038,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 54,
+		"levelMax": 54,
+		"stepIds": [
+			1021,
+			488,
+			907
+		]
+	},
+	{
+		"id": 273,
+		"nameId": 54041,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 54,
+		"levelMax": 54,
+		"stepIds": [
+			489,
+			908
+		]
+	},
+	{
+		"id": 274,
+		"nameId": 54040,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 54,
+		"levelMax": 54,
+		"stepIds": [
+			490,
+			909
+		]
+	},
+	{
+		"id": 275,
+		"nameId": 54196,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 55,
+		"levelMax": 55,
+		"stepIds": [
+			491
+		]
+	},
+	{
+		"id": 276,
+		"nameId": 54195,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 56,
+		"levelMax": 56,
+		"stepIds": [
+			492
+		]
+	},
+	{
+		"id": 277,
+		"nameId": 54034,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 57,
+		"levelMax": 57,
+		"stepIds": [
+			493
+		]
+	},
+	{
+		"id": 278,
+		"nameId": 86615,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 58,
+		"levelMax": 58,
+		"stepIds": [
+			494
+		]
+	},
+	{
+		"id": 279,
+		"nameId": 54185,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 59,
+		"levelMax": 59,
+		"stepIds": [
+			495
+		]
+	},
+	{
+		"id": 280,
+		"nameId": 54042,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 50,
+		"levelMax": 50,
+		"stepIds": [
+			496,
+			497
+		]
+	},
+	{
+		"id": 281,
+		"nameId": 54043,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 51,
+		"levelMax": 51,
+		"stepIds": [
+			498,
+			927
+		]
+	},
+	{
+		"id": 282,
+		"nameId": 54210,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 52,
+		"levelMax": 52,
+		"stepIds": [
+			499,
+			500
+		]
+	},
+	{
+		"id": 283,
+		"nameId": 54212,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 53,
+		"levelMax": 53,
+		"stepIds": [
+			501,
+			955,
+			928
+		]
+	},
+	{
+		"id": 284,
+		"nameId": 54000,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 54,
+		"levelMax": 54,
+		"stepIds": [
+			502,
+			929
+		]
+	},
+	{
+		"id": 285,
+		"nameId": 54209,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 55,
+		"levelMax": 55,
+		"stepIds": [
+			503
+		]
+	},
+	{
+		"id": 286,
+		"nameId": 54207,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 56,
+		"levelMax": 56,
+		"stepIds": [
+			504,
+			930,
+			931,
+			932
+		]
+	},
+	{
+		"id": 289,
+		"nameId": 54206,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 58,
+		"levelMax": 58,
+		"stepIds": [
+			508,
+			933
+		]
+	},
+	{
+		"id": 290,
+		"nameId": 54216,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 57,
+		"levelMax": 57,
+		"stepIds": [
+			509
+		]
+	},
+	{
+		"id": 291,
+		"nameId": 54214,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 59,
+		"levelMax": 59,
+		"stepIds": [
+			510,
+			956
+		]
+	},
+	{
+		"id": 293,
+		"nameId": 54163,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			512,
+			513,
+			934,
+			935
+		]
+	},
+	{
+		"id": 294,
+		"nameId": 54162,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 61,
+		"levelMax": 61,
+		"stepIds": [
+			514
+		]
+	},
+	{
+		"id": 295,
+		"nameId": 54165,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 62,
+		"levelMax": 62,
+		"stepIds": [
+			515
+		]
+	},
+	{
+		"id": 296,
+		"nameId": 54164,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 63,
+		"levelMax": 63,
+		"stepIds": [
+			936,
+			516
+		]
+	},
+	{
+		"id": 298,
+		"nameId": 54485,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 65,
+		"levelMax": 65,
+		"stepIds": [
+			519
+		]
+	},
+	{
+		"id": 299,
+		"nameId": 54168,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 66,
+		"levelMax": 66,
+		"stepIds": [
+			520,
+			521,
+			952
+		]
+	},
+	{
+		"id": 302,
+		"nameId": 54149,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 64,
+		"levelMax": 64,
+		"stepIds": [
+			523,
+			937
+		]
+	},
+	{
+		"id": 303,
+		"nameId": 54147,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 67,
+		"levelMax": 67,
+		"stepIds": [
+			524,
+			525
+		]
+	},
+	{
+		"id": 304,
+		"nameId": 54150,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 68,
+		"levelMax": 68,
+		"stepIds": [
+			526,
+			938,
+			939
+		]
+	},
+	{
+		"id": 305,
+		"nameId": 54151,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			527,
+			528,
+			910,
+			911
+		]
+	},
+	{
+		"id": 306,
+		"nameId": 54152,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 61,
+		"levelMax": 61,
+		"stepIds": [
+			529
+		]
+	},
+	{
+		"id": 307,
+		"nameId": 54153,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 62,
+		"levelMax": 62,
+		"stepIds": [
+			530,
+			912
+		]
+	},
+	{
+		"id": 308,
+		"nameId": 54154,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 63,
+		"levelMax": 63,
+		"stepIds": [
+			531,
+			913
+		]
+	},
+	{
+		"id": 309,
+		"nameId": 54146,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 64,
+		"levelMax": 64,
+		"stepIds": [
+			532,
+			914
+		]
+	},
+	{
+		"id": 310,
+		"nameId": 54582,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 65,
+		"levelMax": 65,
+		"stepIds": [
+			533
+		]
+	},
+	{
+		"id": 311,
+		"nameId": 54743,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 65,
+		"levelMax": 65,
+		"stepIds": [
+			534
+		]
+	},
+	{
+		"id": 312,
+		"nameId": 54480,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 65,
+		"levelMax": 65,
+		"stepIds": [
+			535
+		]
+	},
+	{
+		"id": 313,
+		"nameId": 54551,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 66,
+		"levelMax": 66,
+		"stepIds": [
+			536
+		]
+	},
+	{
+		"id": 314,
+		"nameId": 54651,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 67,
+		"levelMax": 67,
+		"stepIds": [
+			537,
+			538
+		]
+	},
+	{
+		"id": 315,
+		"nameId": 54575,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 68,
+		"levelMax": 68,
+		"stepIds": [
+			539,
+			540,
+			541,
+			542
+		]
+	},
+	{
+		"id": 317,
+		"nameId": 54085,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 69,
+		"levelMax": 69,
+		"stepIds": [
+			544,
+			926
+		]
+	},
+	{
+		"id": 333,
+		"nameId": 54547,
+		"categoryId": 9,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 69,
+		"levelMax": 69,
+		"stepIds": [
+			572,
+			573
+		]
+	},
+	{
+		"id": 375,
+		"nameId": 54280,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 1,
+		"stepIds": [
+			726
+		]
+	},
+	{
+		"id": 376,
+		"nameId": 54282,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 1,
+		"stepIds": [
+			727
+		]
+	},
+	{
+		"id": 377,
+		"nameId": 54284,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 2,
+		"levelMax": 2,
+		"stepIds": [
+			728
+		]
+	},
+	{
+		"id": 378,
+		"nameId": 54270,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 3,
+		"levelMax": 3,
+		"stepIds": [
+			729
+		]
+	},
+	{
+		"id": 379,
+		"nameId": 54271,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 4,
+		"levelMax": 4,
+		"stepIds": [
+			730
+		]
+	},
+	{
+		"id": 380,
+		"nameId": 54287,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 5,
+		"levelMax": 5,
+		"stepIds": [
+			731
+		]
+	},
+	{
+		"id": 381,
+		"nameId": 54304,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 6,
+		"levelMax": 6,
+		"stepIds": [
+			732
+		]
+	},
+	{
+		"id": 382,
+		"nameId": 54305,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 7,
+		"levelMax": 7,
+		"stepIds": [
+			733
+		]
+	},
+	{
+		"id": 383,
+		"nameId": 54302,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 8,
+		"levelMax": 8,
+		"stepIds": [
+			734
+		]
+	},
+	{
+		"id": 384,
+		"nameId": 54303,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 9,
+		"stepIds": [
+			735
+		]
+	},
+	{
+		"id": 385,
+		"nameId": 54311,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 10,
+		"stepIds": [
+			736
+		]
+	},
+	{
+		"id": 386,
+		"nameId": 54312,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 11,
+		"levelMax": 11,
+		"stepIds": [
+			737
+		]
+	},
+	{
+		"id": 387,
+		"nameId": 54306,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			738
+		]
+	},
+	{
+		"id": 388,
+		"nameId": 54309,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 13,
+		"levelMax": 13,
+		"stepIds": [
+			739
+		]
+	},
+	{
+		"id": 389,
+		"nameId": 54299,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 14,
+		"levelMax": 14,
+		"stepIds": [
+			740
+		]
+	},
+	{
+		"id": 390,
+		"nameId": 54662,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			741
+		]
+	},
+	{
+		"id": 391,
+		"nameId": 54313,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 16,
+		"levelMax": 16,
+		"stepIds": [
+			742
+		]
+	},
+	{
+		"id": 392,
+		"nameId": 54159,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 17,
+		"levelMax": 17,
+		"stepIds": [
+			743
+		]
+	},
+	{
+		"id": 393,
+		"nameId": 54158,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 18,
+		"levelMax": 18,
+		"stepIds": [
+			744
+		]
+	},
+	{
+		"id": 394,
+		"nameId": 54161,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 19,
+		"levelMax": 19,
+		"stepIds": [
+			745
+		]
+	},
+	{
+		"id": 395,
+		"nameId": 54160,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			746
+		]
+	},
+	{
+		"id": 396,
+		"nameId": 54156,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 21,
+		"levelMax": 21,
+		"stepIds": [
+			747
+		]
+	},
+	{
+		"id": 397,
+		"nameId": 54155,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 22,
+		"levelMax": 22,
+		"stepIds": [
+			748
+		]
+	},
+	{
+		"id": 398,
+		"nameId": 54157,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 23,
+		"levelMax": 23,
+		"stepIds": [
+			749
+		]
+	},
+	{
+		"id": 399,
+		"nameId": 54021,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 24,
+		"levelMax": 24,
+		"stepIds": [
+			750
+		]
+	},
+	{
+		"id": 400,
+		"nameId": 54097,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			751
+		]
+	},
+	{
+		"id": 401,
+		"nameId": 54099,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 26,
+		"levelMax": 26,
+		"stepIds": [
+			752
+		]
+	},
+	{
+		"id": 402,
+		"nameId": 54101,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 27,
+		"levelMax": 27,
+		"stepIds": [
+			753
+		]
+	},
+	{
+		"id": 403,
+		"nameId": 54491,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 28,
+		"levelMax": 28,
+		"stepIds": [
+			754
+		]
+	},
+	{
+		"id": 404,
+		"nameId": 54094,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 29,
+		"levelMax": 29,
+		"stepIds": [
+			755
+		]
+	},
+	{
+		"id": 405,
+		"nameId": 54095,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			756
+		]
+	},
+	{
+		"id": 406,
+		"nameId": 54096,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 31,
+		"levelMax": 31,
+		"stepIds": [
+			757
+		]
+	},
+	{
+		"id": 407,
+		"nameId": 54599,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 32,
+		"levelMax": 32,
+		"stepIds": [
+			758
+		]
+	},
+	{
+		"id": 408,
+		"nameId": 54104,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 33,
+		"levelMax": 33,
+		"stepIds": [
+			759
+		]
+	},
+	{
+		"id": 409,
+		"nameId": 54103,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 34,
+		"levelMax": 34,
+		"stepIds": [
+			760
+		]
+	},
+	{
+		"id": 410,
+		"nameId": 54083,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 35,
+		"levelMax": 35,
+		"stepIds": [
+			761
+		]
+	},
+	{
+		"id": 411,
+		"nameId": 54648,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 36,
+		"levelMax": 36,
+		"stepIds": [
+			762
+		]
+	},
+	{
+		"id": 412,
+		"nameId": 54084,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 37,
+		"levelMax": 37,
+		"stepIds": [
+			763,
+			764,
+			765
+		]
+	},
+	{
+		"id": 413,
+		"nameId": 54637,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 38,
+		"levelMax": 38,
+		"stepIds": [
+			766
+		]
+	},
+	{
+		"id": 414,
+		"nameId": 54728,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 39,
+		"levelMax": 39,
+		"stepIds": [
+			767
+		]
+	},
+	{
+		"id": 433,
+		"nameId": 54132,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			792
+		]
+	},
+	{
+		"id": 434,
+		"nameId": 54517,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			793
+		]
+	},
+	{
+		"id": 435,
+		"nameId": 54131,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			794
+		]
+	},
+	{
+		"id": 436,
+		"nameId": 54130,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			795
+		]
+	},
+	{
+		"id": 437,
+		"nameId": 54129,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			796
+		]
+	},
+	{
+		"id": 438,
+		"nameId": 54507,
+		"categoryId": 12,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			797
+		]
+	},
+	{
+		"id": 439,
+		"nameId": 54128,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 200,
+		"stepIds": [
+			847,
+			848,
+			849,
+			850,
+			851,
+			852,
+			853,
+			854,
+			855,
+			856,
+			857,
+			858,
+			859,
+			860,
+			861,
+			862,
+			863,
+			864,
+			865,
+			866,
+			867,
+			868,
+			869,
+			870,
+			871,
+			872,
+			873,
+			874,
+			875,
+			876,
+			877,
+			878,
+			879,
+			880,
+			881
+		]
+	},
+	{
+		"id": 440,
+		"nameId": 54387,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 50,
+		"levelMax": 50,
+		"stepIds": [
+			882
+		]
+	},
+	{
+		"id": 441,
+		"nameId": 54006,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			883
+		]
+	},
+	{
+		"id": 442,
+		"nameId": 54011,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			884
+		]
+	},
+	{
+		"id": 445,
+		"nameId": 54138,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 49,
+		"levelMax": 49,
+		"stepIds": [
+			901,
+			902,
+			903
+		]
+	},
+	{
+		"id": 446,
+		"nameId": 53960,
+		"categoryId": 10,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 52,
+		"levelMax": 52,
+		"stepIds": [
+			963,
+			904,
+			905
+		]
+	},
+	{
+		"id": 447,
+		"nameId": 54141,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			945
+		]
+	},
+	{
+		"id": 448,
+		"nameId": 54134,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			946
+		]
+	},
+	{
+		"id": 458,
+		"nameId": 54106,
+		"categoryId": 2,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 200,
+		"stepIds": [
+			979
+		]
+	},
+	{
+		"id": 459,
+		"nameId": 54108,
+		"categoryId": 2,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 200,
+		"stepIds": [
+			982
+		]
+	},
+	{
+		"id": 460,
+		"nameId": 54121,
+		"categoryId": 2,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 200,
+		"stepIds": [
+			983
+		]
+	},
+	{
+		"id": 461,
+		"nameId": 54050,
+		"categoryId": 2,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 200,
+		"stepIds": [
+			984
+		]
+	},
+	{
+		"id": 462,
+		"nameId": 54123,
+		"categoryId": 2,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 200,
+		"stepIds": [
+			985
+		]
+	},
+	{
+		"id": 463,
+		"nameId": 54036,
+		"categoryId": 2,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 200,
+		"stepIds": [
+			986
+		]
+	},
+	{
+		"id": 464,
+		"nameId": 54126,
+		"categoryId": 2,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 200,
+		"stepIds": [
+			987
+		]
+	},
+	{
+		"id": 465,
+		"nameId": 54077,
+		"categoryId": 2,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 200,
+		"stepIds": [
+			988
+		]
+	},
+	{
+		"id": 466,
+		"nameId": 54076,
+		"categoryId": 2,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 200,
+		"stepIds": [
+			989
+		]
+	},
+	{
+		"id": 467,
+		"nameId": 54115,
+		"categoryId": 2,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 200,
+		"stepIds": [
+			990
+		]
+	},
+	{
+		"id": 468,
+		"nameId": 54653,
+		"categoryId": 2,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 200,
+		"stepIds": [
+			991
+		]
+	},
+	{
+		"id": 469,
+		"nameId": 54652,
+		"categoryId": 2,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 200,
+		"stepIds": [
+			992
+		]
+	},
+	{
+		"id": 470,
+		"nameId": 102772,
+		"categoryId": 2,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 200,
+		"stepIds": [
+			995
+		]
+	},
+	{
+		"id": 485,
+		"nameId": 78940,
+		"categoryId": 13,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 85,
+		"levelMax": 85,
+		"stepIds": [
+			1034
+		]
+	},
+	{
+		"id": 486,
+		"nameId": 54213,
+		"categoryId": 23,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			1035
+		]
+	},
+	{
+		"id": 488,
+		"nameId": 54225,
+		"categoryId": 8,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			1041
+		]
+	},
+	{
+		"id": 489,
+		"nameId": 54787,
+		"categoryId": 24,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 1,
+		"stepIds": [
+			1042,
+			1043,
+			1044,
+			1045,
+			1046,
+			1047,
+			1048,
+			1049,
+			1050,
+			1051,
+			1052,
+			1060,
+			1053,
+			1061,
+			1059
+		]
+	},
+	{
+		"id": 492,
+		"nameId": 54772,
+		"categoryId": 24,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 1,
+		"stepIds": [
+			1055
+		]
+	},
+	{
+		"id": 493,
+		"nameId": 54166,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1056,
+			1057,
+			1058
+		]
+	},
+	{
+		"id": 494,
+		"nameId": 54167,
+		"categoryId": 28,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			1062
+		]
+	},
+	{
+		"id": 495,
+		"nameId": 54462,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 50,
+		"stepIds": [
+			1063
+		]
+	},
+	{
+		"id": 496,
+		"nameId": 54554,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 50,
+		"stepIds": [
+			1064
+		]
+	},
+	{
+		"id": 497,
+		"nameId": 54555,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 50,
+		"stepIds": [
+			1065
+		]
+	},
+	{
+		"id": 498,
+		"nameId": 54475,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 50,
+		"stepIds": [
+			1066
+		]
+	},
+	{
+		"id": 499,
+		"nameId": 54476,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 51,
+		"levelMax": 80,
+		"stepIds": [
+			1067
+		]
+	},
+	{
+		"id": 500,
+		"nameId": 54511,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 50,
+		"stepIds": [
+			1068
+		]
+	},
+	{
+		"id": 501,
+		"nameId": 54516,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 51,
+		"levelMax": 80,
+		"stepIds": [
+			1069
+		]
+	},
+	{
+		"id": 502,
+		"nameId": 54477,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 51,
+		"levelMax": 80,
+		"stepIds": [
+			1070
+		]
+	},
+	{
+		"id": 503,
+		"nameId": 54478,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 51,
+		"levelMax": 80,
+		"stepIds": [
+			1071
+		]
+	},
+	{
+		"id": 504,
+		"nameId": 54701,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 81,
+		"levelMax": 110,
+		"stepIds": [
+			1072
+		]
+	},
+	{
+		"id": 505,
+		"nameId": 54702,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 81,
+		"levelMax": 110,
+		"stepIds": [
+			1073
+		]
+	},
+	{
+		"id": 506,
+		"nameId": 54556,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 81,
+		"levelMax": 110,
+		"stepIds": [
+			1074
+		]
+	},
+	{
+		"id": 507,
+		"nameId": 54557,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 81,
+		"levelMax": 110,
+		"stepIds": [
+			1075
+		]
+	},
+	{
+		"id": 508,
+		"nameId": 54479,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 51,
+		"levelMax": 80,
+		"stepIds": [
+			1076
+		]
+	},
+	{
+		"id": 509,
+		"nameId": 54500,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 111,
+		"levelMax": 140,
+		"stepIds": [
+			1077
+		]
+	},
+	{
+		"id": 510,
+		"nameId": 54502,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 111,
+		"levelMax": 140,
+		"stepIds": [
+			1078
+		]
+	},
+	{
+		"id": 511,
+		"nameId": 54508,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 111,
+		"levelMax": 140,
+		"stepIds": [
+			1079
+		]
+	},
+	{
+		"id": 512,
+		"nameId": 54481,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 81,
+		"levelMax": 110,
+		"stepIds": [
+			1080
+		]
+	},
+	{
+		"id": 513,
+		"nameId": 54482,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 111,
+		"levelMax": 140,
+		"stepIds": [
+			1081
+		]
+	},
+	{
+		"id": 514,
+		"nameId": 54483,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 111,
+		"levelMax": 140,
+		"stepIds": [
+			1082
+		]
+	},
+	{
+		"id": 515,
+		"nameId": 54484,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 111,
+		"levelMax": 140,
+		"stepIds": [
+			1083
+		]
+	},
+	{
+		"id": 516,
+		"nameId": 54558,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 81,
+		"levelMax": 110,
+		"stepIds": [
+			1084
+		]
+	},
+	{
+		"id": 517,
+		"nameId": 54559,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 141,
+		"levelMax": 170,
+		"stepIds": [
+			1085
+		]
+	},
+	{
+		"id": 518,
+		"nameId": 54560,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 111,
+		"levelMax": 140,
+		"stepIds": [
+			1086
+		]
+	},
+	{
+		"id": 519,
+		"nameId": 54561,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 171,
+		"levelMax": 200,
+		"stepIds": [
+			1087
+		]
+	},
+	{
+		"id": 520,
+		"nameId": 54486,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 171,
+		"levelMax": 200,
+		"stepIds": [
+			1088
+		]
+	},
+	{
+		"id": 521,
+		"nameId": 54488,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 141,
+		"levelMax": 170,
+		"stepIds": [
+			1089
+		]
+	},
+	{
+		"id": 522,
+		"nameId": 54489,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 171,
+		"levelMax": 200,
+		"stepIds": [
+			1090
+		]
+	},
+	{
+		"id": 523,
+		"nameId": 54492,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 171,
+		"levelMax": 200,
+		"stepIds": [
+			1091
+		]
+	},
+	{
+		"id": 525,
+		"nameId": 54086,
+		"categoryId": 23,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 50,
+		"levelMax": 50,
+		"stepIds": [
+			1093
+		]
+	},
+	{
+		"id": 526,
+		"nameId": 54509,
+		"categoryId": 23,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 50,
+		"levelMax": 50,
+		"stepIds": [
+			1094,
+			1095,
+			1096,
+			1097
+		]
+	},
+	{
+		"id": 527,
+		"nameId": 54087,
+		"categoryId": 23,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 50,
+		"levelMax": 50,
+		"stepIds": [
+			1098,
+			1099,
+			1100,
+			1101
+		]
+	},
+	{
+		"id": 528,
+		"nameId": 54026,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1102,
+			1103
+		]
+	},
+	{
+		"id": 530,
+		"nameId": 54092,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1113
+		]
+	},
+	{
+		"id": 531,
+		"nameId": 54093,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1114
+		]
+	},
+	{
+		"id": 532,
+		"nameId": 54088,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1115
+		]
+	},
+	{
+		"id": 533,
+		"nameId": 54090,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1117
+		]
+	},
+	{
+		"id": 534,
+		"nameId": 54533,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1116
+		]
+	},
+	{
+		"id": 535,
+		"nameId": 54539,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1118
+		]
+	},
+	{
+		"id": 536,
+		"nameId": 53969,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 110,
+		"levelMax": 110,
+		"stepIds": [
+			1107
+		]
+	},
+	{
+		"id": 537,
+		"nameId": 54553,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1108
+		]
+	},
+	{
+		"id": 538,
+		"nameId": 54530,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 130,
+		"levelMax": 130,
+		"stepIds": [
+			1109
+		]
+	},
+	{
+		"id": 539,
+		"nameId": 54552,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1110
+		]
+	},
+	{
+		"id": 540,
+		"nameId": 54098,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1111
+		]
+	},
+	{
+		"id": 541,
+		"nameId": 54100,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1112
+		]
+	},
+	{
+		"id": 542,
+		"nameId": 54102,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1120,
+			1121
+		]
+	},
+	{
+		"id": 543,
+		"nameId": 54589,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 130,
+		"levelMax": 130,
+		"stepIds": [
+			1175
+		]
+	},
+	{
+		"id": 544,
+		"nameId": 54586,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1216
+		]
+	},
+	{
+		"id": 545,
+		"nameId": 54587,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 130,
+		"levelMax": 130,
+		"stepIds": [
+			1173
+		]
+	},
+	{
+		"id": 546,
+		"nameId": 54593,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 140,
+		"levelMax": 140,
+		"stepIds": [
+			1215
+		]
+	},
+	{
+		"id": 547,
+		"nameId": 54595,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			1172
+		]
+	},
+	{
+		"id": 548,
+		"nameId": 54544,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1171
+		]
+	},
+	{
+		"id": 549,
+		"nameId": 54545,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1170
+		]
+	},
+	{
+		"id": 550,
+		"nameId": 54499,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1269
+		]
+	},
+	{
+		"id": 551,
+		"nameId": 54107,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 180,
+		"levelMax": 180,
+		"stepIds": [
+			1270
+		]
+	},
+	{
+		"id": 552,
+		"nameId": 54105,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1271
+		]
+	},
+	{
+		"id": 553,
+		"nameId": 54501,
+		"categoryId": 6,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1272
+		]
+	},
+	{
+		"id": 554,
+		"nameId": 54113,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1140,
+			1141
+		]
+	},
+	{
+		"id": 555,
+		"nameId": 54112,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1119
+		]
+	},
+	{
+		"id": 556,
+		"nameId": 54111,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 110,
+		"levelMax": 110,
+		"stepIds": [
+			1127
+		]
+	},
+	{
+		"id": 557,
+		"nameId": 54110,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1128
+		]
+	},
+	{
+		"id": 558,
+		"nameId": 54109,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 130,
+		"levelMax": 130,
+		"stepIds": [
+			1129
+		]
+	},
+	{
+		"id": 559,
+		"nameId": 54626,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			1130
+		]
+	},
+	{
+		"id": 560,
+		"nameId": 54119,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1131
+		]
+	},
+	{
+		"id": 561,
+		"nameId": 54116,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1132
+		]
+	},
+	{
+		"id": 562,
+		"nameId": 54114,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1133
+		]
+	},
+	{
+		"id": 563,
+		"nameId": 54118,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 180,
+		"levelMax": 180,
+		"stepIds": [
+			1134
+		]
+	},
+	{
+		"id": 564,
+		"nameId": 54117,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1135
+		]
+	},
+	{
+		"id": 565,
+		"nameId": 54122,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1136
+		]
+	},
+	{
+		"id": 566,
+		"nameId": 54654,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 110,
+		"levelMax": 110,
+		"stepIds": [
+			1158
+		]
+	},
+	{
+		"id": 567,
+		"nameId": 54125,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1159
+		]
+	},
+	{
+		"id": 568,
+		"nameId": 54124,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 130,
+		"levelMax": 130,
+		"stepIds": [
+			1160
+		]
+	},
+	{
+		"id": 569,
+		"nameId": 54120,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			1197
+		]
+	},
+	{
+		"id": 570,
+		"nameId": 54658,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1198
+		]
+	},
+	{
+		"id": 571,
+		"nameId": 54127,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1199
+		]
+	},
+	{
+		"id": 572,
+		"nameId": 54671,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1203
+		]
+	},
+	{
+		"id": 573,
+		"nameId": 54676,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 180,
+		"levelMax": 180,
+		"stepIds": [
+			1245
+		]
+	},
+	{
+		"id": 574,
+		"nameId": 54683,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1246
+		]
+	},
+	{
+		"id": 575,
+		"nameId": 54691,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1247
+		]
+	},
+	{
+		"id": 577,
+		"nameId": 54703,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 130,
+		"levelMax": 130,
+		"stepIds": [
+			1149,
+			1150
+		]
+	},
+	{
+		"id": 578,
+		"nameId": 54706,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 130,
+		"levelMax": 130,
+		"stepIds": [
+			1151
+		]
+	},
+	{
+		"id": 579,
+		"nameId": 54704,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 130,
+		"levelMax": 130,
+		"stepIds": [
+			1154
+		]
+	},
+	{
+		"id": 580,
+		"nameId": 54133,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1155
+		]
+	},
+	{
+		"id": 581,
+		"nameId": 54136,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 130,
+		"levelMax": 130,
+		"stepIds": [
+			1162
+		]
+	},
+	{
+		"id": 582,
+		"nameId": 54135,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 130,
+		"levelMax": 130,
+		"stepIds": [
+			1166,
+			1167
+		]
+	},
+	{
+		"id": 584,
+		"nameId": 54137,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 1,
+		"stepIds": [
+			1161
+		]
+	},
+	{
+		"id": 585,
+		"nameId": 54143,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1238
+		]
+	},
+	{
+		"id": 586,
+		"nameId": 54140,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 180,
+		"levelMax": 180,
+		"stepIds": [
+			1239
+		]
+	},
+	{
+		"id": 587,
+		"nameId": 54145,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1240
+		]
+	},
+	{
+		"id": 588,
+		"nameId": 54144,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1241
+		]
+	},
+	{
+		"id": 589,
+		"nameId": 54148,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1142,
+			1143
+		]
+	},
+	{
+		"id": 590,
+		"nameId": 54174,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1144,
+			1145
+		]
+	},
+	{
+		"id": 591,
+		"nameId": 54175,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 140,
+		"levelMax": 140,
+		"stepIds": [
+			1146
+		]
+	},
+	{
+		"id": 592,
+		"nameId": 54176,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			1168,
+			1169
+		]
+	},
+	{
+		"id": 593,
+		"nameId": 54177,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1200
+		]
+	},
+	{
+		"id": 594,
+		"nameId": 54389,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1204,
+			1205
+		]
+	},
+	{
+		"id": 595,
+		"nameId": 54171,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1281,
+			1295,
+			1296,
+			1297,
+			1298,
+			1299
+		]
+	},
+	{
+		"id": 596,
+		"nameId": 54172,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 180,
+		"levelMax": 180,
+		"stepIds": [
+			1257,
+			1258,
+			1259,
+			1261
+		]
+	},
+	{
+		"id": 597,
+		"nameId": 54173,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1285,
+			1286
+		]
+	},
+	{
+		"id": 598,
+		"nameId": 54708,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1287,
+			1288,
+			1289
+		]
+	},
+	{
+		"id": 599,
+		"nameId": 54710,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 110,
+		"levelMax": 110,
+		"stepIds": [
+			1156
+		]
+	},
+	{
+		"id": 600,
+		"nameId": 54367,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1157
+		]
+	},
+	{
+		"id": 601,
+		"nameId": 54369,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			1163
+		]
+	},
+	{
+		"id": 602,
+		"nameId": 54372,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1164
+		]
+	},
+	{
+		"id": 603,
+		"nameId": 54373,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 180,
+		"levelMax": 180,
+		"stepIds": [
+			1250
+		]
+	},
+	{
+		"id": 604,
+		"nameId": 54370,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1252,
+			1253
+		]
+	},
+	{
+		"id": 605,
+		"nameId": 54371,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1206
+		]
+	},
+	{
+		"id": 606,
+		"nameId": 54385,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1282
+		]
+	},
+	{
+		"id": 608,
+		"nameId": 54383,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1262
+		]
+	},
+	{
+		"id": 609,
+		"nameId": 54382,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1263
+		]
+	},
+	{
+		"id": 610,
+		"nameId": 54327,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 180,
+		"levelMax": 180,
+		"stepIds": [
+			1264
+		]
+	},
+	{
+		"id": 611,
+		"nameId": 54328,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1265
+		]
+	},
+	{
+		"id": 612,
+		"nameId": 54329,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1126
+		]
+	},
+	{
+		"id": 613,
+		"nameId": 54716,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1124
+		]
+	},
+	{
+		"id": 614,
+		"nameId": 54717,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1125
+		]
+	},
+	{
+		"id": 615,
+		"nameId": 54321,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 120,
+		"stepIds": [
+			1137,
+			1138,
+			1139
+		]
+	},
+	{
+		"id": 616,
+		"nameId": 54324,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1147,
+			1148
+		]
+	},
+	{
+		"id": 617,
+		"nameId": 54337,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1218,
+			1219
+		]
+	},
+	{
+		"id": 618,
+		"nameId": 54336,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1176
+		]
+	},
+	{
+		"id": 619,
+		"nameId": 54338,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1123
+		]
+	},
+	{
+		"id": 620,
+		"nameId": 54347,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 140,
+		"levelMax": 140,
+		"stepIds": [
+			1165
+		]
+	},
+	{
+		"id": 621,
+		"nameId": 54348,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			1235
+		]
+	},
+	{
+		"id": 622,
+		"nameId": 54345,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1236
+		]
+	},
+	{
+		"id": 623,
+		"nameId": 54346,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1249
+		]
+	},
+	{
+		"id": 624,
+		"nameId": 54343,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 180,
+		"levelMax": 180,
+		"stepIds": [
+			1267
+		]
+	},
+	{
+		"id": 625,
+		"nameId": 54344,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1276
+		]
+	},
+	{
+		"id": 626,
+		"nameId": 54340,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1277
+		]
+	},
+	{
+		"id": 628,
+		"nameId": 54358,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 130,
+		"levelMax": 130,
+		"stepIds": [
+			1152
+		]
+	},
+	{
+		"id": 629,
+		"nameId": 54030,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 130,
+		"levelMax": 130,
+		"stepIds": [
+			1153
+		]
+	},
+	{
+		"id": 631,
+		"nameId": 54443,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1174
+		]
+	},
+	{
+		"id": 632,
+		"nameId": 54456,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1237
+		]
+	},
+	{
+		"id": 633,
+		"nameId": 54319,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 180,
+		"levelMax": 180,
+		"stepIds": [
+			1248
+		]
+	},
+	{
+		"id": 634,
+		"nameId": 54318,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 130,
+		"levelMax": 130,
+		"stepIds": [
+			1189,
+			1190,
+			1191,
+			1192
+		]
+	},
+	{
+		"id": 635,
+		"nameId": 54317,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1183,
+			1184
+		]
+	},
+	{
+		"id": 636,
+		"nameId": 54316,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1177
+		]
+	},
+	{
+		"id": 637,
+		"nameId": 54315,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1178
+		]
+	},
+	{
+		"id": 638,
+		"nameId": 54314,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1179
+		]
+	},
+	{
+		"id": 639,
+		"nameId": 54294,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			1180
+		]
+	},
+	{
+		"id": 640,
+		"nameId": 54286,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1185,
+			1186
+		]
+	},
+	{
+		"id": 641,
+		"nameId": 54285,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1181
+		]
+	},
+	{
+		"id": 642,
+		"nameId": 54292,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1182
+		]
+	},
+	{
+		"id": 643,
+		"nameId": 54291,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1188
+		]
+	},
+	{
+		"id": 644,
+		"nameId": 54295,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1187
+		]
+	},
+	{
+		"id": 646,
+		"nameId": 54288,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 130,
+		"levelMax": 130,
+		"stepIds": [
+			1193,
+			1194,
+			1195,
+			1196
+		]
+	},
+	{
+		"id": 648,
+		"nameId": 54290,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 180,
+		"levelMax": 180,
+		"stepIds": [
+			1207
+		]
+	},
+	{
+		"id": 649,
+		"nameId": 54289,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1208
+		]
+	},
+	{
+		"id": 650,
+		"nameId": 54339,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 140,
+		"levelMax": 140,
+		"stepIds": [
+			1209
+		]
+	},
+	{
+		"id": 651,
+		"nameId": 54256,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1210
+		]
+	},
+	{
+		"id": 652,
+		"nameId": 54418,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1211
+		]
+	},
+	{
+		"id": 653,
+		"nameId": 54441,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1212
+		]
+	},
+	{
+		"id": 655,
+		"nameId": 54266,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1266
+		]
+	},
+	{
+		"id": 656,
+		"nameId": 54264,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 200,
+		"levelMax": 200,
+		"stepIds": [
+			1214
+		]
+	},
+	{
+		"id": 657,
+		"nameId": 54269,
+		"categoryId": 23,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1217
+		]
+	},
+	{
+		"id": 658,
+		"nameId": 54268,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1220
+		]
+	},
+	{
+		"id": 659,
+		"nameId": 54267,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 163,
+		"levelMax": 163,
+		"stepIds": [
+			1221
+		]
+	},
+	{
+		"id": 660,
+		"nameId": 54236,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 166,
+		"levelMax": 166,
+		"stepIds": [
+			1222
+		]
+	},
+	{
+		"id": 661,
+		"nameId": 54235,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 169,
+		"levelMax": 169,
+		"stepIds": [
+			1223
+		]
+	},
+	{
+		"id": 662,
+		"nameId": 54238,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 172,
+		"levelMax": 172,
+		"stepIds": [
+			1224
+		]
+	},
+	{
+		"id": 663,
+		"nameId": 54237,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 175,
+		"levelMax": 175,
+		"stepIds": [
+			1225
+		]
+	},
+	{
+		"id": 664,
+		"nameId": 54240,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 178,
+		"levelMax": 178,
+		"stepIds": [
+			1226
+		]
+	},
+	{
+		"id": 665,
+		"nameId": 54239,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 181,
+		"levelMax": 181,
+		"stepIds": [
+			1227
+		]
+	},
+	{
+		"id": 666,
+		"nameId": 54243,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 184,
+		"levelMax": 184,
+		"stepIds": [
+			1228
+		]
+	},
+	{
+		"id": 667,
+		"nameId": 54242,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 187,
+		"levelMax": 187,
+		"stepIds": [
+			1229
+		]
+	},
+	{
+		"id": 668,
+		"nameId": 54245,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1230
+		]
+	},
+	{
+		"id": 669,
+		"nameId": 54244,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 193,
+		"levelMax": 193,
+		"stepIds": [
+			1231
+		]
+	},
+	{
+		"id": 670,
+		"nameId": 54224,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 196,
+		"levelMax": 196,
+		"stepIds": [
+			1232
+		]
+	},
+	{
+		"id": 671,
+		"nameId": 54222,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 199,
+		"levelMax": 199,
+		"stepIds": [
+			1233
+		]
+	},
+	{
+		"id": 673,
+		"nameId": 53980,
+		"categoryId": 8,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 55,
+		"levelMax": 55,
+		"stepIds": [
+			1242
+		]
+	},
+	{
+		"id": 674,
+		"nameId": 54221,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1243,
+			1244
+		]
+	},
+	{
+		"id": 675,
+		"nameId": 54219,
+		"categoryId": 8,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			1251
+		]
+	},
+	{
+		"id": 676,
+		"nameId": 54220,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1254,
+			1255,
+			1256
+		]
+	},
+	{
+		"id": 677,
+		"nameId": 54217,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1274,
+			1275,
+			1278,
+			1279,
+			1280
+		]
+	},
+	{
+		"id": 678,
+		"nameId": 54218,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 180,
+		"levelMax": 180,
+		"stepIds": [
+			1260
+		]
+	},
+	{
+		"id": 679,
+		"nameId": 54215,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1268
+		]
+	},
+	{
+		"id": 680,
+		"nameId": 54204,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1273
+		]
+	},
+	{
+		"id": 681,
+		"nameId": 54205,
+		"categoryId": 8,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 50,
+		"levelMax": 50,
+		"stepIds": [
+			1283
+		]
+	},
+	{
+		"id": 683,
+		"nameId": 54454,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1290
+		]
+	},
+	{
+		"id": 684,
+		"nameId": 86242,
+		"categoryId": 11,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 10,
+		"stepIds": [
+			1293,
+			1294
+		]
+	},
+	{
+		"id": 685,
+		"nameId": 54203,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1300
+		]
+	},
+	{
+		"id": 686,
+		"nameId": 54184,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1301
+		]
+	},
+	{
+		"id": 687,
+		"nameId": 54016,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 140,
+		"levelMax": 140,
+		"stepIds": [
+			1302
+		]
+	},
+	{
+		"id": 688,
+		"nameId": 54198,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			1303
+		]
+	},
+	{
+		"id": 689,
+		"nameId": 54199,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1304
+		]
+	},
+	{
+		"id": 690,
+		"nameId": 54018,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1305
+		]
+	},
+	{
+		"id": 691,
+		"nameId": 54015,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 180,
+		"levelMax": 180,
+		"stepIds": [
+			1306
+		]
+	},
+	{
+		"id": 692,
+		"nameId": 54014,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1307
+		]
+	},
+	{
+		"id": 693,
+		"nameId": 54012,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1308
+		]
+	},
+	{
+		"id": 694,
+		"nameId": 54186,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1309
+		]
+	},
+	{
+		"id": 695,
+		"nameId": 54182,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 120,
+		"levelMax": 120,
+		"stepIds": [
+			1310
+		]
+	},
+	{
+		"id": 696,
+		"nameId": 54183,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 140,
+		"levelMax": 140,
+		"stepIds": [
+			1311
+		]
+	},
+	{
+		"id": 697,
+		"nameId": 54179,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			1312
+		]
+	},
+	{
+		"id": 698,
+		"nameId": 54180,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1313
+		]
+	},
+	{
+		"id": 699,
+		"nameId": 54178,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 170,
+		"levelMax": 170,
+		"stepIds": [
+			1314
+		]
+	},
+	{
+		"id": 700,
+		"nameId": 54396,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 180,
+		"levelMax": 180,
+		"stepIds": [
+			1315
+		]
+	},
+	{
+		"id": 701,
+		"nameId": 54395,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1316
+		]
+	},
+	{
+		"id": 702,
+		"nameId": 54394,
+		"categoryId": 27,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 190,
+		"levelMax": 190,
+		"stepIds": [
+			1317
+		]
+	},
+	{
+		"id": 703,
+		"nameId": 54386,
+		"categoryId": 23,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 75,
+		"levelMax": 75,
+		"stepIds": [
+			1318
+		]
+	},
+	{
+		"id": 704,
+		"nameId": 54748,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1319,
+			1320
+		]
+	},
+	{
+		"id": 705,
+		"nameId": 54072,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			1321
+		]
+	},
+	{
+		"id": 706,
+		"nameId": 54567,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 110,
+		"levelMax": 110,
+		"stepIds": [
+			1322
+		]
+	},
+	{
+		"id": 707,
+		"nameId": 54397,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 180,
+		"levelMax": 180,
+		"stepIds": [
+			1323
+		]
+	},
+	{
+		"id": 708,
+		"nameId": 54398,
+		"categoryId": 2,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 200,
+		"stepIds": [
+			1324
+		]
+	},
+	{
+		"id": 709,
+		"nameId": 79229,
+		"categoryId": 8,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			1325
+		]
+	},
+	{
+		"id": 710,
+		"nameId": 54665,
+		"categoryId": 16,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 50,
+		"levelMax": 50,
+		"stepIds": [
+			1326
+		]
+	},
+	{
+		"id": 711,
+		"nameId": 54331,
+		"categoryId": 17,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 50,
+		"levelMax": 50,
+		"stepIds": [
+			1327
+		]
+	},
+	{
+		"id": 712,
+		"nameId": 54333,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 200,
+		"stepIds": [
+			1328
+		]
+	},
+	{
+		"id": 713,
+		"nameId": 79124,
+		"categoryId": 28,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 200,
+		"stepIds": [
+			1329
+		]
+	},
+	{
+		"id": 714,
+		"nameId": 54334,
+		"categoryId": 28,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 60,
+		"levelMax": 60,
+		"stepIds": [
+			1331,
+			1332,
+			1333,
+			1334,
+			1335
+		]
+	},
+	{
+		"id": 715,
+		"nameId": 54075,
+		"categoryId": 2,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 200,
+		"stepIds": [
+			1330
+		]
+	},
+	{
+		"id": 716,
+		"nameId": 54335,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1336,
+			1337
+		]
+	},
+	{
+		"id": 717,
+		"nameId": 54773,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 2,
+		"levelMax": 2,
+		"stepIds": [
+			1338
+		]
+	},
+	{
+		"id": 718,
+		"nameId": 54422,
+		"categoryId": 23,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 20,
+		"stepIds": [
+			1339,
+			1340,
+			1341,
+			1342
+		]
+	},
+	{
+		"id": 719,
+		"nameId": 54421,
+		"categoryId": 23,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 75,
+		"levelMax": 75,
+		"stepIds": [
+			1343
+		]
+	},
+	{
+		"id": 720,
+		"nameId": 54446,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 50,
+		"stepIds": [
+			1371
+		]
+	},
+	{
+		"id": 721,
+		"nameId": 54444,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 51,
+		"levelMax": 100,
+		"stepIds": [
+			1372
+		]
+	},
+	{
+		"id": 722,
+		"nameId": 54445,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 101,
+		"levelMax": 150,
+		"stepIds": [
+			1373
+		]
+	},
+	{
+		"id": 723,
+		"nameId": 54457,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 151,
+		"levelMax": 200,
+		"stepIds": [
+			1374
+		]
+	},
+	{
+		"id": 724,
+		"nameId": 54352,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1344
+		]
+	},
+	{
+		"id": 725,
+		"nameId": 54350,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1384
+		]
+	},
+	{
+		"id": 726,
+		"nameId": 54351,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1354
+		]
+	},
+	{
+		"id": 727,
+		"nameId": 54357,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 50,
+		"stepIds": [
+			1350
+		]
+	},
+	{
+		"id": 728,
+		"nameId": 54356,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 51,
+		"levelMax": 100,
+		"stepIds": [
+			1351
+		]
+	},
+	{
+		"id": 729,
+		"nameId": 54353,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 101,
+		"levelMax": 150,
+		"stepIds": [
+			1352
+		]
+	},
+	{
+		"id": 730,
+		"nameId": 54362,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 151,
+		"levelMax": 200,
+		"stepIds": [
+			1353
+		]
+	},
+	{
+		"id": 731,
+		"nameId": 111773,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 101,
+		"levelMax": 200,
+		"stepIds": [
+			1361
+		]
+	},
+	{
+		"id": 732,
+		"nameId": 54363,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			1365
+		]
+	},
+	{
+		"id": 733,
+		"nameId": 54364,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 50,
+		"stepIds": [
+			1345
+		]
+	},
+	{
+		"id": 734,
+		"nameId": 54464,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 50,
+		"stepIds": [
+			1346
+		]
+	},
+	{
+		"id": 735,
+		"nameId": 54031,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 101,
+		"levelMax": 150,
+		"stepIds": [
+			1347
+		]
+	},
+	{
+		"id": 736,
+		"nameId": 54360,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 151,
+		"levelMax": 200,
+		"stepIds": [
+			1348
+		]
+	},
+	{
+		"id": 737,
+		"nameId": 54361,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 50,
+		"stepIds": [
+			1366
+		]
+	},
+	{
+		"id": 738,
+		"nameId": 54366,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 51,
+		"levelMax": 100,
+		"stepIds": [
+			1367
+		]
+	},
+	{
+		"id": 739,
+		"nameId": 54365,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 101,
+		"levelMax": 150,
+		"stepIds": [
+			1368
+		]
+	},
+	{
+		"id": 740,
+		"nameId": 54368,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 151,
+		"levelMax": 200,
+		"stepIds": [
+			1369
+		]
+	},
+	{
+		"id": 741,
+		"nameId": 54380,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1349
+		]
+	},
+	{
+		"id": 742,
+		"nameId": 54381,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1356
+		]
+	},
+	{
+		"id": 743,
+		"nameId": 54378,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 50,
+		"stepIds": [
+			1357
+		]
+	},
+	{
+		"id": 744,
+		"nameId": 54379,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 51,
+		"levelMax": 100,
+		"stepIds": [
+			1358
+		]
+	},
+	{
+		"id": 745,
+		"nameId": 54376,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 101,
+		"levelMax": 150,
+		"stepIds": [
+			1359
+		]
+	},
+	{
+		"id": 746,
+		"nameId": 54377,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 151,
+		"levelMax": 200,
+		"stepIds": [
+			1360
+		]
+	},
+	{
+		"id": 747,
+		"nameId": 54374,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1355
+		]
+	},
+	{
+		"id": 748,
+		"nameId": 54375,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1362
+		]
+	},
+	{
+		"id": 749,
+		"nameId": 54537,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1377
+		]
+	},
+	{
+		"id": 750,
+		"nameId": 54257,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1380
+		]
+	},
+	{
+		"id": 751,
+		"nameId": 111772,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1363
+		]
+	},
+	{
+		"id": 752,
+		"nameId": 54262,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1370
+		]
+	},
+	{
+		"id": 753,
+		"nameId": 54261,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1375
+		]
+	},
+	{
+		"id": 754,
+		"nameId": 54241,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1376
+		]
+	},
+	{
+		"id": 755,
+		"nameId": 54255,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1364
+		]
+	},
+	{
+		"id": 756,
+		"nameId": 54253,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1381
+		]
+	},
+	{
+		"id": 757,
+		"nameId": 54254,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1383
+		]
+	},
+	{
+		"id": 758,
+		"nameId": 114316,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 2,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1554
+		]
+	},
+	{
+		"id": 759,
+		"nameId": 54260,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1378
+		]
+	},
+	{
+		"id": 761,
+		"nameId": 54649,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 1,
+		"stepIds": [
+			1382
+		]
+	},
+	{
+		"id": 762,
+		"nameId": 53978,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1385
+		]
+	},
+	{
+		"id": 763,
+		"nameId": 54778,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1386
+		]
+	},
+	{
+		"id": 764,
+		"nameId": 54777,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1387
+		]
+	},
+	{
+		"id": 765,
+		"nameId": 54780,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1388
+		]
+	},
+	{
+		"id": 766,
+		"nameId": 54779,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1389
+		]
+	},
+	{
+		"id": 767,
+		"nameId": 54771,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1390
+		]
+	},
+	{
+		"id": 768,
+		"nameId": 54578,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1391
+		]
+	},
+	{
+		"id": 769,
+		"nameId": 54775,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1392
+		]
+	},
+	{
+		"id": 770,
+		"nameId": 54033,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1393
+		]
+	},
+	{
+		"id": 771,
+		"nameId": 54032,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1394
+		]
+	},
+	{
+		"id": 772,
+		"nameId": 54192,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1395
+		]
+	},
+	{
+		"id": 773,
+		"nameId": 54190,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1396
+		]
+	},
+	{
+		"id": 774,
+		"nameId": 54189,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1397
+		]
+	},
+	{
+		"id": 775,
+		"nameId": 54188,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1398
+		]
+	},
+	{
+		"id": 777,
+		"nameId": 54792,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 3,
+		"levelMax": 3,
+		"stepIds": [
+			1405
+		]
+	},
+	{
+		"id": 778,
+		"nameId": 54005,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 4,
+		"levelMax": 4,
+		"stepIds": [
+			1408
+		]
+	},
+	{
+		"id": 779,
+		"nameId": 111775,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1401
+		]
+	},
+	{
+		"id": 780,
+		"nameId": 54790,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 2,
+		"levelMax": 2,
+		"stepIds": [
+			1404
+		]
+	},
+	{
+		"id": 781,
+		"nameId": 54650,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 5,
+		"levelMax": 5,
+		"stepIds": [
+			1409
+		]
+	},
+	{
+		"id": 782,
+		"nameId": 54647,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 10,
+		"stepIds": [
+			1400
+		]
+	},
+	{
+		"id": 783,
+		"nameId": 54001,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 2,
+		"levelMax": 2,
+		"stepIds": [
+			1417
+		]
+	},
+	{
+		"id": 784,
+		"nameId": 53998,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 2,
+		"levelMax": 2,
+		"stepIds": [
+			1435
+		]
+	},
+	{
+		"id": 785,
+		"nameId": 54687,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 3,
+		"levelMax": 3,
+		"stepIds": [
+			1420
+		]
+	},
+	{
+		"id": 787,
+		"nameId": 53967,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 5,
+		"levelMax": 5,
+		"stepIds": [
+			1422
+		]
+	},
+	{
+		"id": 788,
+		"nameId": 54187,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 8,
+		"levelMax": 8,
+		"stepIds": [
+			1425
+		]
+	},
+	{
+		"id": 789,
+		"nameId": 53968,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 8,
+		"levelMax": 8,
+		"stepIds": [
+			1426
+		]
+	},
+	{
+		"id": 790,
+		"nameId": 54181,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 10,
+		"stepIds": [
+			1427
+		]
+	},
+	{
+		"id": 791,
+		"nameId": 53966,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 10,
+		"stepIds": [
+			1428
+		]
+	},
+	{
+		"id": 792,
+		"nameId": 53977,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 5,
+		"levelMax": 5,
+		"stepIds": [
+			1440
+		]
+	},
+	{
+		"id": 793,
+		"nameId": 53959,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 8,
+		"levelMax": 8,
+		"stepIds": [
+			1438
+		]
+	},
+	{
+		"id": 794,
+		"nameId": 54576,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 18,
+		"levelMax": 18,
+		"stepIds": [
+			1439
+		]
+	},
+	{
+		"id": 795,
+		"nameId": 53987,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1446
+		]
+	},
+	{
+		"id": 796,
+		"nameId": 53997,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 18,
+		"levelMax": 18,
+		"stepIds": [
+			1448
+		]
+	},
+	{
+		"id": 797,
+		"nameId": 54415,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1410
+		]
+	},
+	{
+		"id": 798,
+		"nameId": 54170,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1412
+		]
+	},
+	{
+		"id": 799,
+		"nameId": 54194,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1413
+		]
+	},
+	{
+		"id": 800,
+		"nameId": 53986,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1416
+		]
+	},
+	{
+		"id": 801,
+		"nameId": 54024,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 18,
+		"levelMax": 18,
+		"stepIds": [
+			1424
+		]
+	},
+	{
+		"id": 802,
+		"nameId": 54193,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1402
+		]
+	},
+	{
+		"id": 803,
+		"nameId": 54191,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1403
+		]
+	},
+	{
+		"id": 804,
+		"nameId": 54465,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1406
+		]
+	},
+	{
+		"id": 805,
+		"nameId": 54004,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1407
+		]
+	},
+	{
+		"id": 806,
+		"nameId": 54002,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 18,
+		"levelMax": 18,
+		"stepIds": [
+			1437
+		]
+	},
+	{
+		"id": 807,
+		"nameId": 54003,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1429
+		]
+	},
+	{
+		"id": 808,
+		"nameId": 54019,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1430
+		]
+	},
+	{
+		"id": 809,
+		"nameId": 54048,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1431
+		]
+	},
+	{
+		"id": 810,
+		"nameId": 54142,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1432
+		]
+	},
+	{
+		"id": 811,
+		"nameId": 54342,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1433
+		]
+	},
+	{
+		"id": 812,
+		"nameId": 54416,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 18,
+		"levelMax": 18,
+		"stepIds": [
+			1436
+		]
+	},
+	{
+		"id": 813,
+		"nameId": 54091,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1415
+		]
+	},
+	{
+		"id": 814,
+		"nameId": 54089,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1414
+		]
+	},
+	{
+		"id": 815,
+		"nameId": 54208,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 5,
+		"levelMax": 5,
+		"stepIds": [
+			1411
+		]
+	},
+	{
+		"id": 816,
+		"nameId": 53974,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 18,
+		"levelMax": 22,
+		"stepIds": [
+			1418
+		]
+	},
+	{
+		"id": 817,
+		"nameId": 53976,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 23,
+		"levelMax": 27,
+		"stepIds": [
+			1419
+		]
+	},
+	{
+		"id": 818,
+		"nameId": 53985,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1421
+		]
+	},
+	{
+		"id": 819,
+		"nameId": 53984,
+		"categoryId": 19,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 4,
+		"levelMax": 4,
+		"stepIds": [
+			1434
+		]
+	},
+	{
+		"id": 820,
+		"nameId": 53975,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1441
+		]
+	},
+	{
+		"id": 821,
+		"nameId": 53965,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1442
+		]
+	},
+	{
+		"id": 822,
+		"nameId": 54013,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1443
+		]
+	},
+	{
+		"id": 823,
+		"nameId": 54675,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 16,
+		"levelMax": 16,
+		"stepIds": [
+			1444
+		]
+	},
+	{
+		"id": 824,
+		"nameId": 54666,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 16,
+		"levelMax": 16,
+		"stepIds": [
+			1445
+		]
+	},
+	{
+		"id": 825,
+		"nameId": 54686,
+		"categoryId": 3,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1447
+		]
+	},
+	{
+		"id": 826,
+		"nameId": 53962,
+		"categoryId": 23,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 6,
+		"levelMax": 6,
+		"stepIds": [
+			1449
+		]
+	},
+	{
+		"id": 848,
+		"nameId": 94526,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 200,
+		"stepIds": [
+			1463
+		]
+	},
+	{
+		"id": 849,
+		"nameId": 94524,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			1466
+		]
+	},
+	{
+		"id": 850,
+		"nameId": 94513,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 85,
+		"levelMax": 85,
+		"stepIds": [
+			1467
+		]
+	},
+	{
+		"id": 851,
+		"nameId": 94509,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 125,
+		"levelMax": 125,
+		"stepIds": [
+			1468
+		]
+	},
+	{
+		"id": 852,
+		"nameId": 94510,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			1469
+		]
+	},
+	{
+		"id": 853,
+		"nameId": 94511,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			1471
+		]
+	},
+	{
+		"id": 854,
+		"nameId": 94512,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 85,
+		"levelMax": 85,
+		"stepIds": [
+			1472
+		]
+	},
+	{
+		"id": 855,
+		"nameId": 94505,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 125,
+		"levelMax": 125,
+		"stepIds": [
+			1473
+		]
+	},
+	{
+		"id": 856,
+		"nameId": 94506,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			1474
+		]
+	},
+	{
+		"id": 857,
+		"nameId": 94507,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 200,
+		"stepIds": [
+			1502
+		]
+	},
+	{
+		"id": 858,
+		"nameId": 94508,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 200,
+		"stepIds": [
+			1479
+		]
+	},
+	{
+		"id": 859,
+		"nameId": 94503,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			1490
+		]
+	},
+	{
+		"id": 860,
+		"nameId": 94539,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			1491
+		]
+	},
+	{
+		"id": 861,
+		"nameId": 94540,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			1492
+		]
+	},
+	{
+		"id": 862,
+		"nameId": 94537,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 85,
+		"levelMax": 85,
+		"stepIds": [
+			1493
+		]
+	},
+	{
+		"id": 863,
+		"nameId": 94538,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 85,
+		"levelMax": 85,
+		"stepIds": [
+			1494
+		]
+	},
+	{
+		"id": 864,
+		"nameId": 94535,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 85,
+		"levelMax": 85,
+		"stepIds": [
+			1495
+		]
+	},
+	{
+		"id": 865,
+		"nameId": 94536,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 125,
+		"levelMax": 125,
+		"stepIds": [
+			1496
+		]
+	},
+	{
+		"id": 866,
+		"nameId": 94533,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 125,
+		"levelMax": 125,
+		"stepIds": [
+			1497
+		]
+	},
+	{
+		"id": 867,
+		"nameId": 94534,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 125,
+		"levelMax": 125,
+		"stepIds": [
+			1498
+		]
+	},
+	{
+		"id": 868,
+		"nameId": 94531,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			1499
+		]
+	},
+	{
+		"id": 869,
+		"nameId": 94532,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			1500
+		]
+	},
+	{
+		"id": 870,
+		"nameId": 94517,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 150,
+		"levelMax": 150,
+		"stepIds": [
+			1501
+		]
+	},
+	{
+		"id": 871,
+		"nameId": 94516,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 200,
+		"stepIds": [
+			1476
+		]
+	},
+	{
+		"id": 872,
+		"nameId": 94515,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 200,
+		"stepIds": [
+			1475
+		]
+	},
+	{
+		"id": 873,
+		"nameId": 94530,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			1480
+		]
+	},
+	{
+		"id": 874,
+		"nameId": 94529,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 200,
+		"stepIds": [
+			1503
+		]
+	},
+	{
+		"id": 875,
+		"nameId": 94528,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 200,
+		"stepIds": [
+			1464
+		]
+	},
+	{
+		"id": 876,
+		"nameId": 94527,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 200,
+		"stepIds": [
+			1481
+		]
+	},
+	{
+		"id": 877,
+		"nameId": 94525,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 150,
+		"stepIds": [
+			1470
+		]
+	},
+	{
+		"id": 878,
+		"nameId": 94523,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 200,
+		"stepIds": [
+			1465
+		]
+	},
+	{
+		"id": 879,
+		"nameId": 94522,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 200,
+		"stepIds": [
+			1477
+		]
+	},
+	{
+		"id": 880,
+		"nameId": 94499,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 200,
+		"stepIds": [
+			1478
+		]
+	},
+	{
+		"id": 881,
+		"nameId": 94498,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 80,
+		"stepIds": [
+			1482
+		]
+	},
+	{
+		"id": 882,
+		"nameId": 76837,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 50,
+		"stepIds": [
+			1483
+		]
+	},
+	{
+		"id": 883,
+		"nameId": 76836,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 51,
+		"levelMax": 80,
+		"stepIds": [
+			1484
+		]
+	},
+	{
+		"id": 884,
+		"nameId": 76839,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 141,
+		"levelMax": 170,
+		"stepIds": [
+			1485
+		]
+	},
+	{
+		"id": 885,
+		"nameId": 76838,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 141,
+		"levelMax": 170,
+		"stepIds": [
+			1486
+		]
+	},
+	{
+		"id": 886,
+		"nameId": 76840,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 171,
+		"levelMax": 200,
+		"stepIds": [
+			1487
+		]
+	},
+	{
+		"id": 887,
+		"nameId": 94504,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 81,
+		"levelMax": 140,
+		"stepIds": [
+			1488
+		]
+	},
+	{
+		"id": 888,
+		"nameId": 94501,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 141,
+		"levelMax": 200,
+		"stepIds": [
+			1489
+		]
+	},
+	{
+		"id": 889,
+		"nameId": 94500,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 10,
+		"stepIds": [
+			1504
+		]
+	},
+	{
+		"id": 890,
+		"nameId": 94514,
+		"categoryId": 26,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 200,
+		"stepIds": [
+			1505
+		]
+	},
+	{
+		"id": 891,
+		"nameId": 94520,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 80,
+		"levelMax": 80,
+		"stepIds": [
+			1506
+		]
+	},
+	{
+		"id": 892,
+		"nameId": 94519,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 80,
+		"levelMax": 80,
+		"stepIds": [
+			1507
+		]
+	},
+	{
+		"id": 893,
+		"nameId": 94518,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 160,
+		"levelMax": 160,
+		"stepIds": [
+			1509
+		]
+	},
+	{
+		"id": 894,
+		"nameId": 94502,
+		"categoryId": 23,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1510
+		]
+	},
+	{
+		"id": 920,
+		"nameId": 111218,
+		"categoryId": 23,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 50,
+		"levelMax": 50,
+		"stepIds": [
+			1536
+		]
+	},
+	{
+		"id": 921,
+		"nameId": 112177,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 50,
+		"levelMax": 50,
+		"stepIds": [
+			1537
+		]
+	},
+	{
+		"id": 922,
+		"nameId": 112175,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 100,
+		"levelMax": 100,
+		"stepIds": [
+			1538
+		]
+	},
+	{
+		"id": 923,
+		"nameId": 112174,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 200,
+		"levelMax": 200,
+		"stepIds": [
+			1539
+		]
+	},
+	{
+		"id": 924,
+		"nameId": 112173,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 100,
+		"stepIds": [
+			1540
+		]
+	},
+	{
+		"id": 925,
+		"nameId": 112164,
+		"categoryId": 23,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			1541
+		]
+	},
+	{
+		"id": 926,
+		"nameId": 112165,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 50,
+		"stepIds": [
+			1542
+		]
+	},
+	{
+		"id": 927,
+		"nameId": 112162,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 51,
+		"levelMax": 100,
+		"stepIds": [
+			1543
+		]
+	},
+	{
+		"id": 928,
+		"nameId": 112163,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 101,
+		"levelMax": 150,
+		"stepIds": [
+			1544
+		]
+	},
+	{
+		"id": 929,
+		"nameId": 112168,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 151,
+		"levelMax": 200,
+		"stepIds": [
+			1545
+		]
+	},
+	{
+		"id": 930,
+		"nameId": 112193,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 50,
+		"stepIds": [
+			1546
+		]
+	},
+	{
+		"id": 931,
+		"nameId": 112192,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 51,
+		"levelMax": 100,
+		"stepIds": [
+			1547
+		]
+	},
+	{
+		"id": 932,
+		"nameId": 112186,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 101,
+		"levelMax": 150,
+		"stepIds": [
+			1548
+		]
+	},
+	{
+		"id": 933,
+		"nameId": 112184,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 151,
+		"levelMax": 200,
+		"stepIds": [
+			1549
+		]
+	},
+	{
+		"id": 934,
+		"nameId": 112172,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 2,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1550
+		]
+	},
+	{
+		"id": 935,
+		"nameId": 112171,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 2,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1551
+		]
+	},
+	{
+		"id": 936,
+		"nameId": 114317,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 20,
+		"levelMax": 200,
+		"stepIds": [
+			1552
+		]
+	},
+	{
+		"id": 937,
+		"nameId": 112167,
+		"categoryId": 29,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 1,
+		"levelMax": 200,
+		"stepIds": [
+			1553
+		]
+	},
+	{
+		"id": 938,
+		"nameId": 111926,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1555
+		]
+	},
+	{
+		"id": 939,
+		"nameId": 111417,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 15,
+		"levelMax": 15,
+		"stepIds": [
+			1556
+		]
+	},
+	{
+		"id": 940,
+		"nameId": 111411,
+		"categoryId": 2,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 9,
+		"levelMax": 200,
+		"stepIds": [
+			1557
+		]
+	},
+	{
+		"id": 941,
+		"nameId": 112999,
+		"categoryId": 30,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 30,
+		"levelMax": 30,
+		"stepIds": [
+			1558
+		]
+	},
+	{
+		"id": 942,
+		"nameId": 117026,
+		"categoryId": 30,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 40,
+		"levelMax": 40,
+		"stepIds": [
+			1559
+		]
+	},
+	{
+		"id": 943,
+		"nameId": 112997,
+		"categoryId": 30,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			1560
+		]
+	},
+	{
+		"id": 944,
+		"nameId": 112996,
+		"categoryId": 30,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			1561
+		]
+	},
+	{
+		"id": 945,
+		"nameId": 112995,
+		"categoryId": 30,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			1562
+		]
+	},
+	{
+		"id": 946,
+		"nameId": 112994,
+		"categoryId": 30,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			1563
+		]
+	},
+	{
+		"id": 947,
+		"nameId": 113003,
+		"categoryId": 30,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			1564
+		]
+	},
+	{
+		"id": 948,
+		"nameId": 113004,
+		"categoryId": 30,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			1565
+		]
+	},
+	{
+		"id": 949,
+		"nameId": 113002,
+		"categoryId": 30,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 55,
+		"levelMax": 55,
+		"stepIds": [
+			1566
+		]
+	},
+	{
+		"id": 950,
+		"nameId": 113000,
+		"categoryId": 30,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 25,
+		"levelMax": 25,
+		"stepIds": [
+			1567
+		]
+	},
+	{
+		"id": 951,
+		"nameId": 113001,
+		"categoryId": 30,
+		"isRepeatable": true,
+		"repeatType": 1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 45,
+		"levelMax": 45,
+		"stepIds": [
+			1568
+		]
+	},
+	{
+		"id": 953,
+		"nameId": 121381,
+		"categoryId": 4,
+		"isRepeatable": true,
+		"repeatType": 0,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 12,
+		"levelMax": 12,
+		"stepIds": [
+			1571
+		]
+	},
+	{
+		"id": 954,
+		"nameId": 121383,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1572
+		]
+	},
+	{
+		"id": 955,
+		"nameId": 121385,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1573
+		]
+	},
+	{
+		"id": 956,
+		"nameId": 121387,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1574
+		]
+	},
+	{
+		"id": 957,
+		"nameId": 121389,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1575
+		]
+	},
+	{
+		"id": 958,
+		"nameId": 121375,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1576
+		]
+	},
+	{
+		"id": 959,
+		"nameId": 121374,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1577
+		]
+	},
+	{
+		"id": 960,
+		"nameId": 121394,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1578
+		]
+	},
+	{
+		"id": 961,
+		"nameId": 121399,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1579
+		]
+	},
+	{
+		"id": 962,
+		"nameId": 121822,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1580
+		]
+	},
+	{
+		"id": 963,
+		"nameId": 121817,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1581
+		]
+	},
+	{
+		"id": 964,
+		"nameId": 121819,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1582
+		]
+	},
+	{
+		"id": 965,
+		"nameId": 121828,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1583
+		]
+	},
+	{
+		"id": 966,
+		"nameId": 121830,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1584
+		]
+	},
+	{
+		"id": 967,
+		"nameId": 121824,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1585
+		]
+	},
+	{
+		"id": 968,
+		"nameId": 121826,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1586
+		]
+	},
+	{
+		"id": 969,
+		"nameId": 121814,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1587
+		]
+	},
+	{
+		"id": 970,
+		"nameId": 121836,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1588
+		]
+	},
+	{
+		"id": 971,
+		"nameId": 121837,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1589
+		]
+	},
+	{
+		"id": 972,
+		"nameId": 121844,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1590
+		]
+	},
+	{
+		"id": 973,
+		"nameId": 121846,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1591
+		]
+	},
+	{
+		"id": 974,
+		"nameId": 121848,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1592
+		]
+	},
+	{
+		"id": 975,
+		"nameId": 121850,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1593
+		]
+	},
+	{
+		"id": 976,
+		"nameId": 121839,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1594
+		]
+	},
+	{
+		"id": 977,
+		"nameId": 121840,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1595
+		]
+	},
+	{
+		"id": 978,
+		"nameId": 121842,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1596
+		]
+	},
+	{
+		"id": 979,
+		"nameId": 121843,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1597
+		]
+	},
+	{
+		"id": 980,
+		"nameId": 121857,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1598
+		]
+	},
+	{
+		"id": 981,
+		"nameId": 121855,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1599
+		]
+	},
+	{
+		"id": 982,
+		"nameId": 121856,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1600
+		]
+	},
+	{
+		"id": 983,
+		"nameId": 121868,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1601
+		]
+	},
+	{
+		"id": 984,
+		"nameId": 121870,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1602
+		]
+	},
+	{
+		"id": 985,
+		"nameId": 121864,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1603
+		]
+	},
+	{
+		"id": 986,
+		"nameId": 121866,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1604
+		]
+	},
+	{
+		"id": 987,
+		"nameId": 121860,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1605
+		]
+	},
+	{
+		"id": 988,
+		"nameId": 121862,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1606
+		]
+	},
+	{
+		"id": 989,
+		"nameId": 121858,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1607
+		]
+	},
+	{
+		"id": 990,
+		"nameId": 121791,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1608
+		]
+	},
+	{
+		"id": 991,
+		"nameId": 121790,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1609
+		]
+	},
+	{
+		"id": 992,
+		"nameId": 121789,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1610
+		]
+	},
+	{
+		"id": 993,
+		"nameId": 121788,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1611
+		]
+	},
+	{
+		"id": 994,
+		"nameId": 121787,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1612
+		]
+	},
+	{
+		"id": 995,
+		"nameId": 121786,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1613
+		]
+	},
+	{
+		"id": 996,
+		"nameId": 121785,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1614
+		]
+	},
+	{
+		"id": 997,
+		"nameId": 121784,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1615
+		]
+	},
+	{
+		"id": 998,
+		"nameId": 121783,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1616
+		]
+	},
+	{
+		"id": 999,
+		"nameId": 121782,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1617
+		]
+	},
+	{
+		"id": 1000,
+		"nameId": 121772,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1618
+		]
+	},
+	{
+		"id": 1001,
+		"nameId": 121776,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1619
+		]
+	},
+	{
+		"id": 1002,
+		"nameId": 121775,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1620
+		]
+	},
+	{
+		"id": 1003,
+		"nameId": 121774,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1621
+		]
+	},
+	{
+		"id": 1005,
+		"nameId": 121779,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1623
+		]
+	},
+	{
+		"id": 1007,
+		"nameId": 121777,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1625
+		]
+	},
+	{
+		"id": 1008,
+		"nameId": 122427,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1626
+		]
+	},
+	{
+		"id": 1009,
+		"nameId": 121781,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1627
+		]
+	},
+	{
+		"id": 1010,
+		"nameId": 121838,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1628
+		]
+	},
+	{
+		"id": 1011,
+		"nameId": 121841,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1629
+		]
+	},
+	{
+		"id": 1012,
+		"nameId": 121849,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1630
+		]
+	},
+	{
+		"id": 1013,
+		"nameId": 121851,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1631
+		]
+	},
+	{
+		"id": 1014,
+		"nameId": 121845,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1632
+		]
+	},
+	{
+		"id": 1015,
+		"nameId": 121847,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1633
+		]
+	},
+	{
+		"id": 1016,
+		"nameId": 121835,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1634
+		]
+	},
+	{
+		"id": 1017,
+		"nameId": 121834,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1635
+		]
+	},
+	{
+		"id": 1018,
+		"nameId": 121833,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1636
+		]
+	},
+	{
+		"id": 1019,
+		"nameId": 121832,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1637
+		]
+	},
+	{
+		"id": 1020,
+		"nameId": 121859,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1638
+		]
+	},
+	{
+		"id": 1021,
+		"nameId": 121861,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1639
+		]
+	},
+	{
+		"id": 1022,
+		"nameId": 121863,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1640
+		]
+	},
+	{
+		"id": 1023,
+		"nameId": 121865,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1641
+		]
+	},
+	{
+		"id": 1024,
+		"nameId": 121867,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1642
+		]
+	},
+	{
+		"id": 1025,
+		"nameId": 121869,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1643
+		]
+	},
+	{
+		"id": 1026,
+		"nameId": 121871,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1644
+		]
+	},
+	{
+		"id": 1027,
+		"nameId": 121853,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1645
+		]
+	},
+	{
+		"id": 1028,
+		"nameId": 121852,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1646
+		]
+	},
+	{
+		"id": 1029,
+		"nameId": 121854,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1647
+		]
+	},
+	{
+		"id": 1030,
+		"nameId": 121812,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1648
+		]
+	},
+	{
+		"id": 1031,
+		"nameId": 121813,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1649
+		]
+	},
+	{
+		"id": 1032,
+		"nameId": 121810,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1650
+		]
+	},
+	{
+		"id": 1033,
+		"nameId": 121811,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1651
+		]
+	},
+	{
+		"id": 1034,
+		"nameId": 121808,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1652
+		]
+	},
+	{
+		"id": 1035,
+		"nameId": 121809,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1653
+		]
+	},
+	{
+		"id": 1036,
+		"nameId": 121806,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1654
+		]
+	},
+	{
+		"id": 1037,
+		"nameId": 121807,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1655
+		]
+	},
+	{
+		"id": 1038,
+		"nameId": 121805,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1656
+		]
+	},
+	{
+		"id": 1039,
+		"nameId": 121804,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1657
+		]
+	},
+	{
+		"id": 1040,
+		"nameId": 121816,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1658
+		]
+	},
+	{
+		"id": 1041,
+		"nameId": 121825,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1659
+		]
+	},
+	{
+		"id": 1042,
+		"nameId": 121827,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1660
+		]
+	},
+	{
+		"id": 1043,
+		"nameId": 121829,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1661
+		]
+	},
+	{
+		"id": 1044,
+		"nameId": 121831,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1662
+		]
+	},
+	{
+		"id": 1045,
+		"nameId": 121818,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1663
+		]
+	},
+	{
+		"id": 1046,
+		"nameId": 121820,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1664
+		]
+	},
+	{
+		"id": 1047,
+		"nameId": 121821,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1665
+		]
+	},
+	{
+		"id": 1048,
+		"nameId": 121823,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1666
+		]
+	},
+	{
+		"id": 1057,
+		"nameId": 121798,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1675
+		]
+	},
+	{
+		"id": 1058,
+		"nameId": 121797,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1676
+		]
+	},
+	{
+		"id": 1059,
+		"nameId": 121796,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1677
+		]
+	},
+	{
+		"id": 1060,
+		"nameId": 121802,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1678
+		]
+	},
+	{
+		"id": 1062,
+		"nameId": 127444,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1680
+		]
+	},
+	{
+		"id": 1063,
+		"nameId": 127442,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1681
+		]
+	},
+	{
+		"id": 1064,
+		"nameId": 127441,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": -1,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1682
+		]
+	},
+	{
+		"id": 1065,
+		"nameId": 127443,
+		"categoryId": 31,
+		"isRepeatable": true,
+		"repeatType": 3,
+		"repeatLimit": 1,
+		"isDungeonQuest": true,
+		"levelMin": 10,
+		"levelMax": 200,
+		"stepIds": [
+			1683
+		]
+	}
+]

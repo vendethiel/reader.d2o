@@ -1,0 +1,117 @@
+[
+	{
+		"id": 0,
+		"nameId": 59874,
+		"defaultCountries": [
+			"FR",
+			"CH",
+			"BE",
+			"LU"
+		],
+		"shortId": "fr"
+	},
+	{
+		"id": 1,
+		"nameId": 59875,
+		"defaultCountries": [
+			"UK",
+			"IE",
+			"GB"
+		],
+		"shortId": "uk"
+	},
+	{
+		"id": 2,
+		"nameId": 59871,
+		"defaultCountries": [
+			"XX"
+		],
+		"shortId": "en"
+	},
+	{
+		"id": 3,
+		"nameId": 59872,
+		"defaultCountries": [
+			"DE",
+			"AT",
+			"LI"
+		],
+		"shortId": "de"
+	},
+	{
+		"id": 4,
+		"nameId": 59870,
+		"defaultCountries": [
+			"ES",
+			"AD",
+			"AR",
+			"CK",
+			"MX"
+		],
+		"shortId": "es"
+	},
+	{
+		"id": 5,
+		"nameId": 59878,
+		"defaultCountries": [
+			"RU"
+		],
+		"shortId": "ru"
+	},
+	{
+		"id": 6,
+		"nameId": 59876,
+		"defaultCountries": [
+			"PT",
+			"BR"
+		],
+		"shortId": "pt"
+	},
+	{
+		"id": 7,
+		"nameId": 59877,
+		"defaultCountries": [
+			"NL"
+		],
+		"shortId": "nl"
+	},
+	{
+		"id": 8,
+		"nameId": 59867,
+		"defaultCountries": [
+			"XX"
+		],
+		"shortId": "en"
+	},
+	{
+		"id": 9,
+		"nameId": 59868,
+		"defaultCountries": [
+			"IT"
+		],
+		"shortId": "it"
+	},
+	{
+		"id": 10,
+		"nameId": 59869,
+		"defaultCountries": [
+			"JP"
+		],
+		"shortId": "ja"
+	},
+	{
+		"id": 11,
+		"nameId": 121615,
+		"defaultCountries": [
+			"US",
+			"CA"
+		],
+		"shortId": "na"
+	},
+	{
+		"id": 99,
+		"nameId": 59873,
+		"defaultCountries": [],
+		"shortId": "xx"
+	}
+]

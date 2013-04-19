@@ -1,0 +1,72 @@
+[
+	{
+		"memberName": "QuestStepRewards",
+		"packageName": "com.ankamagames.dofus.datacenter.quest",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "stepId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "levelMin",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "levelMax",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "itemsReward",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<Vector.<uint>>",
+						"type": "List"
+					},
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			},
+			{
+				"name": "emotesReward",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			},
+			{
+				"name": "jobsReward",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			},
+			{
+				"name": "spellsReward",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			}
+		]
+	}
+]

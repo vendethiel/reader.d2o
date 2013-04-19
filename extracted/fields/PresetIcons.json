@@ -1,0 +1,18 @@
+[
+	{
+		"memberName": "PresetIcon",
+		"packageName": "com.ankamagames.dofus.datacenter.items",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "order",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	}
+]

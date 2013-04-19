@@ -1,0 +1,43 @@
+[
+	{
+		"memberName": "AlignmentRankJntGift",
+		"packageName": "com.ankamagames.dofus.datacenter.alignments",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "gifts",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<int>",
+						"type": "Int"
+					}
+				]
+			},
+			{
+				"name": "parameters",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<int>",
+						"type": "Int"
+					}
+				]
+			},
+			{
+				"name": "levels",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<int>",
+						"type": "Int"
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,63 @@
+[
+	{
+		"memberName": "Quest",
+		"packageName": "com.ankamagames.dofus.datacenter.quest",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "categoryId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "isRepeatable",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "repeatType",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "repeatLimit",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "isDungeonQuest",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "levelMin",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "levelMax",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "stepIds",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"browserId": 1,
+		"url": "http://www.dofus.com/",
+		"param": "null",
+		"method": "GET"
+	},
+	{
+		"id": 2,
+		"browserId": 1,
+		"url": "http://www.boufbowl.com/fr/jouer-au-boufbowl",
+		"param": "nickname:#NICKNAME,token:#TOKEN,game:#GAME,lang:#LANG",
+		"method": "GET"
+	},
+	{
+		"id": 3,
+		"browserId": 1,
+		"url": "http://www.boufbowl.lan/fr/jouer-au-boufbowl",
+		"param": "nickname:#NICKNAME,token:#TOKEN,game:#GAME,lang:#LANG",
+		"method": "GET"
+	},
+	{
+		"id": 4,
+		"browserId": 4,
+		"url": "OpenKrosmaster",
+		"param": "null",
+		"method": "HOOK"
+	}
+]

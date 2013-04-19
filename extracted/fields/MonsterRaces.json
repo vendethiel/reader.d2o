@@ -1,0 +1,23 @@
+[
+	{
+		"memberName": "MonsterRace",
+		"packageName": "com.ankamagames.dofus.datacenter.monsters",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "superRaceId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			}
+		]
+	}
+]

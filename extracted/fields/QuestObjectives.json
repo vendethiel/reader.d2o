@@ -1,0 +1,428 @@
+[
+	{
+		"memberName": "Point",
+		"packageName": "flash.geom",
+		"fields": [
+			{
+				"name": "x",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "y",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	},
+	{
+		"memberName": "QuestObjective",
+		"packageName": "com.ankamagames.dofus.datacenter.quest",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "stepId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "typeId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "dialogId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "parameters",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			},
+			{
+				"name": "coords",
+				"type": 1,
+				"vectorTypes": false
+			}
+		]
+	},
+	{
+		"memberName": "QuestObjectiveFreeForm",
+		"packageName": "com.ankamagames.dofus.datacenter.quest.objectives",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "coords",
+				"type": 1,
+				"vectorTypes": false
+			},
+			{
+				"name": "parameters",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			},
+			{
+				"name": "stepId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "dialogId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "typeId",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	},
+	{
+		"memberName": "QuestObjectiveGoToNpc",
+		"packageName": "com.ankamagames.dofus.datacenter.quest.objectives",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "coords",
+				"type": 1,
+				"vectorTypes": false
+			},
+			{
+				"name": "parameters",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			},
+			{
+				"name": "stepId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "dialogId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "typeId",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	},
+	{
+		"memberName": "QuestObjectiveBringItemToNpc",
+		"packageName": "com.ankamagames.dofus.datacenter.quest.objectives",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "coords",
+				"type": 1,
+				"vectorTypes": false
+			},
+			{
+				"name": "parameters",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			},
+			{
+				"name": "stepId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "dialogId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "typeId",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	},
+	{
+		"memberName": "QuestObjectiveDiscoverMap",
+		"packageName": "com.ankamagames.dofus.datacenter.quest.objectives",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "coords",
+				"type": 1,
+				"vectorTypes": false
+			},
+			{
+				"name": "parameters",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			},
+			{
+				"name": "stepId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "dialogId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "typeId",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	},
+	{
+		"memberName": "QuestObjectiveDiscoverSubArea",
+		"packageName": "com.ankamagames.dofus.datacenter.quest.objectives",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "coords",
+				"type": 1,
+				"vectorTypes": false
+			},
+			{
+				"name": "parameters",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			},
+			{
+				"name": "stepId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "dialogId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "typeId",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	},
+	{
+		"memberName": "QuestObjectiveFightMonster",
+		"packageName": "com.ankamagames.dofus.datacenter.quest.objectives",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "coords",
+				"type": 1,
+				"vectorTypes": false
+			},
+			{
+				"name": "parameters",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			},
+			{
+				"name": "stepId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "dialogId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "typeId",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	},
+	{
+		"memberName": "QuestObjectiveMultiFightMonster",
+		"packageName": "com.ankamagames.dofus.datacenter.quest.objectives",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "coords",
+				"type": 1,
+				"vectorTypes": false
+			},
+			{
+				"name": "parameters",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			},
+			{
+				"name": "stepId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "dialogId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "typeId",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	},
+	{
+		"memberName": "QuestObjectiveDuelSpecificPlayer",
+		"packageName": "com.ankamagames.dofus.datacenter.quest.objectives",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "coords",
+				"type": 1,
+				"vectorTypes": false
+			},
+			{
+				"name": "parameters",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			},
+			{
+				"name": "stepId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "dialogId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "typeId",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	},
+	{
+		"memberName": "QuestObjectiveBringSoulToNpc",
+		"packageName": "com.ankamagames.dofus.datacenter.quest.objectives",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "coords",
+				"type": 1,
+				"vectorTypes": false
+			},
+			{
+				"name": "parameters",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			},
+			{
+				"name": "stepId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "dialogId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "typeId",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	}
+]

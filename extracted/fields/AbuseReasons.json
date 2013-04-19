@@ -1,0 +1,23 @@
+[
+	{
+		"memberName": "AbuseReasons",
+		"packageName": "com.ankamagames.dofus.datacenter.abuse",
+		"fields": [
+			{
+				"name": "_abuseReasonId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "_mask",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "_reasonTextId",
+				"type": "I18N",
+				"vectorTypes": false
+			}
+		]
+	}
+]

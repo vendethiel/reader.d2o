@@ -1,0 +1,351 @@
+[
+	{
+		"id": 1,
+		"nameId": 2736,
+		"specializationOfId": 0,
+		"iconId": -1,
+		"toolIds": []
+	},
+	{
+		"id": 2,
+		"nameId": 2706,
+		"specializationOfId": 0,
+		"iconId": 1,
+		"toolIds": [
+			675,
+			515,
+			674,
+			676,
+			502,
+			8539,
+			782,
+			673,
+			923,
+			771,
+			456,
+			454,
+			478,
+			927
+		]
+	},
+	{
+		"id": 11,
+		"nameId": 2737,
+		"specializationOfId": 0,
+		"iconId": 10,
+		"toolIds": [
+			494
+		]
+	},
+	{
+		"id": 13,
+		"nameId": 2761,
+		"specializationOfId": 0,
+		"iconId": 6,
+		"toolIds": [
+			500
+		]
+	},
+	{
+		"id": 14,
+		"nameId": 2755,
+		"specializationOfId": 0,
+		"iconId": 11,
+		"toolIds": [
+			493
+		]
+	},
+	{
+		"id": 15,
+		"nameId": 2752,
+		"specializationOfId": 0,
+		"iconId": 5,
+		"toolIds": [
+			579
+		]
+	},
+	{
+		"id": 16,
+		"nameId": 2740,
+		"specializationOfId": 0,
+		"iconId": 15,
+		"toolIds": [
+			491
+		]
+	},
+	{
+		"id": 17,
+		"nameId": 2746,
+		"specializationOfId": 0,
+		"iconId": 9,
+		"toolIds": [
+			495
+		]
+	},
+	{
+		"id": 18,
+		"nameId": 2767,
+		"specializationOfId": 0,
+		"iconId": 8,
+		"toolIds": [
+			498
+		]
+	},
+	{
+		"id": 19,
+		"nameId": 2773,
+		"specializationOfId": 0,
+		"iconId": 7,
+		"toolIds": [
+			499
+		]
+	},
+	{
+		"id": 20,
+		"nameId": 2743,
+		"specializationOfId": 0,
+		"iconId": 12,
+		"toolIds": [
+			496
+		]
+	},
+	{
+		"id": 24,
+		"nameId": 2703,
+		"specializationOfId": 0,
+		"iconId": 13,
+		"toolIds": [
+			497
+		]
+	},
+	{
+		"id": 25,
+		"nameId": 2749,
+		"specializationOfId": 0,
+		"iconId": 3,
+		"toolIds": [
+			492
+		]
+	},
+	{
+		"id": 26,
+		"nameId": 2770,
+		"specializationOfId": 0,
+		"iconId": 14,
+		"toolIds": [
+			1473,
+			8542
+		]
+	},
+	{
+		"id": 27,
+		"nameId": 2718,
+		"specializationOfId": 0,
+		"iconId": 20,
+		"toolIds": [
+			951
+		]
+	},
+	{
+		"id": 28,
+		"nameId": 2758,
+		"specializationOfId": 0,
+		"iconId": 18,
+		"toolIds": [
+			8127,
+			671,
+			1658,
+			12673,
+			8540,
+			765,
+			682,
+			1659,
+			670,
+			672,
+			577
+		]
+	},
+	{
+		"id": 31,
+		"nameId": 2797,
+		"specializationOfId": 0,
+		"iconId": 19,
+		"toolIds": [
+			922
+		]
+	},
+	{
+		"id": 36,
+		"nameId": 2785,
+		"specializationOfId": 0,
+		"iconId": 30,
+		"toolIds": [
+			1862,
+			1861,
+			2188,
+			2366,
+			1868,
+			1863,
+			1860,
+			1867,
+			1865,
+			596,
+			8541,
+			1866,
+			1864
+		]
+	},
+	{
+		"id": 41,
+		"nameId": 2733,
+		"specializationOfId": 0,
+		"iconId": 32,
+		"toolIds": [
+			1936,
+			8110,
+			1940,
+			1941,
+			1942,
+			1943,
+			1944,
+			1938,
+			1934,
+			1939
+		]
+	},
+	{
+		"id": 43,
+		"nameId": 2727,
+		"specializationOfId": 17,
+		"iconId": 21,
+		"toolIds": [
+			1520
+		]
+	},
+	{
+		"id": 44,
+		"nameId": 2724,
+		"specializationOfId": 11,
+		"iconId": 24,
+		"toolIds": [
+			1539
+		]
+	},
+	{
+		"id": 45,
+		"nameId": 2721,
+		"specializationOfId": 14,
+		"iconId": 25,
+		"toolIds": [
+			1561
+		]
+	},
+	{
+		"id": 46,
+		"nameId": 2715,
+		"specializationOfId": 20,
+		"iconId": 26,
+		"toolIds": [
+			1560
+		]
+	},
+	{
+		"id": 47,
+		"nameId": 2712,
+		"specializationOfId": 31,
+		"iconId": 23,
+		"toolIds": [
+			1562
+		]
+	},
+	{
+		"id": 48,
+		"nameId": 2730,
+		"specializationOfId": 13,
+		"iconId": 28,
+		"toolIds": [
+			1563
+		]
+	},
+	{
+		"id": 49,
+		"nameId": 2709,
+		"specializationOfId": 19,
+		"iconId": 29,
+		"toolIds": [
+			1564
+		]
+	},
+	{
+		"id": 50,
+		"nameId": 2794,
+		"specializationOfId": 18,
+		"iconId": 22,
+		"toolIds": [
+			1565
+		]
+	},
+	{
+		"id": 56,
+		"nameId": 2791,
+		"specializationOfId": 0,
+		"iconId": 33,
+		"toolIds": [
+			1945
+		]
+	},
+	{
+		"id": 58,
+		"nameId": 2788,
+		"specializationOfId": 0,
+		"iconId": 31,
+		"toolIds": [
+			1946
+		]
+	},
+	{
+		"id": 60,
+		"nameId": 2764,
+		"specializationOfId": 0,
+		"iconId": 40,
+		"toolIds": [
+			7098
+		]
+	},
+	{
+		"id": 62,
+		"nameId": 2782,
+		"specializationOfId": 15,
+		"iconId": 36,
+		"toolIds": [
+			7495
+		]
+	},
+	{
+		"id": 63,
+		"nameId": 2779,
+		"specializationOfId": 16,
+		"iconId": 37,
+		"toolIds": [
+			7493
+		]
+	},
+	{
+		"id": 64,
+		"nameId": 2776,
+		"specializationOfId": 27,
+		"iconId": 35,
+		"toolIds": [
+			7494
+		]
+	},
+	{
+		"id": 65,
+		"nameId": 2700,
+		"specializationOfId": 0,
+		"iconId": 34,
+		"toolIds": [
+			7650
+		]
+	}
+]

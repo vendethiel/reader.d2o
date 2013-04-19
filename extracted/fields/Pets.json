@@ -1,0 +1,33 @@
+[
+	{
+		"memberName": "Pet",
+		"packageName": "com.ankamagames.dofus.datacenter.livingObjects",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "foodItems",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<int>",
+						"type": "Int"
+					}
+				]
+			},
+			{
+				"name": "foodTypes",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<int>",
+						"type": "Int"
+					}
+				]
+			}
+		]
+	}
+]

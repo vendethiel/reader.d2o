@@ -1,0 +1,312 @@
+[
+	{
+		"id": 1,
+		"nameId": 2016,
+		"optimalPlayerLevel": 30
+	},
+	{
+		"id": 3,
+		"nameId": 73656,
+		"optimalPlayerLevel": 110
+	},
+	{
+		"id": 4,
+		"nameId": 73622,
+		"optimalPlayerLevel": 120
+	},
+	{
+		"id": 6,
+		"nameId": 73620,
+		"optimalPlayerLevel": 100
+	},
+	{
+		"id": 7,
+		"nameId": 73621,
+		"optimalPlayerLevel": 120
+	},
+	{
+		"id": 8,
+		"nameId": 94603,
+		"optimalPlayerLevel": 20
+	},
+	{
+		"id": 9,
+		"nameId": 94604,
+		"optimalPlayerLevel": 90
+	},
+	{
+		"id": 10,
+		"nameId": 94614,
+		"optimalPlayerLevel": 140
+	},
+	{
+		"id": 11,
+		"nameId": 94617,
+		"optimalPlayerLevel": 60
+	},
+	{
+		"id": 12,
+		"nameId": 94618,
+		"optimalPlayerLevel": 50
+	},
+	{
+		"id": 13,
+		"nameId": 94615,
+		"optimalPlayerLevel": 50
+	},
+	{
+		"id": 14,
+		"nameId": 94616,
+		"optimalPlayerLevel": 180
+	},
+	{
+		"id": 15,
+		"nameId": 94610,
+		"optimalPlayerLevel": 100
+	},
+	{
+		"id": 17,
+		"nameId": 94608,
+		"optimalPlayerLevel": 60
+	},
+	{
+		"id": 18,
+		"nameId": 94609,
+		"optimalPlayerLevel": 70
+	},
+	{
+		"id": 19,
+		"nameId": 94611,
+		"optimalPlayerLevel": 20
+	},
+	{
+		"id": 20,
+		"nameId": 94632,
+		"optimalPlayerLevel": 140
+	},
+	{
+		"id": 21,
+		"nameId": 94633,
+		"optimalPlayerLevel": 50
+	},
+	{
+		"id": 22,
+		"nameId": 94635,
+		"optimalPlayerLevel": 180
+	},
+	{
+		"id": 24,
+		"nameId": 94636,
+		"optimalPlayerLevel": 80
+	},
+	{
+		"id": 25,
+		"nameId": 94637,
+		"optimalPlayerLevel": 50
+	},
+	{
+		"id": 26,
+		"nameId": 94628,
+		"optimalPlayerLevel": 10
+	},
+	{
+		"id": 27,
+		"nameId": 94629,
+		"optimalPlayerLevel": 60
+	},
+	{
+		"id": 28,
+		"nameId": 94630,
+		"optimalPlayerLevel": 160
+	},
+	{
+		"id": 29,
+		"nameId": 94631,
+		"optimalPlayerLevel": 130
+	},
+	{
+		"id": 30,
+		"nameId": 105611,
+		"optimalPlayerLevel": 100
+	},
+	{
+		"id": 31,
+		"nameId": 94595,
+		"optimalPlayerLevel": 180
+	},
+	{
+		"id": 32,
+		"nameId": 94594,
+		"optimalPlayerLevel": 50
+	},
+	{
+		"id": 33,
+		"nameId": 94597,
+		"optimalPlayerLevel": 50
+	},
+	{
+		"id": 34,
+		"nameId": 94596,
+		"optimalPlayerLevel": 40
+	},
+	{
+		"id": 35,
+		"nameId": 94599,
+		"optimalPlayerLevel": 70
+	},
+	{
+		"id": 36,
+		"nameId": 94598,
+		"optimalPlayerLevel": 50
+	},
+	{
+		"id": 37,
+		"nameId": 94601,
+		"optimalPlayerLevel": 110
+	},
+	{
+		"id": 38,
+		"nameId": 94600,
+		"optimalPlayerLevel": 180
+	},
+	{
+		"id": 39,
+		"nameId": 104790,
+		"optimalPlayerLevel": 70
+	},
+	{
+		"id": 40,
+		"nameId": 94586,
+		"optimalPlayerLevel": 120
+	},
+	{
+		"id": 41,
+		"nameId": 94585,
+		"optimalPlayerLevel": 110
+	},
+	{
+		"id": 42,
+		"nameId": 94584,
+		"optimalPlayerLevel": 110
+	},
+	{
+		"id": 43,
+		"nameId": 94583,
+		"optimalPlayerLevel": 110
+	},
+	{
+		"id": 44,
+		"nameId": 94590,
+		"optimalPlayerLevel": 150
+	},
+	{
+		"id": 45,
+		"nameId": 94589,
+		"optimalPlayerLevel": 40
+	},
+	{
+		"id": 46,
+		"nameId": 94588,
+		"optimalPlayerLevel": 120
+	},
+	{
+		"id": 47,
+		"nameId": 94587,
+		"optimalPlayerLevel": 40
+	},
+	{
+		"id": 48,
+		"nameId": 94592,
+		"optimalPlayerLevel": 40
+	},
+	{
+		"id": 49,
+		"nameId": 94591,
+		"optimalPlayerLevel": 120
+	},
+	{
+		"id": 50,
+		"nameId": 94634,
+		"optimalPlayerLevel": 120
+	},
+	{
+		"id": 51,
+		"nameId": 106133,
+		"optimalPlayerLevel": 140
+	},
+	{
+		"id": 52,
+		"nameId": 94623,
+		"optimalPlayerLevel": 60
+	},
+	{
+		"id": 53,
+		"nameId": 94626,
+		"optimalPlayerLevel": 160
+	},
+	{
+		"id": 54,
+		"nameId": 94625,
+		"optimalPlayerLevel": 120
+	},
+	{
+		"id": 55,
+		"nameId": 94620,
+		"optimalPlayerLevel": 140
+	},
+	{
+		"id": 56,
+		"nameId": 94619,
+		"optimalPlayerLevel": 150
+	},
+	{
+		"id": 57,
+		"nameId": 94622,
+		"optimalPlayerLevel": 160
+	},
+	{
+		"id": 58,
+		"nameId": 94621,
+		"optimalPlayerLevel": 170
+	},
+	{
+		"id": 59,
+		"nameId": 94627,
+		"optimalPlayerLevel": 180
+	},
+	{
+		"id": 60,
+		"nameId": 94612,
+		"optimalPlayerLevel": 190
+	},
+	{
+		"id": 61,
+		"nameId": 94613,
+		"optimalPlayerLevel": 190
+	},
+	{
+		"id": 62,
+		"nameId": 94607,
+		"optimalPlayerLevel": 190
+	},
+	{
+		"id": 63,
+		"nameId": 94606,
+		"optimalPlayerLevel": 40
+	},
+	{
+		"id": 64,
+		"nameId": 94605,
+		"optimalPlayerLevel": 80
+	},
+	{
+		"id": 65,
+		"nameId": 108582,
+		"optimalPlayerLevel": 1
+	},
+	{
+		"id": 66,
+		"nameId": 127477,
+		"optimalPlayerLevel": 100
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"memberName": "MonsterMiniBoss",
+		"packageName": "com.ankamagames.dofus.datacenter.monsters",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "monsterReplacingId",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	}
+]

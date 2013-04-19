@@ -1,0 +1,28 @@
+[
+	{
+		"memberName": "IncarnationLevel",
+		"packageName": "com.ankamagames.dofus.datacenter.items",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "incarnationId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "level",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "requiredXp",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	}
+]

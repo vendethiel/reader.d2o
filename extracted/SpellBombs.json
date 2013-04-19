@@ -1,0 +1,34 @@
+[
+	{
+		"id": 3103,
+		"chainReactionSpellId": 2759,
+		"explodSpellId": 2758,
+		"wallId": 1,
+		"instantSpellId": 2762,
+		"comboCoeff": 100
+	},
+	{
+		"id": 3112,
+		"chainReactionSpellId": 2824,
+		"explodSpellId": 2822,
+		"wallId": 2,
+		"instantSpellId": 2823,
+		"comboCoeff": 0
+	},
+	{
+		"id": 3113,
+		"chainReactionSpellId": 2828,
+		"explodSpellId": 2845,
+		"wallId": 3,
+		"instantSpellId": 2827,
+		"comboCoeff": 0
+	},
+	{
+		"id": 3114,
+		"chainReactionSpellId": 2832,
+		"explodSpellId": 2830,
+		"wallId": 4,
+		"instantSpellId": 2831,
+		"comboCoeff": 0
+	}
+]

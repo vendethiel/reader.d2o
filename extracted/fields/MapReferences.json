@@ -1,0 +1,23 @@
+[
+	{
+		"memberName": "MapReference",
+		"packageName": "com.ankamagames.dofus.datacenter.world",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "mapId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "cellId",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	}
+]

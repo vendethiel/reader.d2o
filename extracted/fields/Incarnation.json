@@ -1,0 +1,23 @@
+[
+	{
+		"memberName": "Incarnation",
+		"packageName": "com.ankamagames.dofus.datacenter.items",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "lookMale",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "lookFemale",
+				"type": "String",
+				"vectorTypes": false
+			}
+		]
+	}
+]

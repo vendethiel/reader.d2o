@@ -1,0 +1,18 @@
+[
+	{
+		"memberName": "RideFood",
+		"packageName": "com.ankamagames.dofus.datacenter.mounts",
+		"fields": [
+			{
+				"name": "gid",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "typeId",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	}
+]

@@ -1,0 +1,103 @@
+[
+	{
+		"memberName": "SoundAnimation",
+		"packageName": "com.ankamagames.dofus.datacenter.sounds",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "label",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "name",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "filename",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "volume",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "rolloff",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "automationDuration",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "automationVolume",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "automationFadeIn",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "automationFadeOut",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "noCutSilence",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "startFrame",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	},
+	{
+		"memberName": "SoundBones",
+		"packageName": "com.ankamagames.dofus.datacenter.sounds",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "keys",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<String>",
+						"type": "String"
+					}
+				]
+			},
+			{
+				"name": "values",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<Vector.<com.ankamagames.dofus.datacenter.sounds::SoundAnimation>>",
+						"type": "List"
+					},
+					{
+						"name": "Vector.<com.ankamagames.dofus.datacenter.sounds::SoundAnimation>",
+						"type": 1
+					}
+				]
+			}
+		]
+	}
+]

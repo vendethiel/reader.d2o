@@ -1,0 +1,128 @@
+[
+	{
+		"id": 0,
+		"nameId": 809,
+		"descriptionId": 810,
+		"shortcut": "/s",
+		"shortcutKey": "toggleChannelGlobal",
+		"isPrivate": true,
+		"allowObjects": true
+	},
+	{
+		"id": 1,
+		"nameId": 811,
+		"descriptionId": 0,
+		"shortcut": "/t",
+		"shortcutKey": "toggleChannelTeam",
+		"isPrivate": true,
+		"allowObjects": true
+	},
+	{
+		"id": 2,
+		"nameId": 821,
+		"descriptionId": 822,
+		"shortcut": "/g",
+		"shortcutKey": "toggleChannelGuild",
+		"isPrivate": true,
+		"allowObjects": true
+	},
+	{
+		"id": 3,
+		"nameId": 812,
+		"descriptionId": 813,
+		"shortcut": "/a",
+		"shortcutKey": "toggleChannelAlign",
+		"isPrivate": true,
+		"allowObjects": true
+	},
+	{
+		"id": 4,
+		"nameId": 808,
+		"descriptionId": 0,
+		"shortcut": "/p",
+		"shortcutKey": "toggleChannelParty",
+		"isPrivate": true,
+		"allowObjects": true
+	},
+	{
+		"id": 5,
+		"nameId": 802,
+		"descriptionId": 803,
+		"shortcut": "/b",
+		"shortcutKey": "toggleChannelSales",
+		"isPrivate": true,
+		"allowObjects": true
+	},
+	{
+		"id": 6,
+		"nameId": 819,
+		"descriptionId": 820,
+		"shortcut": "/r",
+		"shortcutKey": "toggleChannelSeek",
+		"isPrivate": true,
+		"allowObjects": true
+	},
+	{
+		"id": 7,
+		"nameId": 814,
+		"descriptionId": 815,
+		"shortcut": "/i",
+		"shortcutKey": "null",
+		"isPrivate": true,
+		"allowObjects": true
+	},
+	{
+		"id": 8,
+		"nameId": 804,
+		"descriptionId": 0,
+		"shortcut": "/q",
+		"shortcutKey": "null",
+		"isPrivate": true,
+		"allowObjects": true
+	},
+	{
+		"id": 9,
+		"nameId": 806,
+		"descriptionId": 0,
+		"shortcut": "/w",
+		"shortcutKey": "null",
+		"isPrivate": true,
+		"allowObjects": true
+	},
+	{
+		"id": 10,
+		"nameId": 807,
+		"descriptionId": 0,
+		"shortcut": "null",
+		"shortcutKey": "null",
+		"isPrivate": true,
+		"allowObjects": true
+	},
+	{
+		"id": 11,
+		"nameId": 805,
+		"descriptionId": 0,
+		"shortcut": "null",
+		"shortcutKey": "toggleChannelFight",
+		"isPrivate": true,
+		"allowObjects": true
+	},
+	{
+		"id": 12,
+		"nameId": 817,
+		"descriptionId": 818,
+		"shortcut": "null",
+		"shortcutKey": "toggleChannelAds",
+		"isPrivate": true,
+		"allowObjects": true
+	},
+	{
+		"id": 13,
+		"nameId": 816,
+		"descriptionId": 0,
+		"shortcut": "/k",
+		"shortcutKey": "toggleChannelArena",
+		"isPrivate": true,
+		"allowObjects": true
+	}
+]

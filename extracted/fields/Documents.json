@@ -1,0 +1,43 @@
+[
+	{
+		"memberName": "Document",
+		"packageName": "com.ankamagames.dofus.datacenter.documents",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "typeId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "titleId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "authorId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "subTitleId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "contentId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "contentCSS",
+				"type": "String",
+				"vectorTypes": false
+			}
+		]
+	}
+]

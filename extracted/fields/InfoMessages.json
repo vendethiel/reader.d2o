@@ -1,0 +1,23 @@
+[
+	{
+		"memberName": "InfoMessage",
+		"packageName": "com.ankamagames.dofus.datacenter.communication",
+		"fields": [
+			{
+				"name": "typeId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "messageId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "textId",
+				"type": "I18N",
+				"vectorTypes": false
+			}
+		]
+	}
+]

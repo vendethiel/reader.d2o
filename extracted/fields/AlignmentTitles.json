@@ -1,0 +1,33 @@
+[
+	{
+		"memberName": "AlignmentTitle",
+		"packageName": "com.ankamagames.dofus.datacenter.alignments",
+		"fields": [
+			{
+				"name": "sideId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "namesId",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<int>",
+						"type": "I18N"
+					}
+				]
+			},
+			{
+				"name": "shortsId",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<int>",
+						"type": "I18N"
+					}
+				]
+			}
+		]
+	}
+]

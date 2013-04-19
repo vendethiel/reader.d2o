@@ -1,0 +1,38 @@
+[
+	{
+		"memberName": "Notification",
+		"packageName": "com.ankamagames.dofus.datacenter.notifications",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "titleId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "messageId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "iconId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "typeId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "trigger",
+				"type": "String",
+				"vectorTypes": false
+			}
+		]
+	}
+]

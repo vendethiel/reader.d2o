@@ -1,0 +1,43 @@
+[
+	{
+		"memberName": "ChatChannel",
+		"packageName": "com.ankamagames.dofus.datacenter.communication",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "descriptionId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "shortcut",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "shortcutKey",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "isPrivate",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "allowObjects",
+				"type": "Bool",
+				"vectorTypes": false
+			}
+		]
+	}
+]

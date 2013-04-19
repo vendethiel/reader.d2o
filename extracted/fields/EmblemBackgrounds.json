@@ -1,0 +1,18 @@
+[
+	{
+		"memberName": "EmblemBackground",
+		"packageName": "com.ankamagames.dofus.datacenter.guild",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "order",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	}
+]

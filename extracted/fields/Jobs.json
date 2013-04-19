@@ -1,0 +1,38 @@
+[
+	{
+		"memberName": "Job",
+		"packageName": "com.ankamagames.dofus.datacenter.jobs",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "specializationOfId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "iconId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "toolIds",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<int>",
+						"type": "Int"
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,28 @@
+[
+	{
+		"memberName": "AlmanaxCalendar",
+		"packageName": "com.ankamagames.dofus.datacenter.almanax",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "descId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "npcId",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	}
+]

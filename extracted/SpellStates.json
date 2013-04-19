@@ -1,0 +1,996 @@
+[
+	{
+		"id": 0,
+		"nameId": 65338,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 1,
+		"nameId": 65375,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 2,
+		"nameId": 65359,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 3,
+		"nameId": 65350,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 4,
+		"nameId": 65339,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 5,
+		"nameId": 65340,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 6,
+		"nameId": 65351,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 7,
+		"nameId": 65282,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 8,
+		"nameId": 65341,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 9,
+		"nameId": 65360,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 10,
+		"nameId": 83504,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 11,
+		"nameId": 65335,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 12,
+		"nameId": 65356,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 13,
+		"nameId": 65354,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 14,
+		"nameId": 65321,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 15,
+		"nameId": 65324,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 16,
+		"nameId": 65285,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 17,
+		"nameId": 65363,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 18,
+		"nameId": 65352,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 19,
+		"nameId": 65286,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 26,
+		"nameId": 65297,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 27,
+		"nameId": 65294,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 28,
+		"nameId": 65295,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 29,
+		"nameId": 65292,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 30,
+		"nameId": 65289,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 31,
+		"nameId": 65334,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 32,
+		"nameId": 65331,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 33,
+		"nameId": 65332,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 34,
+		"nameId": 65288,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 35,
+		"nameId": 65276,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 36,
+		"nameId": 65385,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 37,
+		"nameId": 65386,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 38,
+		"nameId": 65387,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 39,
+		"nameId": 65384,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 40,
+		"nameId": 65314,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 41,
+		"nameId": 65316,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 42,
+		"nameId": 65315,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 43,
+		"nameId": 65298,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 44,
+		"nameId": 65277,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 46,
+		"nameId": 65304,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 47,
+		"nameId": 65343,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 48,
+		"nameId": 65344,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 49,
+		"nameId": 65345,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 50,
+		"nameId": 65346,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 51,
+		"nameId": 65347,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 52,
+		"nameId": 65336,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 53,
+		"nameId": 65357,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 54,
+		"nameId": 65358,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 55,
+		"nameId": 65337,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 56,
+		"nameId": 65323,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 57,
+		"nameId": 65348,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 58,
+		"nameId": 65349,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 60,
+		"nameId": 65361,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 61,
+		"nameId": 65362,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 63,
+		"nameId": 65326,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 64,
+		"nameId": 65327,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 65,
+		"nameId": 65287,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 66,
+		"nameId": 65329,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 67,
+		"nameId": 65310,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 68,
+		"nameId": 65328,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 69,
+		"nameId": 65330,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 70,
+		"nameId": 65290,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 71,
+		"nameId": 65311,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 72,
+		"nameId": 65313,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 73,
+		"nameId": 65353,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 74,
+		"nameId": 65296,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 76,
+		"nameId": 65291,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 77,
+		"nameId": 65312,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 78,
+		"nameId": 65333,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 79,
+		"nameId": 65293,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 80,
+		"nameId": 65319,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 81,
+		"nameId": 65317,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 82,
+		"nameId": 65318,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 83,
+		"nameId": 65381,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 84,
+		"nameId": 65383,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 85,
+		"nameId": 65378,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 86,
+		"nameId": 65380,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 87,
+		"nameId": 65376,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 88,
+		"nameId": 65377,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 89,
+		"nameId": 65355,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 90,
+		"nameId": 65301,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 91,
+		"nameId": 65300,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 92,
+		"nameId": 65281,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 93,
+		"nameId": 65303,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 94,
+		"nameId": 65299,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 95,
+		"nameId": 65371,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 96,
+		"nameId": 65373,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 97,
+		"nameId": 65372,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 98,
+		"nameId": 65374,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 99,
+		"nameId": 65364,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 100,
+		"nameId": 65283,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 101,
+		"nameId": 65284,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 102,
+		"nameId": 65309,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 103,
+		"nameId": 65325,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 104,
+		"nameId": 92555,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 105,
+		"nameId": 92556,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 106,
+		"nameId": 92557,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 107,
+		"nameId": 92558,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 108,
+		"nameId": 94483,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 109,
+		"nameId": 92554,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 110,
+		"nameId": 65320,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 111,
+		"nameId": 65367,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 112,
+		"nameId": 65368,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 113,
+		"nameId": 65365,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 114,
+		"nameId": 65366,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 115,
+		"nameId": 65369,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 116,
+		"nameId": 94487,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 117,
+		"nameId": 94485,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 118,
+		"nameId": 94486,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 119,
+		"nameId": 94484,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 120,
+		"nameId": 94479,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 121,
+		"nameId": 94480,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 122,
+		"nameId": 94481,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 123,
+		"nameId": 94482,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 124,
+		"nameId": 113182,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 125,
+		"nameId": 113184,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 126,
+		"nameId": 113188,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 127,
+		"nameId": 113190,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 128,
+		"nameId": 113192,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 129,
+		"nameId": 113195,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 130,
+		"nameId": 113179,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 131,
+		"nameId": 113177,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 132,
+		"nameId": 113178,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 133,
+		"nameId": 113183,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 134,
+		"nameId": 113185,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 135,
+		"nameId": 113180,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 136,
+		"nameId": 113181,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 137,
+		"nameId": 113191,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 138,
+		"nameId": 113194,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 139,
+		"nameId": 113187,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 140,
+		"nameId": 113197,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 141,
+		"nameId": 113196,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 142,
+		"nameId": 113199,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 143,
+		"nameId": 113198,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 144,
+		"nameId": 113189,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 145,
+		"nameId": 113186,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 146,
+		"nameId": 113193,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 147,
+		"nameId": 115496,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 148,
+		"nameId": 115495,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 149,
+		"nameId": 123196,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 150,
+		"nameId": 125783,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	},
+	{
+		"id": 151,
+		"nameId": 126300,
+		"preventsSpellCast": true,
+		"preventsFight": true,
+		"critical": true
+	}
+]

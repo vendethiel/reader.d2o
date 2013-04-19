@@ -1,0 +1,78 @@
+[
+	{
+		"memberName": "QuestStep",
+		"packageName": "com.ankamagames.dofus.datacenter.quest",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "questId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "descriptionId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "dialogId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "optimalLevel",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "duration",
+				"type": "Double",
+				"vectorTypes": false
+			},
+			{
+				"name": "kamasScaleWithPlayerLevel",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "kamasRatio",
+				"type": "Double",
+				"vectorTypes": false
+			},
+			{
+				"name": "xpRatio",
+				"type": "Double",
+				"vectorTypes": false
+			},
+			{
+				"name": "objectiveIds",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			},
+			{
+				"name": "rewardsIds",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			}
+		]
+	}
+]

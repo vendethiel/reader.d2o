@@ -1,0 +1,33 @@
+[
+	{
+		"memberName": "SpellState",
+		"packageName": "com.ankamagames.dofus.datacenter.spells",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "preventsSpellCast",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "preventsFight",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "critical",
+				"type": "Bool",
+				"vectorTypes": false
+			}
+		]
+	}
+]

@@ -1,0 +1,250 @@
+[
+	{
+		"id": 1,
+		"titleId": 7473,
+		"messageId": 7474,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "GameStart"
+	},
+	{
+		"id": 2,
+		"titleId": 7441,
+		"messageId": 7442,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "NpcDialogCreation"
+	},
+	{
+		"id": 3,
+		"titleId": 7465,
+		"messageId": 7466,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "PlayerMove"
+	},
+	{
+		"id": 4,
+		"titleId": 7457,
+		"messageId": 7458,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "MapWithMonsters"
+	},
+	{
+		"id": 5,
+		"titleId": 7447,
+		"messageId": 7448,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "GameFightStarting"
+	},
+	{
+		"id": 6,
+		"titleId": 7475,
+		"messageId": 7476,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "GameFightStart"
+	},
+	{
+		"id": 7,
+		"titleId": 7437,
+		"messageId": 7438,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "PlayerFightMove"
+	},
+	{
+		"id": 8,
+		"titleId": 7477,
+		"messageId": 7478,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "FightSpellCast"
+	},
+	{
+		"id": 9,
+		"titleId": 7461,
+		"messageId": 7462,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "FightResultVictory"
+	},
+	{
+		"id": 10,
+		"titleId": 7489,
+		"messageId": 7490,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "CharacterLevelUp"
+	},
+	{
+		"id": 11,
+		"titleId": 7491,
+		"messageId": 7492,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "PlayerNewSpell"
+	},
+	{
+		"id": 12,
+		"titleId": 7485,
+		"messageId": 7486,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "PlayerIsDead"
+	},
+	{
+		"id": 13,
+		"titleId": 7487,
+		"messageId": 7488,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "PlayerIsDead"
+	},
+	{
+		"id": 14,
+		"titleId": 7483,
+		"messageId": 115188,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "GameRolePlayPlayerLifeStatus,0:2"
+	},
+	{
+		"id": 15,
+		"titleId": 7481,
+		"messageId": 7482,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "OpenInventory"
+	},
+	{
+		"id": 16,
+		"titleId": 7495,
+		"messageId": 7496,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "OpenStats"
+	},
+	{
+		"id": 17,
+		"titleId": 7439,
+		"messageId": 7440,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "OpenBook"
+	},
+	{
+		"id": 18,
+		"titleId": 7493,
+		"messageId": 7494,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "OpenGrimoireSpellTab"
+	},
+	{
+		"id": 19,
+		"titleId": 7463,
+		"messageId": 7464,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "OpenGrimoireQuestTab"
+	},
+	{
+		"id": 20,
+		"titleId": 7445,
+		"messageId": 7446,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "OpenGrimoireAlignmentTab"
+	},
+	{
+		"id": 21,
+		"titleId": 7449,
+		"messageId": 7450,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "OpenGrimoireJobTab"
+	},
+	{
+		"id": 22,
+		"titleId": 7451,
+		"messageId": 7452,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "CreaturesMode"
+	},
+	{
+		"id": 23,
+		"titleId": 7435,
+		"messageId": 72747,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "LifePointsRegenBegin"
+	},
+	{
+		"id": 24,
+		"titleId": 7443,
+		"messageId": 7444,
+		"iconId": 0,
+		"typeId": 4,
+		"trigger": ""
+	},
+	{
+		"id": 25,
+		"titleId": 7467,
+		"messageId": 7468,
+		"iconId": 0,
+		"typeId": 5,
+		"trigger": ""
+	},
+	{
+		"id": 26,
+		"titleId": 7469,
+		"messageId": 7470,
+		"iconId": 0,
+		"typeId": 5,
+		"trigger": ""
+	},
+	{
+		"id": 27,
+		"titleId": 7453,
+		"messageId": 7454,
+		"iconId": 0,
+		"typeId": 5,
+		"trigger": ""
+	},
+	{
+		"id": 28,
+		"titleId": 7455,
+		"messageId": 7456,
+		"iconId": 0,
+		"typeId": 5,
+		"trigger": ""
+	},
+	{
+		"id": 29,
+		"titleId": 7459,
+		"messageId": 7460,
+		"iconId": 0,
+		"typeId": 1,
+		"trigger": "OpenSmileys"
+	},
+	{
+		"id": 30,
+		"titleId": 76674,
+		"messageId": 7472,
+		"iconId": 1,
+		"typeId": 4,
+		"trigger": ""
+	},
+	{
+		"id": 33,
+		"titleId": 7479,
+		"messageId": 7480,
+		"iconId": 0,
+		"typeId": 4,
+		"trigger": ""
+	}
+]

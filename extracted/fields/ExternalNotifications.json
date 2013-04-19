@@ -1,0 +1,58 @@
+[
+	{
+		"memberName": "ExternalNotification",
+		"packageName": "com.ankamagames.dofus.datacenter.externalnotifications",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "categoryId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "iconId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "colorId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "descriptionId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "defaultEnable",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "defaultSound",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "defaultMultiAccount",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "name",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "messageId",
+				"type": "I18N",
+				"vectorTypes": false
+			}
+		]
+	}
+]

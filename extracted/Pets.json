@@ -1,0 +1,841 @@
+[
+	{
+		"id": 1728,
+		"foodItems": [
+			1141,
+			414,
+			415,
+			416,
+			598,
+			1782,
+			1783,
+			360,
+			419,
+			368,
+			369,
+			301,
+			367,
+			376,
+			1781,
+			757,
+			2239,
+			477,
+			752,
+			1771,
+			1844,
+			1845
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 1748,
+		"foodItems": [
+			361,
+			373,
+			374,
+			380,
+			398,
+			501,
+			1772,
+			1774,
+			1776,
+			1778,
+			2239,
+			2662,
+			395,
+			1901,
+			1902,
+			1903,
+			1905
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 2074,
+		"foodItems": [
+			287,
+			288,
+			300,
+			422,
+			427,
+			391,
+			392,
+			2239,
+			381,
+			393,
+			394
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 2075,
+		"foodItems": [
+			287,
+			288,
+			300,
+			422,
+			427,
+			391,
+			392,
+			2239,
+			381,
+			393,
+			394
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 2076,
+		"foodItems": [
+			287,
+			288,
+			300,
+			422,
+			427,
+			391,
+			392,
+			2239,
+			381,
+			393,
+			394
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 2077,
+		"foodItems": [
+			287,
+			288,
+			300,
+			422,
+			427,
+			391,
+			392,
+			2239,
+			381,
+			393,
+			394
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 6716,
+		"foodItems": [
+			2254,
+			2253,
+			2602,
+			2617,
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 6978,
+		"foodItems": [
+			2239,
+			7018,
+			7059,
+			7262,
+			7263,
+			7264,
+			7265,
+			7266,
+			7267,
+			7268,
+			7287,
+			7288,
+			7290,
+			7291
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 7414,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			63,
+			64
+		]
+	},
+	{
+		"id": 7415,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			41,
+			62
+		]
+	},
+	{
+		"id": 7518,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			47
+		]
+	},
+	{
+		"id": 7519,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			90
+		]
+	},
+	{
+		"id": 7520,
+		"foodItems": [
+			2239,
+			747,
+			745,
+			746,
+			6457,
+			748,
+			6458,
+			749,
+			7035,
+			750,
+			7036
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 7522,
+		"foodItems": [
+			301,
+			366,
+			367,
+			375,
+			376,
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 7524,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			41,
+			49,
+			62
+		]
+	},
+	{
+		"id": 7703,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			47
+		]
+	},
+	{
+		"id": 7704,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			58
+		]
+	},
+	{
+		"id": 7705,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			63,
+			64,
+			69
+		]
+	},
+	{
+		"id": 7706,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			35
+		]
+	},
+	{
+		"id": 7707,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 7708,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			58
+		]
+	},
+	{
+		"id": 7709,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			58
+		]
+	},
+	{
+		"id": 7710,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			58
+		]
+	},
+	{
+		"id": 7711,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			58
+		]
+	},
+	{
+		"id": 7712,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			58
+		]
+	},
+	{
+		"id": 7713,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			58
+		]
+	},
+	{
+		"id": 7714,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			63,
+			64,
+			69,
+			41,
+			62,
+			49
+		]
+	},
+	{
+		"id": 7891,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			58,
+			60,
+			41,
+			62,
+			63,
+			64
+		]
+	},
+	{
+		"id": 7892,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			64,
+			69,
+			63
+		]
+	},
+	{
+		"id": 7911,
+		"foodItems": [
+			2239,
+			8064,
+			8075,
+			8076,
+			8077,
+			8056,
+			8082,
+			8001
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 8000,
+		"foodItems": [
+			391,
+			392,
+			393,
+			394,
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 8115,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 8151,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 8153,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 8154,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 8155,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 8211,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			41,
+			62,
+			49
+		]
+	},
+	{
+		"id": 8561,
+		"foodItems": [
+			2239,
+			7018,
+			394
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 8677,
+		"foodItems": [
+			361,
+			2239
+		],
+		"foodTypes": [
+			36
+		]
+	},
+	{
+		"id": 8693,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			41,
+			62,
+			49
+		]
+	},
+	{
+		"id": 9594,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 9617,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			63,
+			64,
+			69,
+			41,
+			62,
+			49
+		]
+	},
+	{
+		"id": 9619,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 9620,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 9623,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": [
+			63,
+			64,
+			69,
+			41,
+			62,
+			49
+		]
+	},
+	{
+		"id": 9624,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 9650,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 9785,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 10049,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 10106,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 10107,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 10544,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 10657,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 10802,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 10863,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 10864,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 10865,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 10866,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 10985,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 11011,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 11012,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 11013,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 11014,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 11015,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 11104,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 11765,
+		"foodItems": [
+			2239,
+			11109
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 11771,
+		"foodItems": [
+			2239,
+			11102
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 11777,
+		"foodItems": [
+			2239,
+			11107
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 11783,
+		"foodItems": [
+			2239,
+			11510
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 11858,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 11950,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 11955,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 11966,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 11971,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 12009,
+		"foodItems": [
+			2239,
+			993,
+			994,
+			995,
+			996
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 12125,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 12133,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 12177,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 12541,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 12963,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 12975,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 12982,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 12988,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 12994,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 13000,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 13071,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 13099,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 13182,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": 13230,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	},
+	{
+		"id": -1,
+		"foodItems": [
+			2239
+		],
+		"foodTypes": []
+	}
+]

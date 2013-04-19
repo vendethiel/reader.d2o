@@ -1,0 +1,492 @@
+[
+	{
+		"id": 0,
+		"superRaceId": 1,
+		"nameId": 7399
+	},
+	{
+		"id": 1,
+		"superRaceId": 1,
+		"nameId": 7381
+	},
+	{
+		"id": 2,
+		"superRaceId": 10,
+		"nameId": 7378
+	},
+	{
+		"id": 3,
+		"superRaceId": 8,
+		"nameId": 7357
+	},
+	{
+		"id": 4,
+		"superRaceId": 4,
+		"nameId": 7354
+	},
+	{
+		"id": 5,
+		"superRaceId": 3,
+		"nameId": 7341
+	},
+	{
+		"id": 6,
+		"superRaceId": 3,
+		"nameId": 7330
+	},
+	{
+		"id": 7,
+		"superRaceId": 4,
+		"nameId": 7337
+	},
+	{
+		"id": 8,
+		"superRaceId": 11,
+		"nameId": 7352
+	},
+	{
+		"id": 9,
+		"superRaceId": 2,
+		"nameId": 7377
+	},
+	{
+		"id": 10,
+		"superRaceId": 2,
+		"nameId": 7318
+	},
+	{
+		"id": 11,
+		"superRaceId": 2,
+		"nameId": 7333
+	},
+	{
+		"id": 12,
+		"superRaceId": 3,
+		"nameId": 7332
+	},
+	{
+		"id": 13,
+		"superRaceId": 3,
+		"nameId": 7334
+	},
+	{
+		"id": 16,
+		"superRaceId": 3,
+		"nameId": 7344
+	},
+	{
+		"id": 17,
+		"superRaceId": 11,
+		"nameId": 7342
+	},
+	{
+		"id": 18,
+		"superRaceId": 1,
+		"nameId": 78085
+	},
+	{
+		"id": 19,
+		"superRaceId": 10,
+		"nameId": 7372
+	},
+	{
+		"id": 20,
+		"superRaceId": 7,
+		"nameId": 7359
+	},
+	{
+		"id": 21,
+		"superRaceId": 5,
+		"nameId": 7320
+	},
+	{
+		"id": 22,
+		"superRaceId": 4,
+		"nameId": 7375
+	},
+	{
+		"id": 23,
+		"superRaceId": 5,
+		"nameId": 7382
+	},
+	{
+		"id": 24,
+		"superRaceId": 5,
+		"nameId": 7317
+	},
+	{
+		"id": 25,
+		"superRaceId": 6,
+		"nameId": 7369
+	},
+	{
+		"id": 26,
+		"superRaceId": 10,
+		"nameId": 7355
+	},
+	{
+		"id": 27,
+		"superRaceId": 1,
+		"nameId": 7321
+	},
+	{
+		"id": 28,
+		"superRaceId": 1,
+		"nameId": 7371
+	},
+	{
+		"id": 29,
+		"superRaceId": 1,
+		"nameId": 7347
+	},
+	{
+		"id": 30,
+		"superRaceId": 10,
+		"nameId": 7327
+	},
+	{
+		"id": 31,
+		"superRaceId": 13,
+		"nameId": 7325
+	},
+	{
+		"id": 32,
+		"superRaceId": 1,
+		"nameId": 7380
+	},
+	{
+		"id": 33,
+		"superRaceId": 13,
+		"nameId": 7388
+	},
+	{
+		"id": 34,
+		"superRaceId": 9,
+		"nameId": 7361
+	},
+	{
+		"id": 35,
+		"superRaceId": 9,
+		"nameId": 7324
+	},
+	{
+		"id": 36,
+		"superRaceId": 9,
+		"nameId": 7346
+	},
+	{
+		"id": 37,
+		"superRaceId": 4,
+		"nameId": 7360
+	},
+	{
+		"id": 38,
+		"superRaceId": 4,
+		"nameId": 7379
+	},
+	{
+		"id": 39,
+		"superRaceId": 4,
+		"nameId": 7373
+	},
+	{
+		"id": 40,
+		"superRaceId": 7,
+		"nameId": 7365
+	},
+	{
+		"id": 41,
+		"superRaceId": 7,
+		"nameId": 7315
+	},
+	{
+		"id": 42,
+		"superRaceId": 7,
+		"nameId": 7313
+	},
+	{
+		"id": 43,
+		"superRaceId": 7,
+		"nameId": 7312
+	},
+	{
+		"id": 44,
+		"superRaceId": 12,
+		"nameId": 7328
+	},
+	{
+		"id": 45,
+		"superRaceId": 2,
+		"nameId": 7343
+	},
+	{
+		"id": 46,
+		"superRaceId": 2,
+		"nameId": 7390
+	},
+	{
+		"id": 47,
+		"superRaceId": 2,
+		"nameId": 7364
+	},
+	{
+		"id": 48,
+		"superRaceId": 12,
+		"nameId": 7350
+	},
+	{
+		"id": 49,
+		"superRaceId": 4,
+		"nameId": 7387
+	},
+	{
+		"id": 50,
+		"superRaceId": 1,
+		"nameId": 7393
+	},
+	{
+		"id": 51,
+		"superRaceId": 5,
+		"nameId": 7345
+	},
+	{
+		"id": 52,
+		"superRaceId": 3,
+		"nameId": 7395
+	},
+	{
+		"id": 53,
+		"superRaceId": 11,
+		"nameId": 7353
+	},
+	{
+		"id": 54,
+		"superRaceId": 11,
+		"nameId": 7340
+	},
+	{
+		"id": 55,
+		"superRaceId": 9,
+		"nameId": 7314
+	},
+	{
+		"id": 56,
+		"superRaceId": 9,
+		"nameId": 7331
+	},
+	{
+		"id": 57,
+		"superRaceId": 9,
+		"nameId": 7396
+	},
+	{
+		"id": 59,
+		"superRaceId": 9,
+		"nameId": 7351
+	},
+	{
+		"id": 60,
+		"superRaceId": 14,
+		"nameId": 7358
+	},
+	{
+		"id": 61,
+		"superRaceId": 14,
+		"nameId": 7376
+	},
+	{
+		"id": 62,
+		"superRaceId": 15,
+		"nameId": 7322
+	},
+	{
+		"id": 63,
+		"superRaceId": 15,
+		"nameId": 7319
+	},
+	{
+		"id": 64,
+		"superRaceId": 15,
+		"nameId": 7316
+	},
+	{
+		"id": 65,
+		"superRaceId": 15,
+		"nameId": 7363
+	},
+	{
+		"id": 66,
+		"superRaceId": 15,
+		"nameId": 7356
+	},
+	{
+		"id": 67,
+		"superRaceId": 16,
+		"nameId": 7329
+	},
+	{
+		"id": 68,
+		"superRaceId": 1,
+		"nameId": 7400
+	},
+	{
+		"id": 69,
+		"superRaceId": 17,
+		"nameId": 7367
+	},
+	{
+		"id": 70,
+		"superRaceId": 18,
+		"nameId": 7338
+	},
+	{
+		"id": 71,
+		"superRaceId": 19,
+		"nameId": 7339
+	},
+	{
+		"id": 72,
+		"superRaceId": 19,
+		"nameId": 7335
+	},
+	{
+		"id": 73,
+		"superRaceId": 19,
+		"nameId": 7336
+	},
+	{
+		"id": 74,
+		"superRaceId": 19,
+		"nameId": 78086
+	},
+	{
+		"id": 75,
+		"superRaceId": 19,
+		"nameId": 7323
+	},
+	{
+		"id": 76,
+		"superRaceId": 19,
+		"nameId": 7309
+	},
+	{
+		"id": 77,
+		"superRaceId": 19,
+		"nameId": 7310
+	},
+	{
+		"id": 78,
+		"superRaceId": 20,
+		"nameId": 7326
+	},
+	{
+		"id": 79,
+		"superRaceId": 21,
+		"nameId": 7307
+	},
+	{
+		"id": 81,
+		"superRaceId": 21,
+		"nameId": 7311
+	},
+	{
+		"id": 82,
+		"superRaceId": 21,
+		"nameId": 7386
+	},
+	{
+		"id": 83,
+		"superRaceId": 21,
+		"nameId": 7348
+	},
+	{
+		"id": 84,
+		"superRaceId": 21,
+		"nameId": 7383
+	},
+	{
+		"id": 85,
+		"superRaceId": 21,
+		"nameId": 7384
+	},
+	{
+		"id": 86,
+		"superRaceId": 21,
+		"nameId": 7385
+	},
+	{
+		"id": 87,
+		"superRaceId": 21,
+		"nameId": 7349
+	},
+	{
+		"id": 88,
+		"superRaceId": 21,
+		"nameId": 7362
+	},
+	{
+		"id": 89,
+		"superRaceId": 21,
+		"nameId": 7368
+	},
+	{
+		"id": 90,
+		"superRaceId": 21,
+		"nameId": 7391
+	},
+	{
+		"id": 91,
+		"superRaceId": 21,
+		"nameId": 7397
+	},
+	{
+		"id": 92,
+		"superRaceId": 1,
+		"nameId": 7308
+	},
+	{
+		"id": 93,
+		"superRaceId": 21,
+		"nameId": 7374
+	},
+	{
+		"id": 94,
+		"superRaceId": 1,
+		"nameId": 7398
+	},
+	{
+		"id": 95,
+		"superRaceId": 1,
+		"nameId": 7389
+	},
+	{
+		"id": 96,
+		"superRaceId": 22,
+		"nameId": 7394
+	},
+	{
+		"id": 97,
+		"superRaceId": 1,
+		"nameId": 119964
+	},
+	{
+		"id": 98,
+		"superRaceId": 1,
+		"nameId": 111170
+	},
+	{
+		"id": 99,
+		"superRaceId": 11,
+		"nameId": 119602
+	},
+	{
+		"id": 100,
+		"superRaceId": 1,
+		"nameId": 127481
+	},
+	{
+		"id": -1,
+		"superRaceId": 1,
+		"nameId": 7366
+	}
+]

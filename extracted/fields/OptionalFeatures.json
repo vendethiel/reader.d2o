@@ -1,0 +1,18 @@
+[
+	{
+		"memberName": "OptionalFeature",
+		"packageName": "com.ankamagames.dofus.datacenter.misc",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "keyword",
+				"type": "String",
+				"vectorTypes": false
+			}
+		]
+	}
+]

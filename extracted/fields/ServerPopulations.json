@@ -1,0 +1,23 @@
+[
+	{
+		"memberName": "ServerPopulation",
+		"packageName": "com.ankamagames.dofus.datacenter.servers",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "weight",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	}
+]

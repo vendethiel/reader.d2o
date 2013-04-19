@@ -1,0 +1,43 @@
+[
+	{
+		"memberName": "ItemType",
+		"packageName": "com.ankamagames.dofus.datacenter.items",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "superTypeId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "plural",
+				"type": "Bool",
+				"vectorTypes": false
+			},
+			{
+				"name": "gender",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "rawZone",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "needUseConfirm",
+				"type": "Bool",
+				"vectorTypes": false
+			}
+		]
+	}
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"id": 0,
+		"nameId": 93,
+		"sideId": 0
+	},
+	{
+		"id": 1,
+		"nameId": 91,
+		"sideId": 1
+	},
+	{
+		"id": 2,
+		"nameId": 94,
+		"sideId": 1
+	},
+	{
+		"id": 3,
+		"nameId": 90,
+		"sideId": 1
+	},
+	{
+		"id": 4,
+		"nameId": 89,
+		"sideId": 1
+	},
+	{
+		"id": 5,
+		"nameId": 88,
+		"sideId": 2
+	},
+	{
+		"id": 6,
+		"nameId": 95,
+		"sideId": 2
+	},
+	{
+		"id": 7,
+		"nameId": 96,
+		"sideId": 2
+	},
+	{
+		"id": 8,
+		"nameId": 92,
+		"sideId": 2
+	},
+	{
+		"id": 9,
+		"nameId": 97,
+		"sideId": 3
+	}
+]

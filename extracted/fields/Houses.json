@@ -1,0 +1,33 @@
+[
+	{
+		"memberName": "House",
+		"packageName": "com.ankamagames.dofus.datacenter.houses",
+		"fields": [
+			{
+				"name": "typeId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "defaultPrice",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "descriptionId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "gfxId",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	}
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"memberName": "AlignmentSide",
+		"packageName": "com.ankamagames.dofus.datacenter.alignments",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "canConquest",
+				"type": "Bool",
+				"vectorTypes": false
+			}
+		]
+	}
+]

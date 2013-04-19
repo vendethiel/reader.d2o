@@ -1,0 +1,18 @@
+[
+	{
+		"memberName": "TaxCollectorName",
+		"packageName": "com.ankamagames.dofus.datacenter.npcs",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			}
+		]
+	}
+]

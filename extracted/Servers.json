@@ -1,0 +1,901 @@
+[
+	{
+		"id": 1,
+		"nameId": 59728,
+		"commentId": 59729,
+		"openingDate": 1093298400000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 2,
+		"nameId": 59819,
+		"commentId": 59820,
+		"openingDate": 1125525600000,
+		"language": "en",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 1,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 3,
+		"nameId": 59834,
+		"commentId": 59835,
+		"openingDate": 1132527600000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 4,
+		"nameId": 59829,
+		"commentId": 59830,
+		"openingDate": 1140562800000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 5,
+		"nameId": 59842,
+		"commentId": 59843,
+		"openingDate": 1145916000000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 6,
+		"nameId": 59840,
+		"commentId": 59841,
+		"openingDate": 1149717600000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 7,
+		"nameId": 59821,
+		"commentId": 59822,
+		"openingDate": 1156802400000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 8,
+		"nameId": 59823,
+		"commentId": 59824,
+		"openingDate": 1159221600000,
+		"language": "en",
+		"populationId": 1,
+		"gameTypeId": 0,
+		"communityId": 1,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 9,
+		"nameId": 59825,
+		"commentId": 59826,
+		"openingDate": 1159826400000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 10,
+		"nameId": 59836,
+		"commentId": 59837,
+		"openingDate": 1165273200000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 11,
+		"nameId": 59831,
+		"commentId": 59832,
+		"openingDate": 1166482800000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 12,
+		"nameId": 59827,
+		"commentId": 59828,
+		"openingDate": 1166482800000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 13,
+		"nameId": 59721,
+		"commentId": 59722,
+		"openingDate": 1171321200000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 14,
+		"nameId": 59762,
+		"commentId": 59763,
+		"openingDate": 1175724000000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 15,
+		"nameId": 59735,
+		"commentId": 59736,
+		"openingDate": 1179784800000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 16,
+		"nameId": 59815,
+		"commentId": 59816,
+		"openingDate": 1182808800000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 17,
+		"nameId": 59799,
+		"commentId": 59800,
+		"openingDate": 1183413600000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 18,
+		"nameId": 59766,
+		"commentId": 59767,
+		"openingDate": 1192485600000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 19,
+		"nameId": 59817,
+		"commentId": 59818,
+		"openingDate": 1196722800000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 20,
+		"nameId": 59801,
+		"commentId": 59802,
+		"openingDate": 1201215600000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 21,
+		"nameId": 59851,
+		"commentId": 59852,
+		"openingDate": 1203030000000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 22,
+		"nameId": 59791,
+		"commentId": 59792,
+		"openingDate": 1222120800000,
+		"language": "en",
+		"populationId": 0,
+		"gameTypeId": 1,
+		"communityId": 2,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 23,
+		"nameId": 59714,
+		"commentId": 59715,
+		"openingDate": 1205794800000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 24,
+		"nameId": 59755,
+		"commentId": 59756,
+		"openingDate": 1208469600000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 25,
+		"nameId": 59857,
+		"commentId": 59858,
+		"openingDate": 1211839200000,
+		"language": "fr",
+		"populationId": 1,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 26,
+		"nameId": 59853,
+		"commentId": 59854,
+		"openingDate": 1223330400000,
+		"language": "fr",
+		"populationId": 1,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 27,
+		"nameId": 59789,
+		"commentId": 59790,
+		"openingDate": 1227135600000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 28,
+		"nameId": 59795,
+		"commentId": 59796,
+		"openingDate": 1230505200000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 29,
+		"nameId": 59845,
+		"commentId": 59846,
+		"openingDate": 1234479600000,
+		"language": "fr",
+		"populationId": 1,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 30,
+		"nameId": 59859,
+		"commentId": 59860,
+		"openingDate": 1236898800000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 31,
+		"nameId": 59861,
+		"commentId": 59862,
+		"openingDate": 1214258400000,
+		"language": "en",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 1,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 32,
+		"nameId": 59855,
+		"commentId": 59856,
+		"openingDate": 1259017200000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 33,
+		"nameId": 59760,
+		"commentId": 59761,
+		"openingDate": 1259103600000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 35,
+		"nameId": 59863,
+		"commentId": 59864,
+		"openingDate": 1259103600000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 36,
+		"nameId": 59865,
+		"commentId": 59866,
+		"openingDate": 1259103600000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 37,
+		"nameId": 59770,
+		"commentId": 59771,
+		"openingDate": 1259103600000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 38,
+		"nameId": 59768,
+		"commentId": 0,
+		"openingDate": 1284501600000,
+		"language": "en",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 8,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 39,
+		"nameId": 59769,
+		"commentId": 0,
+		"openingDate": 1259103600000,
+		"language": "ja",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 10,
+		"restrictedToLanguages": [
+			"ja"
+		]
+	},
+	{
+		"id": 40,
+		"nameId": 59739,
+		"commentId": 59740,
+		"openingDate": 1259103600000,
+		"language": "en",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 2,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 41,
+		"nameId": 59797,
+		"commentId": 59798,
+		"openingDate": 1259103600000,
+		"language": "en",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 1,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 99,
+		"nameId": 59751,
+		"commentId": 59752,
+		"openingDate": 1355266800000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 2,
+		"communityId": 2,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 104,
+		"nameId": 59723,
+		"commentId": 59724,
+		"openingDate": 1355266800000,
+		"language": "en",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 99,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 111,
+		"nameId": 59838,
+		"commentId": 59839,
+		"openingDate": 1157061600000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 112,
+		"nameId": 59833,
+		"commentId": 0,
+		"openingDate": 1287439200000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 118,
+		"nameId": 59780,
+		"commentId": 76343,
+		"openingDate": 1227049200000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 119,
+		"nameId": 59718,
+		"commentId": 59719,
+		"openingDate": 1214344800000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 1,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 122,
+		"nameId": 59783,
+		"commentId": 59784,
+		"openingDate": 1193176800000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 1,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 124,
+		"nameId": 59730,
+		"commentId": 59731,
+		"openingDate": 1178661600000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 126,
+		"nameId": 59734,
+		"commentId": 0,
+		"openingDate": 1234825200000,
+		"language": "fr",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 127,
+		"nameId": 59847,
+		"commentId": 59848,
+		"openingDate": 1234825200000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 1,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 670,
+		"nameId": 59737,
+		"commentId": 59738,
+		"openingDate": 1210024800000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 671,
+		"nameId": 59716,
+		"commentId": 59717,
+		"openingDate": 1245276000000,
+		"language": "ja",
+		"populationId": 0,
+		"gameTypeId": 1,
+		"communityId": 10,
+		"restrictedToLanguages": [
+			"ja"
+		]
+	},
+	{
+		"id": 672,
+		"nameId": 59727,
+		"commentId": 0,
+		"openingDate": 1252533600000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 673,
+		"nameId": 59814,
+		"commentId": 0,
+		"openingDate": 1298502000000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 900,
+		"nameId": 59747,
+		"commentId": 59748,
+		"openingDate": 1207173600000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 901,
+		"nameId": 59745,
+		"commentId": 59746,
+		"openingDate": 1355266800000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 1,
+		"communityId": 2,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 902,
+		"nameId": 59733,
+		"commentId": 114665,
+		"openingDate": 1228950000000,
+		"language": "en",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 2,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 903,
+		"nameId": 59782,
+		"commentId": 114667,
+		"openingDate": 1251324000000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 904,
+		"nameId": 59759,
+		"commentId": 114661,
+		"openingDate": 1253829600000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 905,
+		"nameId": 59781,
+		"commentId": 114663,
+		"openingDate": 1255039200000,
+		"language": "ja",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 10,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 1001,
+		"nameId": 59812,
+		"commentId": 59813,
+		"openingDate": 1175724000000,
+		"language": "en",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 1,
+		"restrictedToLanguages": [
+			"en"
+		]
+	},
+	{
+		"id": 3001,
+		"nameId": 59810,
+		"commentId": 59811,
+		"openingDate": 1184104800000,
+		"language": "de",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 3,
+		"restrictedToLanguages": [
+			"de"
+		]
+	},
+	{
+		"id": 3002,
+		"nameId": 59785,
+		"commentId": 59786,
+		"openingDate": 1259103600000,
+		"language": "de",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 3,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 4001,
+		"nameId": 59774,
+		"commentId": 59775,
+		"openingDate": 1184104800000,
+		"language": "es",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 4,
+		"restrictedToLanguages": [
+			"es"
+		]
+	},
+	{
+		"id": 4002,
+		"nameId": 59806,
+		"commentId": 59807,
+		"openingDate": 1195772400000,
+		"language": "es",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 4,
+		"restrictedToLanguages": [
+			"es"
+		]
+	},
+	{
+		"id": 4003,
+		"nameId": 59778,
+		"commentId": 59779,
+		"openingDate": 1212357600000,
+		"language": "es",
+		"populationId": 2,
+		"gameTypeId": 0,
+		"communityId": 4,
+		"restrictedToLanguages": [
+			"es"
+		]
+	},
+	{
+		"id": 4004,
+		"nameId": 59808,
+		"commentId": 59809,
+		"openingDate": 1224108000000,
+		"language": "es",
+		"populationId": 1,
+		"gameTypeId": 0,
+		"communityId": 4,
+		"restrictedToLanguages": [
+			"es"
+		]
+	},
+	{
+		"id": 4005,
+		"nameId": 59757,
+		"commentId": 59758,
+		"openingDate": 1238709600000,
+		"language": "es",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 4,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 4006,
+		"nameId": 59793,
+		"commentId": 59794,
+		"openingDate": 1259276400000,
+		"language": "es",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 4,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 4007,
+		"nameId": 59772,
+		"commentId": 59773,
+		"openingDate": 1318284000000,
+		"language": "es",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 4,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 5001,
+		"nameId": 59732,
+		"commentId": 0,
+		"openingDate": 1306274400000,
+		"language": "ru",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 5,
+		"restrictedToLanguages": [
+			"ru"
+		]
+	},
+	{
+		"id": 6001,
+		"nameId": 59776,
+		"commentId": 59777,
+		"openingDate": 1206572400000,
+		"language": "pt",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 6,
+		"restrictedToLanguages": [
+			"en",
+			"pt"
+		]
+	},
+	{
+		"id": 6002,
+		"nameId": 59849,
+		"commentId": 59850,
+		"openingDate": 1253484000000,
+		"language": "pt",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 6,
+		"restrictedToLanguages": [
+			"en",
+			"pt"
+		]
+	},
+	{
+		"id": 7001,
+		"nameId": 59787,
+		"commentId": 59788,
+		"openingDate": 1219788000000,
+		"language": "nl",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 7,
+		"restrictedToLanguages": [
+			"nl"
+		]
+	},
+	{
+		"id": 8001,
+		"nameId": 59720,
+		"commentId": 0,
+		"openingDate": 1284069600000,
+		"language": "ja",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 10,
+		"restrictedToLanguages": [
+			"ja"
+		]
+	},
+	{
+		"id": 9001,
+		"nameId": 59764,
+		"commentId": 59765,
+		"openingDate": 1212357600000,
+		"language": "it",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 9,
+		"restrictedToLanguages": [
+			"it"
+		]
+	},
+	{
+		"id": 10001,
+		"nameId": 59803,
+		"commentId": 0,
+		"openingDate": 1290985200000,
+		"language": "en",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 8,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": 57005,
+		"nameId": 59725,
+		"commentId": 59726,
+		"openingDate": 1192658400000,
+		"language": "fr",
+		"populationId": 0,
+		"gameTypeId": 1,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	},
+	{
+		"id": -1,
+		"nameId": 59741,
+		"commentId": 59742,
+		"openingDate": 1355266800000,
+		"language": "null",
+		"populationId": 0,
+		"gameTypeId": 0,
+		"communityId": 0,
+		"restrictedToLanguages": []
+	}
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"memberName": "MapCoordinates",
+		"packageName": "com.ankamagames.dofus.datacenter.world",
+		"fields": [
+			{
+				"name": "compressedCoords",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "mapIds",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<int>",
+						"type": "Int"
+					}
+				]
+			}
+		]
+	}
+]

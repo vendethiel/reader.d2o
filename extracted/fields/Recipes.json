@@ -1,0 +1,38 @@
+[
+	{
+		"memberName": "Recipe",
+		"packageName": "com.ankamagames.dofus.datacenter.jobs",
+		"fields": [
+			{
+				"name": "resultId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "resultLevel",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "ingredientIds",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<int>",
+						"type": "Int"
+					}
+				]
+			},
+			{
+				"name": "quantities",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<uint>",
+						"type": "UInt"
+					}
+				]
+			}
+		]
+	}
+]

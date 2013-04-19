@@ -1,0 +1,38 @@
+[
+	{
+		"memberName": "SpeakingItemText",
+		"packageName": "com.ankamagames.dofus.datacenter.livingObjects",
+		"fields": [
+			{
+				"name": "textId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "textProba",
+				"type": "Double",
+				"vectorTypes": false
+			},
+			{
+				"name": "textStringId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "textLevel",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "textSound",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "textRestriction",
+				"type": "String",
+				"vectorTypes": false
+			}
+		]
+	}
+]

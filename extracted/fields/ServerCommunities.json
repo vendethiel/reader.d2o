@@ -1,0 +1,33 @@
+[
+	{
+		"memberName": "ServerCommunity",
+		"packageName": "com.ankamagames.dofus.datacenter.servers",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "defaultCountries",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<String>",
+						"type": "String"
+					}
+				]
+			},
+			{
+				"name": "shortId",
+				"type": "String",
+				"vectorTypes": false
+			}
+		]
+	}
+]

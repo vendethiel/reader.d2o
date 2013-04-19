@@ -1,0 +1,33 @@
+[
+	{
+		"memberName": "SpeakingItemsTrigger",
+		"packageName": "com.ankamagames.dofus.datacenter.livingObjects",
+		"fields": [
+			{
+				"name": "triggersId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "textIds",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<int>",
+						"type": "Int"
+					}
+				]
+			},
+			{
+				"name": "states",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<int>",
+						"type": "Int"
+					}
+				]
+			}
+		]
+	}
+]

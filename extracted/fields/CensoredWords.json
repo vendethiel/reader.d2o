@@ -1,0 +1,33 @@
+[
+	{
+		"memberName": "CensoredWord",
+		"packageName": "com.ankamagames.dofus.datacenter.communication",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "listId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "language",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "word",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "deepLooking",
+				"type": "Bool",
+				"vectorTypes": false
+			}
+		]
+	}
+]

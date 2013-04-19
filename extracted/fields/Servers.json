@@ -1,0 +1,58 @@
+[
+	{
+		"memberName": "Server",
+		"packageName": "com.ankamagames.dofus.datacenter.servers",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "commentId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "openingDate",
+				"type": "Double",
+				"vectorTypes": false
+			},
+			{
+				"name": "language",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "populationId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "gameTypeId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "communityId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "restrictedToLanguages",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<String>",
+						"type": "String"
+					}
+				]
+			}
+		]
+	}
+]

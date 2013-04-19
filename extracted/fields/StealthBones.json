@@ -1,0 +1,13 @@
+[
+	{
+		"memberName": "StealthBones",
+		"packageName": "com.ankamagames.dofus.datacenter.interactives",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	}
+]

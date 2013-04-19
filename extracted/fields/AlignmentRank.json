@@ -1,0 +1,48 @@
+[
+	{
+		"memberName": "AlignmentRank",
+		"packageName": "com.ankamagames.dofus.datacenter.alignments",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "orderId",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "descriptionId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "minimumAlignment",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "objectsStolen",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "gifts",
+				"type": "List",
+				"vectorTypes": [
+					{
+						"name": "Vector.<int>",
+						"type": "Int"
+					}
+				]
+			}
+		]
+	}
+]

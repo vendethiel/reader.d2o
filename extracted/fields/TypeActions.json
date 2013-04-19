@@ -1,0 +1,23 @@
+[
+	{
+		"memberName": "TypeAction",
+		"packageName": "com.ankamagames.dofus.datacenter.misc",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "elementName",
+				"type": "String",
+				"vectorTypes": false
+			},
+			{
+				"name": "elementId",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	}
+]

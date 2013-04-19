@@ -1,0 +1,18 @@
+[
+	{
+		"memberName": "EmblemSymbolCategory",
+		"packageName": "com.ankamagames.dofus.datacenter.guild",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			}
+		]
+	}
+]

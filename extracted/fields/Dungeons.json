@@ -1,0 +1,23 @@
+[
+	{
+		"memberName": "Dungeon",
+		"packageName": "com.ankamagames.dofus.datacenter.world",
+		"fields": [
+			{
+				"name": "id",
+				"type": "Int",
+				"vectorTypes": false
+			},
+			{
+				"name": "nameId",
+				"type": "I18N",
+				"vectorTypes": false
+			},
+			{
+				"name": "optimalPlayerLevel",
+				"type": "Int",
+				"vectorTypes": false
+			}
+		]
+	}
+]
