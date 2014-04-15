@@ -84,11 +84,8 @@ i = 0
 index-table = {[buffer.read-int!, buffer.read-int!] while i < index-table-size / 8, ++i}
 
 add-vector = ->
-	it.push v = name: buffer.read-utf!, type: D2OFieldType[t = buffer.read-int!] ? t
-
-	add-vector it if v.type is 'List' #recursive
-
-	it
+	with it.push name: buffer.read-utf!, type: D2OFieldType[t = buffer.read-int!] ? t
+		add-vector it if ..[*-1].type is 'List' #recursive
 
 classes = []
 classes-size = buffer.read-int!
